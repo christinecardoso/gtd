@@ -1,0 +1,3 @@
+- dense grain on pieces of lumber for smaller width pieces is better bc it means the tree grew slower and the wood is stronger
+- Avoid getting lumber with knots on the edges, it makes the wood weak and successively to rotting. Also avoid knots where you add screwing 
+- 

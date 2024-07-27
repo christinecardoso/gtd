@@ -1,0 +1,104 @@
+Modesense 
+Lyst
+Shopstyle
+
+- [ ] Clean foreo #chores 
+- [ ] Facial ice roller 📅 2024-07-30 #buy 
+- [ ] facial massager 📅 2024-07-30 #buy
+- [ ] Dust fans 📅 2024-07-28 #chores 
+- [ ] Take out bathroom trash #chores 📅 2024-07-28 🔁 every week on Sunday 
+- [ ] Library #solofun  📅 2024-07-30 
+- [ ] Return switch at Whole Foods #errands 📅 2024-07-30 
+- [ ] wash hair 📅 2024-07-27 #personalcare 
+- [ ] Interview with Tito’s 📅 2024-07-29 #computer 
+- [ ] Tanteo interview 📅 2024-07-30 #computer 
+- [ ] How to clean stains from Dutch oven #computer 📅 2024-07-29 
+- [ ] Trim hedges on Keisha side 📅 2024-07-29 #gardening 
+- [ ] Bring bike to get tuneup 🛫 2024-07-30 #errands 
+- [ ] Clean oven 📅 2024-07-26 #chores 
+- [ ] Organize tasks by hashtag #computer 📅 2024-07-27 
+- [ ] clean dining table #chores  📅 2024-07-27 
+- [ ] add recently missed to task #computer 📅 2024-07-26 
+- [ ] pie dough #mealprep 📅 2024-07-26 
+- [ ] Orchid for tree #buy q
+- [ ] Nails 📅 2024-07-27
+- [ ] fertilizer for blooms and palms 📅 2024-07-30 
+- [ ] Plant papaya tree 📅 2024-07-30 
+- [ ] Sync tasks to GitHub 📅 2024-07-30 #computer 
+- [ ] organize calendar blocks for each tag group 📅 2024-07-31 #timemanagement #computer 
+- [x] bread sling 📅 2024-07-26 ✅ 2024-07-26
+- [ ] orchid #buy 📅 2024-07-30 #buy 
+- [ ] Look up products and compare skincare active ingredients #computer 
+- [ ] order skincare rose water spray #buy 📅 2024-07-30 
+- [ ] How to clean lecreuset pot 
+- [ ] Make starter, mix and prep the dough 🔁 every 2 days 📅 2024-07-28
+- [x] Make starter, mix and prep the dough 🔁 every 2 days 📅 2024-07-26 ✅ 2024-07-27
+- [ ] Check on propagating Plants #outside
+- [ ] Library 📅 2024-07-26 
+- [x] lunch with Lisa 📅 2024-07-26 ✅ 2024-07-26
+- [ ] Check out volleyball 📅 2024-07-29 
+- [ ] bike ride 🔁 every day 📅 2024-07-27
+- [x] bike ride 🔁 every day 📅 2024-07-26 ✅ 2024-07-27
+- [ ] beach swim 📅 2024-07-30 
+- [ ] home yoga stretches and headstand 📅 2024-07-28 🔁 every day 
+- [ ] Yoga class at crunch 📅 2024-07-30
+- [ ] salsa 📅 2024-07-30
+- [x] do Something with Stefany 📅 2024-07-26 ✅ 2024-07-27
+- [ ] do something with mom 📅 2024-07-28 
+- [ ] Zumba with mom 📅 2024-07-28 
+- [ ] farmers market 📅 2024-07-28 
+- [ ] Take a full length photo for jobs #photography 📅 2024-07-27 
+- [ ] Buy the notion creator pack 📅 2024-07-30 #computer 
+- [ ] buy the affiliate course #computer 
+- [ ] Go to Crunch after work, remember to pack bag before work  📅 2024-07-27
+- [ ] nails #personalcare
+- [ ] baby food #mealprep 
+- [ ] cuisinart #buy
+- [ ] Sewing machine #buy 
+- [ ] osmosis beauty skincare #buy #skincare
+- [x] Plant plumeria 📅 2024-07-21 ✅ 2024-07-23
+- [x] Recap 📅 2024-07-24 ✅ 2024-07-27
+- [ ] Deposit checks #phone 📅 2024-07-24 
+- [ ] tape up bleeding hearts #gardening #outside 📅 2024-07-27 
+- [x] headphones out of the truck ✅ 2024-07-23
+- [ ] Apple Watch #buy
+- [x] Mary’s birthday 📅 2024-07-16 ✅ 2024-07-23
+- [x] figure our dinner bc das is staying over 🛫 2024-07-16 ✅ 2024-07-23
+- [ ] what to do with the hall closet #research #computer 📅 2024-07-31
+- [ ] Shoulder pain release with foam roller https://youtu.be/D4jbNc6tZ_c?si=qzWZRE4E-Bv3BXcE 📅 2024-07-11 
+- [ ] start drawing out the yard on the iPad, figure out what program to use for renderings 📅 2024-07-31 #ipad
+- [ ] Research Pinched nerve pain in neck and shoulders #computer #research
+- [ ] 20,000 steps for 30 days 🔁 every day 📅 2024-07-26 
+- [ ] Fix blood flow for circulation 
+- [ ] Tension in upper traps and shoulders 
+- [ ] Watch all the foam rolling videos you saved and make a workout plan on obsidian #computer
+- [ ] Install the obsidian workout tracker plan base and check it out #computer 
+- [ ] No more impingement in shoulder 
+- [ ] Fix pinched nerve in neck
+- [x] Rit dye ✅ 2024-07-25
+- [x] pull bread ✅ 2024-07-08
+- [x] order bread baker thing 📅 2024-07-16 ✅ 2024-07-25
+- [ ] Order cuisinart 📅 2024-07-16 #buy 
+- [ ] Cancel repeat petco order #computer  📅 2024-07-16 
+- [x] Respond to Rover request 📅 2024-07-09 ✅ 2024-07-25
+- [ ] Look for other flours to use #buy #groceries 
+- [x] Pick out a dress for Thursday 📅 2024-07-10 ✅ 2024-07-15
+- [x] Plant the plants with roots ✅ 2024-07-09
+- [x] Fill out bliss paperwork 📅 2024-07-16 ✅ 2024-07-25
+- [ ] propogate plants from the hood #outside  📅 2024-07-16 
+- [ ] Apple Watch 📅 2024-09-16 
+- [ ] Herb garden companion planting #computer #outside  📅 2024-07-09 
+- [ ] Hedge trimmer #buy #homedepot
+- [x] Mango cake ✅ 2024-07-15
+- [ ] tape up  Bleeding hearts #gardening  #outside  📅 2024-07-26 
+- [ ] Trellis for pathway #landscapingplan #outside #buy x2
+- [ ] quiche #mealprep
+- [ ] doctors appointments #schedule #computer  📅 2024-08-01 
+- [x] Follow up with Keisha about doctors 📅 2024-07-12 ✅ 2024-07-15
+- [ ] laundry #chores 🔁 every day 📅 2024-07-25
+- [x] laundry 🔁 every day 📅 2024-07-24 ✅ 2024-07-25
+- [x] Boat garbage ✅ 2024-07-15
+- [x] anchor mat ✅ 2024-07-15
+- [x] Recap 📅 2024-07-16 ✅ 2024-07-23
+- [ ] Look into Salsa classes #computer #solofun 📅 2024-07-16 
+- [ ] fix mini cooper #chores  #computer   📅 2024-07-28 

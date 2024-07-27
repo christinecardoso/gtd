@@ -1,0 +1,1 @@
+- [ ] troll home depot for sales and things that can be sold on Amazon and start FBA !!! 📅 2024-07-26 

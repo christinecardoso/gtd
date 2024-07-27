@@ -1,0 +1,85 @@
+
+- [x] Fish x Foodtown? Or Sam’s club
+- [x] Moen dispenser ✅ 2024-06-15
+- [ ] Food processor 📅 2024-06-21 
+- [ ] New undies ⏬ 
+- [ ] Cake stand or plate with cloche (cover)
+- [x] Toilet bowl cleaner 📅 2024-06-17 ✅ 2024-06-18
+- [x] Oxi clean 📅 2024-07-01 ✅ 2024-07-01
+- [ ] Staud bag 📅 2024-07-25 
+- [ ] jewelry bracelet
+- [ ] Full length mirror for yoga
+- [ ] dresser
+- [ ] Milwaukee Hedge trimmer 📅 2024-07-30 
+- [ ] shein bikinis etc
+- [x] Bleach 📅 2024-07-02 ✅ 2024-07-02
+- [ ] Lavender essential oil📅 2024-07-25 
+- [ ] dishwasher safe cat water bowl 📅 2024-07-25 
+- [ ] Hair caps for bread making 📅 2024-06-20 
+- [x] Paint roller 📅 2024-06-20 ✅ 2024-06-20
+- [ ]  thrift store 📅 2024-06-20 
+- [ ] incense holder for the copal
+- [x] Matt for the cat water ✅ 2024-06-20
+- [ ] Mini tongs
+- [ ] Yeti lid 📅 2024-07-25 🔼 
+- [ ] Pan liner bread pan
+- [ ] Mini spatulas ⏬ 
+- [ ] jar spatula ⏬ 
+- [ ] Trash bin
+- [x] shower storge ✅ 2024-06-20
+- [x] Towel storage ✅ 2024-06-20
+- [ ] Shoe bench with hidden lift up storage
+- [ ] Entryway carpet 🔼 
+- [ ] Deep seat cushion for B chair in bedroom ⏬ 
+- [x] shower tod and new shower curtain ✅ 2024-07-23
+- [ ] Cable organizers
+- [ ] Shoe rack 
+- [ ] Table cloths for the outdoor chairs
+- [ ] Spray paint for the outdoor chairs 
+- [x] Dutch oven ✅ 2024-07-23
+- [ ] Paddleboard cart
+- [ ] outdoor lanterns
+- [ ] listerine 📅 2024-06-20 
+- [x] toothpaste 📅 2024-06-20 ✅ 2024-06-24
+- [x] rit dye 📅 2024-06-20 ✅ 2024-06-24
+- [ ] Bathroom faucet
+- [ ] Bike basket
+- [ ] ball pump 
+- [ ] Cologne for job start 📅 2024-07-25 
+- [ ] Cat steamer brush 📅 2024-07-24 
+- [ ] Wallet for cash 
+- [ ] Neem oil for palm tree fungus
+- [ ] fertilizer for blooms
+- [ ] wildflower seeds
+- [ ] seeds for companion planting flowers that deter bugs etc
+- [x] Hand soap ✅ 2024-06-15
+- [x] Roomba 📅 2024-06-17 ✅ 2024-06-18
+- [x] Bread pan ✅ 2024-07-23
+- [x] Bannetton ✅ 2024-06-15
+- [ ] Cuisinart
+- [x] Sherwin Williams
+- [ ] 84 lumber
+- [ ] Clever Carrot
+- [x] Order nail stuff Gabby recommended ✅ 2024-06-15
+- [x] Le Creuset ✅ 2024-07-23
+- [ ] Roller shades (living room, energy savings)
+- [ ] Order hydroviv filter 📅 2024-07-28 
+- [ ] Hat hangers
+- [ ] White shoe laces
+- [ ] Used golf clubs
+- [ ] Yeti rambler chug top and bottle sling 📅 2024-07-25
+- [ ] Drawers from Target
+- [x] Dishwasher bracket ✅ 2024-06-15
+- [x] Timer switch for outdoor light ✅ 2024-06-15
+- [ ] Plastic bag holder 📅 2024-07-24 
+- [ ] New sheets for master bedroom
+- [ ] Pitcher for blender
+- [ ] Faucet for garage bathroom 📅 2024-06-25 
+- [x] Light switch w timer for outdoor light 📅 2024-06-21 ✅ 2024-07-23
+- [ ] Roller shades
+- [x] Posture pump ✅ 2024-07-23
+- [x] Bike acera shifter ✅ 2024-07-23
+- [x] Tile sealer
+- [x] Baking soda for fridge and freezer
+- [x] Get 3/8 nap roller sleeve 
+- [x] 2.5 inch taper brush (Cheap brush for masonry $8/$10)

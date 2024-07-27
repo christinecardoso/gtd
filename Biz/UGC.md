@@ -1,0 +1,9 @@
+- [ ] Favorite houses (monetization strategy… real estate).. 
+- [ ] Favorite gardens (voiceover)
+- [ ] How to use webflow / framer etc, what are they best for?
+- [ ] Bread blog - anyone can do it
+- [ ] All the finance tips I find, and linking back to where I found it. Asking people who’s doing this strategy and if they have any more tips. Sharing the tips I found.
+- [ ] [[Affiliate marketing]] blogs
+- [ ] [[UGC action plan ]]
+- [ ] Template [[digital asset website]] 
+- [ ] 

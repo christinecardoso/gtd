@@ -1,0 +1,12 @@
+- [ ] Look into how to be successful on Fiverr
+- [ ] etsy digital products
+- [ ] courses (pascio)
+- [ ] Put up a digital marketing site for agency stuff
+- [ ] UGC
+- [ ] Start an eBay account and list promo merch 📅 2024-06-28 
+- [ ] Apply to argon agency 📅 2024-07-2
+- [ ] Create agency website 📅 2024-07-02 
+- [ ] Sign up at Public Label bA agency 📅 2024-07-04 
+- [ ] Top shelf
+- [ ] i candy 
+- [ ] 

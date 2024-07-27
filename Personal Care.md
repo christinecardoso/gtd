@@ -1,0 +1,43 @@
+- [ ] Figure out how to set recurring tasks and manage workouts and personal care goals on obsidian 📅 2024-07-28 #computer 
+- [ ] Pedicure #pm #routine  🔁 every week on Friday 📅 2024-08-02
+- [x] Pedicure 🔁 every week on Friday 📅 2024-07-26 ✅ 2024-07-27
+- [ ] Research best methods for staying hydrated 📅 2024-07-24 🔼 #computer 
+- [ ] crunch workout class 📅 2024-07-30 🔼 
+- [ ] Become a yoga instructor so you can apply when the new crunch opens 📅 2024-07-30 
+- [ ] Pilates class with Devonne 📅 2024-07-30 
+- [ ] LED face mask 📅 2024-07-28 #routine #am 
+- [ ] Stretch/cupping
+- [ ] stretch on wheel #am #routine 🔁 every day 📅 2024-07-28
+- [x] stretch on wheel #am #routine 🔁 every day 📅 2024-07-27 ✅ 2024-07-27
+- [ ] headstands #am #routine 🔁 every day 📅 2024-07-28
+- [x] headstands #am #routine 🔁 every day 📅 2024-07-27 ✅ 2024-07-27
+- [ ] yoga stretches
+- [ ] Face mask 📅 2024-07-13
+- [ ] Sit in massage chair 📅 2024-06-21 
+- [x] Laundry 🆔 n8p3rj 📅 2024-06-21 ✅ 2024-07-27
+- [ ] DIY hair color 📅 2024-06-25 
+- [ ] Call local chiropractor to schedule appointment with health insurance 📅 2024-08-01 #schedule #computer 
+- [ ] Wax lip 📅 2024-08-04
+- [ ] Piano tuning #schedule  📅 2024-08-25 
+- [ ] Practice piano on app 📅 2024-07-29 
+- [x] take vitamin 📅 2024-06-19 ✅ 2024-06-24
+- [ ] Dyson attachments #buy 📅 2024-09-20 
+- [ ] lipstick tom ford #wishlist
+- [ ] teeth whitening #schedule 
+- [ ] Fix mini cooper ⏫ 🛫 2024-08-18 #schedule 
+- [ ] Go to the library and sit in the Hammock 📅 2024-07-30 
+- [ ] go for a skateboard
+- [ ] go to the beach
+- [ ] Go to tennis class
+- [ ] Check out Healthcare 📅 2024-07-03 
+- [ ] Check plants (iris needs to get planted)
+- [ ] Practice headstands
+- [ ] Practice cartwheels
+- [ ] Laser hair removal for legs
+- [ ] Look for chiropractor locally and go get an adjustment
+- [ ] get a hormones test so you can figure out what supplements you’re missing and allergies (look into what gabby said to do)
+- [ ] Lagree 📅 2024-06-25 ⏫ 
+- [ ] Go to the Library 📅 2024-07-24 
+- [x] Make lists on obsidian for “this week” and all the other lists,” today”, “planning” etc ✅ 2024-06-20
+- [ ] Pay capital one at atm in Delray 📅 2024-06-25
+- [ ] Rit dye bikinis 📅 2024-07-02 

@@ -1,0 +1,17 @@
+- [x] Olive oil ✅ 2024-06-15
+- [x] Rit dye 📅 2024-06-20 ✅ 2024-07-23
+- [x] Meat 📅 2024-07-03
+- [ ] Liquid IV 📅 2024-07-24 
+- [x] Benadryl spray 📅 2024-06-20 ✅ 2024-06-24
+- [x] Vitamins 📅 2024-06-12 ✅ 2024-06-15
+- [x] Flour ✅ 2024-06-11
+- [x] Tums 📅 2024-06-20 ✅ 2024-07-23
+- [x] Rice flour ✅ 2024-06-11
+- [ ] Barley
+- [ ] Any other flour
+- [x] Coffee filter ✅ 2024-06-15
+- [x] Rorabeck for veggies for sardine thing ✅ 2024-06-15
+- [x] Sardines ✅ 2024-06-11
+- [x] Shredded cheese at Sam’s Club 📅 2024-06-20
+- [x] Cottonelle wet wipes 📅 2024-07-24
+- [ ] febreze packs

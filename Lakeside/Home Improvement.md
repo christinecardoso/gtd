@@ -1,0 +1,116 @@
+- [x] Medicine cabinet 📅 2024-06-17 https://www.homedepot.com/p/KOHLER-Embark-30-in-W-x-26-in-H-Rectangular-Medicine-Cabinet-with-Mirror-R33289-NA/327679758 ✅ 2024-06-1
+- [ ] Make shelf for wire bins to slide (base it on the inside design of Orestes closet shelves) #dad 📅 2024-09-30 
+- [ ] Bottom seal for garage door 📅 2024-07-30 #buy
+- [ ] Tiled Fountain in the yard. Potentially Moroccan inspired. Sevilla courtyard vibes ![[Pasted image 20240721141151.png]]
+- [ ] evaluate [[house plan]]
+- [ ] Plant the snake plants properly in the planters 📅 2024-07-03 
+- [ ] Lights scaffolding down over patio https://share.icloud.com/photos/0a1pbu1cenmt16BWALpvI-Vug 
+- [ ] does it make sense to use rest of closet rod in shower so the shower curtain stays put?
+- [ ] fix yale lock on palmway door 📅 2024-07-03 
+- [ ] Organize date ideas on a new task sheet 📅 2024-07-08 
+- [ ] figure out how to order these lists and sort the cross out to the bottom of the lists 📅 2024-07-03 
+- [ ] Small Paint roller for ceiling 📅 2024-06-20
+- [x] 7/32 masonry bit 📅 2024-06-20 ✅ 2024-06-20
+- [ ] Hedge trim clusias 📅 2024-07-03 
+- [ ] Kitchen aid bread cloche 📅 2024-07-03 
+- [ ] trash bin for under sink 📅 2024-07-03 
+- [ ] Step stool for closet
+- [ ] best way to store handbags
+- [x] New electric outlets for bedroom lamps 📅 2024-07-03 ✅ 2024-07-03
+- [x] Double switch plate for back door ✅ 2024-07-03
+- [x] Smart light switches for exterior lights, kitchen  https://www.homedepot.com/p/Commercial-Electric-15-Amp-Single-Pole-White-Smart-Light-Switch-with-Wi-Fi-and-Bluetooth-Technology-Powered-by-Hubspace-1-Pack-HPSA11CWB/320313682 📅 2024-07-03 ✅ 2024-07-03
+- [x] Light fixture for closet  Aisle 43, Bay 010 oR Aisle 42, Bay 006 https://www.homedepot.com/p/Commercial-Electric-11-in-White-Integrated-LED-Dimmable-Flush-Mount-Puff-with-Adjustable-CCT-and-RGB-at-1400-Lumens-Powered-by-Hubspace-CD44bRGBW11W/319038852 📅 2024-07-03 ✅ 2024-07-03
+- [ ] Put trones on wall 📅 2024-07-09 
+- [ ] Meat tenderizer
+- [x] Toilet attachment kit, aisle 22, bay 018, https://www.homedepot.com/p/Everbilt-1-4-in-x-3-1-2-in-Snap-Off-Design-Toilet-Bowl-To-Floor-Bolt-Set-1000055104/312258768 📅 2024-07-03 ✅ 2024-07-03
+- [ ] Crazy big floor fan for garage 📅 2024-07-08 
+- [ ] workout studio and art studio in garage 📅 2024-07-03 
+- [ ] Plastic bag holder 📅 2024-07-03 
+- [ ] Cut plants around the neighborhood 📅 2024-07-02 
+- [ ] Watering can for banana peels 📅 2024-07-03 
+- [ ] Install Dishwasher bracket 📅 2024-07-03
+- [ ] Light fixture for garage bathroom 📅 2024-07-08 
+- [ ] Barn doors for OG medicine cabinet 
+- [x] check the Yale lock on the door is WiFi or Bluetooth on Amazon order 📅 2024-07-21 ✅ 2024-07-02
+- [x] Buy lightbulbs for bathroom lights 📅 2024-06-20 ✅ 2024-06-20
+- [x] Install ceiling fan 📅 2024-07-02 ✅ 2024-07-23
+- [x] install closet bar 📅 2024-06-21 ✅ 2024-07-02
+- [x] install toilet ring 📅 2024-06-21 ✅ 2024-07-02
+- [ ] install rollerblinds 📅 2024-07-02
+- [x] Longer shower curtain 📅 2024-06-25 ✅ 2024-07-02
+- [ ] Needle nose pliers
+- [ ] find Milwaukee utility knife📅 2024-06-20 
+- [x] new shower curtain rod 23 3/8” or 21” and move it lower in brushed nickel 📅 2024-06-25 ✅ 2024-07-02
+- [x] Closet rod holders for the heavy duty rod 72 in (and two sets of end caps) 📅 2024-06-18 ✅ 2024-06-19
+- [x] Sandpaper ceiling paint in guest bath 📅 2024-06-20 ✅ 2024-06-24
+- [x] Blade for m12 saw 📅 2024-06-19 ✅ 2024-06-20
+- [x] wood glue 📅 2024-06-19 ✅ 2024-06-19
+- [ ] Paddleboard cart 📅 2024-07-25 
+- [ ] Put filter in the well 📅 2024-07-03 
+- [x] Toilet flange 📅 2024-06-18 ✅ 2024-06-19
+- [ ] Shoe rack (lifted) 📅 2024-07-26
+- [ ] Window seat shoe rack 📅 2024-07-18 
+- [ ] pot storage 📅 2024-07-25
+- [x] pot lid storage 📅 2024-06-18 ✅ 2024-06-20
+- [ ] drawer sliders 📅 2024-07-18 
+- [x] Add the fans to hubspace ✅ 2024-06-20
+- [x] access panel 📅 2024-06-19 ✅ 2024-06-19
+- [x] Print checks and deposit in bank 📅 2024-06-20 ✅ 2024-06-24
+- [x] cologne 📅 2024-06-20 ✅ 2024-06-24
+- [ ] Paint ceiling in garage bathroom 📅 2024-07-24
+- [ ] fix medicine cabinet add doors in og bathroom 📅 2024-07-28 
+- [ ] Drawers for corner kitchen cabinet 📅 2024-07-17 
+- [x] Roller shades 📅 2024-06-18 ✅ 2024-06-19
+- [ ] DIY dresser or wardrobe with pull out drawers diy built ins 
+- [ ] hooks for bicycle in garage 📅 2024-07-02
+- [ ] wardrobe for office 📅 2024-07-18 
+- [x] Roomba 📅 2024-06-17 ://www.target.com/p/irobot-roomba-combo-i5-self-emptying-robot-vacuum-38-mop/-/A-89317096#lnk=sametab ✅ 2024-06-20
+- [ ] Cabinet hutch 📅 2024-07-18 
+- [x] Toilet ring 📅 2024-06-19 ✅ 2024-06-19
+- [x] Wall anchors 📅 2024-06-17 ✅ 2024-07-02
+- [x] Put ukulele up on the wall 📅 2024-06-20 ✅ 2024-06-20
+- [ ] put shelves for coffee cups up on wall 📅 2024-07-21
+- [x] Put shelves up on bathroom wall ✅ 2024-06-20
+- [ ] outdoor chairs 📅 2024-07-09 
+- [ ] Gas bbq
+- [ ] Flickering light bulbs for the front 📅 2024-07-09 
+- [ ] tree lanterns or string lights 📅 2024-07-12
+- [ ] Glassware cabinet
+- [ ] Throw out old oil 📅 2024-06-12 
+- [ ] Put bamboo rod in lemon verbena plant 📅 2024-07-07 
+- [ ] Loook up companion planting for the herbs and stage the circle 📅 2024-07-03 
+- [x] Paint the garage bathroom 📅 2024-06-13 ✅ 2024-06-15
+- [ ] Buy neem oil 
+- [ ] Apply neem oil for palm tree fungus 📅 2024-07-09 
+- [x] Add tow hitch 📅 2024-06-13 ✅ 2024-06-15
+- [ ] Move big succulents into pots
+- [ ] Move red flowers into a pot 
+- [x] Seal bathroom floor ✅ 2024-06-15
+- [ ] Fan for bedroom
+- [ ] List all of the lamps 📅 2024-06-19
+- [ ] Add the door-sense to the other door
+- [x] Matterport ✅ 2024-06-12
+- [ ] Document the cleaning you did in ClickUp
+- [x] Medicine cabinet ✅ 2024-06-20
+- [ ] Evaluate stuff under desk
+- [ ] Evaluate stuff in closet
+- [ ] Organize closet
+- [ ] Wax lip 📅 2024-06-21
+- [ ] Look into the lights for the oak tree
+- [ ] Get a quote for the natural gas 📅 2024-06-28
+- [ ] Organize pantry shelf  🛫 📅
+- [x] Move wire bins from garage into closet ✅ 2024-06-20
+- [ ] Measure blinds (54” ??)
+- [ ] Clean B water
+- [ ] Give B a bath
+- [ ] Replace old light switches
+- [ ] Ask about vent in master bath
+- [ ] Tree lights for palmway side
+
+- [x] Pull out nails from garage bathroom
+- [x] Remind dad to bring tool for fixing the lock on the palmway door
+
+```tasks
+not done
+sort by status
+```

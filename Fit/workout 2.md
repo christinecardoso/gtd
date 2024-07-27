@@ -1,0 +1,11 @@
+- [x] Mid row 85lb x 20 x 4 ✅ 2024-06-16
+- [x] Adductor 70lb x 20 x 3 ✅ 2024-06-16
+- [ ] Abductor 70lb x 20 x 3
+- [ ] Oblique crunch 65 x 20 x 3 each side 85x 20 x 3
+- [ ] Pec fly
+- [ ] Seated dip
+- [ ] Fixed lat pull down 60lb x 20 x 3
+- [ ] Rear deltoid 20lb x 15 x 3
+- [ ] Hack squat 100lb x 15 x 4
+- [ ] Reclined Leg press 90lb x 20 x 4
+- [ ] leg curl 80 x 20 x 3

@@ -1,0 +1,4 @@
+- [ ] How to make bread
+- [ ] portugal travel guide notion template
+- [ ] travel itineraries (look at Kats and turn it into a notion template)
+- [ ]  notion (and obsidian) templates for tracking workouts 

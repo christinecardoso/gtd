@@ -1,0 +1,31 @@
+- [ ] Hard worker 
+- [ ] empathy
+- [ ] get up early
+- [ ] workout
+- [ ] adventurer
+- [ ] meanderer
+- [ ] Puts partner first
+- [ ] lukes to dance
+- [ ] likes to play sports
+- [ ] rock climbing, boating, skating, 
+- [ ] not obsessed with men’s days and thinks women ruin guy time
+- [ ] priorities quality time
+- [ ] has independent interests as well
+- [ ] takes initiative 
+- [ ] doesn’t think they’re too good for certain things
+- [ ] does things they don’t want to do sometimes 
+- [ ] Chivalrous
+- [ ] believes women can do anything
+- [ ] loving
+- [ ] meber wants to hurt their partner on purpose
+- [ ] never retaliates, doesn’t intentionally hurt people. never needs to feel like they are in control, but that they are on the same page
+- [ ] doesnt tell someone they are lying, doesn’t try to make up justifications as to their own shit behavior. Doesn’t mandate what other people can do and not follow their own instructions 
+- [ ] Eats healthy, doesn’t believe in eating garbage food. Into vitamins and holistic health options
+- [ ] is always there if the other person is hurt
+- [ ] cares about emotions 
+- [ ] Doesn’t cl people names or criticize other people in order to win an argument or justify things
+- [ ] doesnt require things they do t give. 
+- [ ] Believe in taking care of women’s and honoring woman’s feminine energy
+- [ ] doesnt believe woman is their servant
+- [ ] soesnt have an inappropriate relationship with mother 
+- [ ] Take new photos for promos 

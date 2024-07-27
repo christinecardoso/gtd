@@ -1,0 +1,2 @@
+- [ ] Pilates class or order reformer
+- [ ] Workout routine figure out how to improve based off your workout log 

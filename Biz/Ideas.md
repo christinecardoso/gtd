@@ -1,0 +1,5 @@
+- [ ] Sell prints on Facebook marketplace (ie: Florida historical map)
+- [ ] Itineraries like Kat’s on a blog
+- [ ] Vegan sushi and healthy cafe. Under the Mango x Pura Vida x Love Life Cafe in LWB
+- [ ] Illustrate children stories. Fake drawing classes and challenges in procreate on skillshare oe somewhere and use this as inspo to start drawing and come up with your own style. Film it. And create content. One for the illustrated book, one for the art.
+- [ ] sell prints online like those stores and links you found.. look at the social profiles about digitizing art. Do this across multiple art styles

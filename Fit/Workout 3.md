@@ -1,0 +1,8 @@
+- [x] Mid row 125lb x 10 x 4 ✅ 2024- 📅 2024-07-18 ✅ 2024-07-18
+- [x] Squat 90lb x 12 x 4 ✅ 2024-07-18
+- [x] Fixed lat pull-down 70lb x 12 x 4 ✅ 2024-07-18
+- [x] Deltoid fly 20lb x 15 x 4 ✅ 2024-07-18
+- [x] Back extension 60lb x 12 x 4 ✅ 2024-07-18
+- [x] Seated Dip 15 x 4 ✅ 2024-07-18
+- [x] Pec Fly On hoist machine 45lb x 15 x 4 ✅ 2024-07-18
+- [x] glute drive on nautilus machine 90lb x 8 x 4 ✅ 2024-07-18

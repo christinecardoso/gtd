@@ -1,0 +1,5 @@
+- [ ] Bread. Prepared food/bread delivery. Get on TooGoodToGo and Uber eats. Make a list of all the sourdough places across the country for your baking blog and e-commerce store. 🛫 2024-06-12
+- [ ]  Notion templates for sourdough baking
+- [ ] Be able to sit down at an exercise, choose endurance/strength/etc and then it tell you the weight reps etc. tell you after you’ve done it so many times, when to up your weight, etc. add if it was easy, difficult etc.
+- [ ] Tax strategies and case studies. Curate and Evaluate investment and tax strategies against case studies for different user personas across tax brackets, income ranges and family structure scenarios.
+- [ ]  Overcoming pain and problems is transformation periods with bring our beings to deeper ways of engagement with the universe around us. More profound understandings, healings and growth in ways we may not have perceived. You may never integrate yoga or other healthy stretching that brings us new levels of mindfulness, meditation, pleasure, unless you first experienced pain. This applies across the board to other thoughts and ideas. 
