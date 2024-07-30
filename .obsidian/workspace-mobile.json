@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Care.md",
+                "file": "Shop/Shopping.md",
                 "mode": "source",
                 "source": false
               }
@@ -446,7 +446,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personal Care.md",
+            "file": "Shop/Shopping.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -463,7 +463,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Personal Care.md",
+            "file": "Shop/Shopping.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -475,7 +475,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Personal Care.md"
+            "file": "Shop/Shopping.md"
           }
         }
       }
@@ -495,16 +495,18 @@
   },
   "active": "522e21ab4e27adbc",
   "lastOpenFiles": [
+    "*/To Schedule.md",
+    "*/Dump.md",
+    "*/This Week.md",
+    "Kitchen/Quiche.md",
+    "Kitchen/Cooking.md",
+    "Kitchen/Food ideas.md",
+    "Personal Care.md",
     "Pasted image 20240727011756.png",
     "Pasted image 20240727011507.png",
-    "Personal Care.md",
-    "Kitchen/Cooking.md",
-    "*/Dump.md",
     "Packing List.md",
-    "*/This Week.md",
     "Shop/Shopping.md",
     "Biz/Biz.md",
-    "*/To Schedule.md",
     "Amazon FBA.md",
     "Meal Planner.md",
     "Lakeside/Home Improvement.md",
@@ -523,7 +525,6 @@
     "Images",
     "Fit/Fitness.md",
     "Fit/Workout 4.md",
-    "Fit/Workout 3.md",
     "Fit",
     "Shop",
     "Lakeside",
