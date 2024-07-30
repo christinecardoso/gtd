@@ -3,6 +3,7 @@ Lyst
 Shopstyle
 
 - [ ] Clean foreo #chores 
+- [ ] Interview with Tanteo at 7pm 📅 2024-07-30 
 - [ ] Facial ice roller 📅 2024-07-30 #buy 
 - [ ] facial massager 📅 2024-07-30 #buy
 - [ ] Dust fans 📅 2024-07-28 #chores 

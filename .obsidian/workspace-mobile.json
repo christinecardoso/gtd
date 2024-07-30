@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shop/Shopping.md",
+                "file": "*/Dump.md",
                 "mode": "source",
                 "source": false
               }
@@ -446,7 +446,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Shop/Shopping.md",
+            "file": "*/Dump.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -463,7 +463,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Shop/Shopping.md",
+            "file": "*/Dump.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -475,7 +475,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Shop/Shopping.md"
+            "file": "*/Dump.md"
           }
         }
       }
@@ -495,6 +495,7 @@
   },
   "active": "522e21ab4e27adbc",
   "lastOpenFiles": [
+    "Shop/Shopping.md",
     "*/To Schedule.md",
     "*/Dump.md",
     "*/This Week.md",
@@ -505,7 +506,6 @@
     "Pasted image 20240727011756.png",
     "Pasted image 20240727011507.png",
     "Packing List.md",
-    "Shop/Shopping.md",
     "Biz/Biz.md",
     "Amazon FBA.md",
     "Meal Planner.md",
