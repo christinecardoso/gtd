@@ -11,6 +11,7 @@ sort by path
 ```tasks
 not done
 due before today
+sort by due desc
 ```
 
 ## Do Next

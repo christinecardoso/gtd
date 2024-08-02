@@ -3,6 +3,8 @@ Lyst
 Shopstyle
 
 - [ ] Clean foreo #chores 
+- [ ] best place for golf #computer #research 📅 2024-08-03 
+- [ ] golf clubs #buy 📅 2024-08-06 
 - [ ] Look into events happening this weekend 📅 2024-08-02 
 - [ ] Plan a weekend trip 📅 2024-08-02 2024-08-02 
 - [ ] Plan what dessert you’re going to bake 📅 2024-08-02 2024-08-02 
@@ -14,7 +16,6 @@ Shopstyle
 - [ ] mix two breads maybe one stuffed 📅 2024-08-02 
 - [ ] look into what other flours I can buy 📅 2024-08-02 
 - [ ] orchids 📅 2024-08-02 
-- [ ] 
 - [ ] Eye doctor appointment #schedule  #computer  📅 2024-08-02 
 - [ ] Hedge trimmer #homedepot #buy #car 📅 2024-08-02 
 - [ ] Pay cc bill at capital one in Delray 📅 2024-08-02 
@@ -80,7 +81,7 @@ Shopstyle
 - [ ] osmosis beauty skincare #buy #skincare
 - [x] Plant plumeria 📅 2024-07-21 ✅ 2024-07-23
 - [x] Recap 📅 2024-07-24 ✅ 2024-07-27
-- [ ] Deposit checks #phone 📅 2024-07-24 
+- [x] Deposit checks #phone 📅 2024-07-24 ✅ 2024-08-02
 - [ ] tape up bleeding hearts #gardening #outside 📅 2024-07-27 
 - [x] headphones out of the truck ✅ 2024-07-23
 - [ ] Apple Watch #buy
@@ -114,7 +115,6 @@ Shopstyle
 - [x] Mango cake ✅ 2024-07-15
 - [ ] tape up  Bleeding hearts #gardening  #outside  📅 2024-07-26 
 - [ ] Trellis for pathway #landscapingplan #outside #buy x2
-- [ ] quiche #mealprep
 - [ ] doctors appointments #schedule #computer  📅 2024-08-01 
 - [x] Follow up with Keisha about doctors 📅 2024-07-12 ✅ 2024-07-15
 - [ ] laundry #chores 🔁 every day 📅 2024-07-25
