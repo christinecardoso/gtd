@@ -1,5 +1,6 @@
 - [ ] Figure out how to set recurring tasks and manage workouts and personal care goals on obsidian 📅 2024-07-28 #computer 
-- [ ] Pedicure #pm #routine  🔁 every week on Friday 📅 2024-08-02
+- [ ] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-08-09
+- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-08-02 ✅ 2024-08-02
 - [x] Pedicure 🔁 every week on Friday 📅 2024-07-26 ✅ 2024-07-27
 - [ ] Research best methods for staying hydrated 📅 2024-07-24 🔼 #computer 
 - [ ] crunch workout class 📅 2024-07-30 🔼 

@@ -3,14 +3,28 @@ Lyst
 Shopstyle
 
 - [ ] Clean foreo #chores 
-- [ ] Pay cc bill at cap one I. Delray 📅 2024-08-02 
+- [ ] Look into events happening this weekend 📅 2024-08-02 
+- [ ] Plan a weekend trip 📅 2024-08-02 2024-08-02 
+- [ ] Plan what dessert you’re going to bake 📅 2024-08-02 2024-08-02 
+- [ ] Pay parking tickets 📅 2024-08-02 
+- [ ] get obsidian tasks to sync to desktop 📅 2024-08-02 
+- [ ] Laundry 📅 2024-08-02 
+- [ ] Buy groceries at Aldi #car 📅 2024-08-02 
+- [ ] Bake bread 📅 2024-08-03 
+- [ ] mix two breads maybe one stuffed 📅 2024-08-02 
+- [ ] look into what other flours I can buy 📅 2024-08-02 
+- [ ] orchids 📅 2024-08-02 
+- [ ] 
+- [ ] Eye doctor appointment #schedule  #computer  📅 2024-08-02 
+- [ ] Hedge trimmer #homedepot #buy #car 📅 2024-08-02 
+- [ ] Pay cc bill at capital one in Delray 📅 2024-08-02 
 - [ ] Carabiner clips 📅 2024-08-01 #buy 
-- [ ] Activated charcoal 📅 2024-08-01 #buy 
+- [x] Activated charcoal #buy 📅 2024-08-01 ✅ 2024-08-02
 - [ ] Peanut island video ideas #computer #ugc
-- [ ] Fill out FaceTime paperwork #computer  📅 2024-07-31 
-- [ ] Tanteo quiz 📅 2024-07-31 #computer 
+- [x] Fill out FaceTime paperwork #computer 📅 2024-07-31 ✅ 2024-08-02
+- [ ] Tanteo quiz 📅 2024-08-02 #computer 
 - [ ] Respond to Gaby and reschedule tasting from Aug 9 
-- [ ] Interview with Tanteo at 7pm 📅 2024-07-30 
+- [x] Interview with Tanteo at 7pm 📅 2024-07-30 ✅ 2024-08-02
 - [ ] Facial ice roller 📅 2024-07-30 #buy 
 - [ ] facial massager 📅 2024-07-30 #buy
 - [ ] Dust fans 📅 2024-07-28 #chores 
