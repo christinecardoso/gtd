@@ -1,9 +1,8 @@
 ```tasks
-due before today
+due after today
 path does not include Templates 
 not done
 has due date
-sort by due reverse
 sort by path
 sort by tag
 sort by status.name

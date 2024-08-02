@@ -87,7 +87,7 @@
 - [ ] Move red flowers into a pot 
 - [x] Seal bathroom floor ✅ 2024-06-15
 - [ ] Fan for bedroom
-- [ ] List all of the lamps 📅 2024-06-19
+- [ ] List all of the lamps 📅 2024-08-19
 - [ ] Add the door-sense to the other door
 - [x] Matterport ✅ 2024-06-12
 - [ ] Document the cleaning you did in ClickUp

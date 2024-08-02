@@ -3,12 +3,12 @@ Lyst
 Shopstyle
 
 - [ ] Clean foreo #chores 
-- [ ] best place for golf #computer #research 📅 2024-08-03 
+- [ ] best place for golf :researching #computer #research 📅 2024-08-03 
 - [ ] golf clubs #buy 📅 2024-08-06 
 - [ ] Look into events happening this weekend 📅 2024-08-02 
 - [ ] Plan a weekend trip 📅 2024-08-02 2024-08-02 
 - [ ] Plan what dessert you’re going to bake 📅 2024-08-02 2024-08-02 
-- [ ] Pay parking tickets 📅 2024-08-02 
+- [x] Pay parking tickets 📅 2024-08-02 ✅ 2024-08-02
 - [ ] get obsidian tasks to sync to desktop 📅 2024-08-02 
 - [ ] Laundry 📅 2024-08-02 
 - [ ] Buy groceries at Aldi #car 📅 2024-08-02 
@@ -19,24 +19,25 @@ Shopstyle
 - [ ] Eye doctor appointment #schedule  #computer  📅 2024-08-02 
 - [ ] Hedge trimmer #homedepot #buy #car 📅 2024-08-02 
 - [ ] Pay cc bill at capital one in Delray 📅 2024-08-02 
-- [ ] Carabiner clips 📅 2024-08-01 #buy 
+- [ ] Carabiner clips 📅 2024-08-02 #buy #amazon
 - [x] Activated charcoal #buy 📅 2024-08-01 ✅ 2024-08-02
 - [ ] Peanut island video ideas #computer #ugc
 - [x] Fill out FaceTime paperwork #computer 📅 2024-07-31 ✅ 2024-08-02
-- [ ] Tanteo quiz 📅 2024-08-02 #computer 
-- [ ] Respond to Gaby and reschedule tasting from Aug 9 
+- [x] Tanteo quiz #computer 📅 2024-08-02 ✅ 2024-08-02
+- [ ] Reschedule Mijenta tasting and text Gaby regarding Aug 9 date change #phone  ⏳ 2024-08-03 
 - [x] Interview with Tanteo at 7pm 📅 2024-07-30 ✅ 2024-08-02
 - [ ] Facial ice roller 📅 2024-07-30 #buy 
 - [ ] facial massager 📅 2024-07-30 #buy
-- [ ] Dust fans 📅 2024-07-28 #chores 
-- [ ] Take out bathroom trash #chores 📅 2024-07-28 🔁 every week on Sunday 
+- [ ] Dust fans 📅 2024-08-03 🔁 every week on Sunday #chores 
+- [ ] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-08-04
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-07-28 ✅ 2024-08-02
 - [ ] Library #solofun  📅 2024-07-30 
-- [ ] Return switch at Whole Foods #errands 📅 2024-07-30 
+- [ ] Return switch at Whole Foods #errands 📅 2024-08-02
 - [ ] wash hair 📅 2024-07-27 #personalcare 
 - [ ] Interview with Tito’s 📅 2024-07-29 #computer 
 - [ ] Tanteo interview 📅 2024-07-30 #computer 
 - [ ] How to clean stains from Dutch oven #computer 📅 2024-07-29 
-- [ ] Trim hedges on Keisha side 📅 2024-07-29 #gardening 
+- [ ] Trim hedges on Keisha side [[Orestes]] 📅 2024-08-03 #gardening 
 - [ ] Bring bike to get tuneup 🛫 2024-07-30 #errands 
 - [ ] Clean oven 📅 2024-07-26 #chores 
 - [ ] Organize tasks by hashtag #computer 📅 2024-07-27 
@@ -82,7 +83,7 @@ Shopstyle
 - [x] Plant plumeria 📅 2024-07-21 ✅ 2024-07-23
 - [x] Recap 📅 2024-07-24 ✅ 2024-07-27
 - [x] Deposit checks #phone 📅 2024-07-24 ✅ 2024-08-02
-- [ ] tape up bleeding hearts #gardening #outside 📅 2024-07-27 
+- [x] tape up bleeding hearts #gardening #outside 📅 2024-07-27 ✅ 2024-08-02
 - [x] headphones out of the truck ✅ 2024-07-23
 - [ ] Apple Watch #buy
 - [x] Mary’s birthday 📅 2024-07-16 ✅ 2024-07-23
@@ -101,7 +102,7 @@ Shopstyle
 - [x] Rit dye ✅ 2024-07-25
 - [x] pull bread ✅ 2024-07-08
 - [x] order bread baker thing 📅 2024-07-16 ✅ 2024-07-25
-- [ ] Order cuisinart 📅 2024-07-16 #buy 
+- [ ] Order cuisinart #buy 📅 2024-08-16
 - [ ] Cancel repeat petco order #computer  📅 2024-07-16 
 - [x] Respond to Rover request 📅 2024-07-09 ✅ 2024-07-25
 - [ ] Look for other flours to use #buy #groceries 
@@ -110,10 +111,10 @@ Shopstyle
 - [x] Fill out bliss paperwork 📅 2024-07-16 ✅ 2024-07-25
 - [ ] propogate plants from the hood #outside  📅 2024-07-16 
 - [ ] Apple Watch 📅 2024-09-16 
-- [ ] Herb garden companion planting #computer #outside  📅 2024-07-09 
+- [x] Herb garden companion planting #computer #outside  📅 2024-07-09 ✅ 2024-08-02T14:15
 - [ ] Hedge trimmer #buy #homedepot
 - [x] Mango cake ✅ 2024-07-15
-- [ ] tape up  Bleeding hearts #gardening  #outside  📅 2024-07-26 
+- [x] tape up  Bleeding hearts #gardening #outside 📅 2024-07-26 ✅ 2024-08-02
 - [ ] Trellis for pathway #landscapingplan #outside #buy x2
 - [ ] doctors appointments #schedule #computer  📅 2024-08-01 
 - [x] Follow up with Keisha about doctors 📅 2024-07-12 ✅ 2024-07-15

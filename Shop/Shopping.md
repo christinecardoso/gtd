@@ -39,7 +39,7 @@
 - [x] Dutch oven ✅ 2024-07-23
 - [ ] Paddleboard cart
 - [ ] outdoor lanterns
-- [ ] listerine 📅 2024-06-20 
+- [x] listerine  📅 2024-06-20 ✅ 2024-08-02T14:15
 - [x] toothpaste 📅 2024-06-20 ✅ 2024-06-24
 - [x] rit dye 📅 2024-06-20 ✅ 2024-06-24
 - [ ] Bathroom faucet

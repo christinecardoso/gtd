@@ -1,5 +1,5 @@
-- [ ] Cancel Skillshare
-- [ ] Cancel SellerAmp📅 2024-06-18 
+- [x] Cancel Skillshare ✅ 2024-08-02
+- [ ] Cancel SellerAmp #computer 📅 2024-08-18 
 - [ ] PayPal dispute apple subscriptions
 - [ ] Check the crunch membership (June 15)
 - [ ] Defer student loan

@@ -1,12 +1,12 @@
 - [x] Move the oregano 📅 2024-06-19 ✅ 2024-06-24
-- [ ] put the sprinklers in the places 📅 2024-06-19 
-- [ ] put the filter in the well 📅 2024-06-19 
-- [ ] Trim the hedges 📅 2024-06-19 
-- [ ] Put the banana water in the herbs 📅 2024-06-19 
-- [ ] Dig out the astragalus 📅 2024-06-25 
-- [ ] Orchids 📅 2024-06-20 
-- [ ] hanging plants 📅 2024-06-20 
-- [ ] Machete 📅 2024-07-03
+- [ ] put the sprinklers in the places [[Orestes]] 📅 2024-08-19 
+- [ ] put the filter in the well [[Dad]] [[Orestes]] 📅 2024-08-30 
+- [ ] Trim the hedges [[Orestes]] 📅 2024-08-19 
+- [x] Put the banana water in the herbs 📅 2024-06-19 ✅ 2024-08-02
+- [ ] Dig out the astragalus [[Orestes]] 📅 2024-08-25 
+- [ ] Orchids 📅 2024-08-20 
+- [ ] hanging plants 
+- [ ] Machete
 
 https://www.google.com/amp/s/thegardendiaries.blog/2020/11/20/lemon-grass-from-garden-to-kitchen/amp/
 

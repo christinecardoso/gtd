@@ -1,7 +1,8 @@
 
 ## Do Today
 ````tasks 
-due today not done 
+not done
+due today  
 sort by path
 ````
 
@@ -11,13 +12,14 @@ sort by path
 ```tasks
 not done
 due before today
-sort by due desc
+sort by due reverse
 ```
 
 ## Do Next
 ```tasks
 not done
 priority is high
+sort by due reverse
 ```
 
 ## Upcoming
