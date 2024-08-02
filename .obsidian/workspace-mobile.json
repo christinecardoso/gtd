@@ -145,6 +145,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Biz/Biz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4efc49ede8e952c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "*/Dump.md",
                 "mode": "source",
                 "source": false
@@ -380,7 +392,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -405,7 +417,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#schedule",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -493,11 +505,15 @@
       "time-ruler:Open Time Ruler": false
     }
   },
-  "active": "522e21ab4e27adbc",
+  "active": "c4efc49ede8e952c",
   "lastOpenFiles": [
+    "Packing List.md",
+    "*/Dump.md",
+    "Date Ideas.md",
+    "Biz/Biz.md",
+    "Job Seach.md",
     "Shop/Shopping.md",
     "*/To Schedule.md",
-    "*/Dump.md",
     "*/This Week.md",
     "Kitchen/Quiche.md",
     "Kitchen/Cooking.md",
@@ -505,8 +521,6 @@
     "Personal Care.md",
     "Pasted image 20240727011756.png",
     "Pasted image 20240727011507.png",
-    "Packing List.md",
-    "Biz/Biz.md",
     "Amazon FBA.md",
     "Meal Planner.md",
     "Lakeside/Home Improvement.md",
@@ -523,8 +537,6 @@
     "Shop/Shopping Groceries.md",
     "Images/Pasted image 20240721141151.png",
     "Images",
-    "Fit/Fitness.md",
-    "Fit/Workout 4.md",
     "Fit",
     "Shop",
     "Lakeside",

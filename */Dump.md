@@ -3,6 +3,13 @@ Lyst
 Shopstyle
 
 - [ ] Clean foreo #chores 
+- [ ] Pay cc bill at cap one I. Delray 📅 2024-08-02 
+- [ ] Carabiner clips 📅 2024-08-01 #buy 
+- [ ] Activated charcoal 📅 2024-08-01 #buy 
+- [ ] Peanut island video ideas #computer #ugc
+- [ ] Fill out FaceTime paperwork #computer  📅 2024-07-31 
+- [ ] Tanteo quiz 📅 2024-07-31 #computer 
+- [ ] Respond to Gaby and reschedule tasting from Aug 9 
 - [ ] Interview with Tanteo at 7pm 📅 2024-07-30 
 - [ ] Facial ice roller 📅 2024-07-30 #buy 
 - [ ] facial massager 📅 2024-07-30 #buy
