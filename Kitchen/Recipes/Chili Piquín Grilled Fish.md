@@ -1,0 +1,2 @@
+
+- **[[Spiced Fish]]:** Rub fillets of fish like tilapia, snapper, or cod with a mixture of chili piquín, lime zest, and olive oil. Grill or pan-sear until flaky, and serve with a fresh cucumber salad or corn salsa

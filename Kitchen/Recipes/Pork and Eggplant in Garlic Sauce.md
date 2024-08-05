@@ -1,0 +1,1 @@
+**How:** Cook ground pork with eggplant, garlic, soy sauce, and a bit of sugar. This dish pairs well with steamed rice.

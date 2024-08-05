@@ -1,0 +1,1 @@
+- **Spiced Soup:** Sauté onions, garlic, and chipotle peppers, then add black beans, broth, and spices. Simmer until flavors meld, then puree partially for a creamy texture.

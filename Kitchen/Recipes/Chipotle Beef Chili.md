@@ -1,0 +1,1 @@
+- **Hearty Chili:** Cook ground beef with onions, garlic, and a combination of chipotle peppers, tomatoes, beans, and spices. Simmer until thick and serve with cornbread or over rice.

@@ -1,0 +1,1 @@
+- **Smoky Marinade:** Marinate a whole chicken or chicken parts in a mixture of chipotle, lime juice, olive oil, and garlic. Roast until crispy and serve with roasted vegetables or a salad.

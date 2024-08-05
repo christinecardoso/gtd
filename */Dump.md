@@ -3,6 +3,14 @@ Lyst
 Shopstyle
 
 - [ ] Clean foreo #chores 
+- [ ] sierra madre #lunch 📅 2024-08-03 
+- [ ] order ingredients for pho #buy 📅 2024-08-04 
+- [ ] face wash #buy 📅 2024-08-03 
+- [ ] shein  📅 2024-08-05 
+- [ ] find the roomba [[Orestes]] 📅 2024-08-03 
+- [ ] #date Brunch with [[Orestes]] at Taste of India 📅 2024-08-04 
+- [ ] #solofun Dance class with Andrea 📅 2024-08-04 
+- [ ] #date #research Dim sum brunch 📅 2024-08-18 
 - [ ] best place for golf :researching #computer #research 📅 2024-08-03 
 - [ ] golf clubs #buy 📅 2024-08-06 
 - [ ] Look into events happening this weekend 📅 2024-08-02 
@@ -12,7 +20,7 @@ Shopstyle
 - [ ] get obsidian tasks to sync to desktop 📅 2024-08-02 
 - [ ] Laundry 📅 2024-08-02 
 - [ ] Buy groceries at Aldi #car 📅 2024-08-02 
-- [ ] Bake bread 📅 2024-08-03 
+- [x] Bake bread 📅 2024-08-03 ✅ 2024-08-03
 - [ ] mix two breads maybe one stuffed 📅 2024-08-02 
 - [ ] look into what other flours I can buy 📅 2024-08-02 
 - [ ] orchids 📅 2024-08-02 
@@ -37,7 +45,7 @@ Shopstyle
 - [ ] Interview with Tito’s 📅 2024-07-29 #computer 
 - [ ] Tanteo interview 📅 2024-07-30 #computer 
 - [ ] How to clean stains from Dutch oven #computer 📅 2024-07-29 
-- [ ] Trim hedges on Keisha side [[Orestes]] 📅 2024-08-03 #gardening 
+- [ ] Trim hedges on Keisha side [[Orestes]] #gardening 📅 2024-08-04
 - [ ] Bring bike to get tuneup 🛫 2024-07-30 #errands 
 - [ ] Clean oven 📅 2024-07-26 #chores 
 - [ ] Organize tasks by hashtag #computer 📅 2024-07-27 
