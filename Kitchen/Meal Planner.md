@@ -21,6 +21,7 @@
 - [ ] [[Chipotle Roasted Chicken]]
 - [ ] [[Pierogis]]
 - [ ] [[Borscht]]
+- [ ] [[Tikka Masala]]
 
 
 - [ ] Buy avocados 📅 2024-08-03 🆔 ly7tgo
