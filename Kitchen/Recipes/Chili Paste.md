@@ -1,4 +1,7 @@
-Yes, you can use crushed chili peppers from a spice container to make pho chili paste. Crushed chili peppers are typically made from dried red chilies, and they can provide the heat and flavor needed for the paste. Here's how you can use them:
+#sauce #marinade
+
+Yes, you can use crushed chili peppers from a spice container to make pho chili paste. Crushed chili peppers are typically made from dried red chilies, and they can provide the heat and flavor needed for the paste. 
+Here's how you can use them:
 
 ### Ingredients:
 - 1/4 cup crushed chili peppers
