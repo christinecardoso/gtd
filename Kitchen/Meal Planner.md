@@ -19,6 +19,8 @@
 - [ ] [[Chipotle Beef Chili]]
 - [ ] [[Chipotle Black Bean Soup]]
 - [ ] [[Chipotle Roasted Chicken]]
+- [ ] [[Pierogis]]
+- [ ] [[Borscht]]
 
 
 - [ ] Buy avocados 📅 2024-08-03 🆔 ly7tgo
