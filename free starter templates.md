@@ -5,6 +5,7 @@ Examples:
 	- https://github.com/dsaunders88/ds-blog-lume
 	- https://github.com/lumeland/base-blog
 	- https://github.com/lumeland/theme-simple-blog
+	- https://codeberg.org/stefanfrede/frede-dev
 - Astro
 	- https://astrowind.vercel.app/
 	- https://github.com/onwidget/astrowind
