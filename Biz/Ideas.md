@@ -4,3 +4,7 @@
 - [ ] Illustrate children stories. Fake drawing classes and challenges in procreate on skillshare oe somewhere and use this as inspo to start drawing and come up with your own style. Film it. And create content. One for the illustrated book, one for the art.
 - [ ] sell prints online like those stores and links you found.. look at the social profiles about digitizing art. Do this across multiple art styles
 - [ ] Create [[free starter templates]] for each of the Jamstack sites and add it to "Projects" list on my own blog. 
+- [ ] Network and connect with local artist, new restaurants, influencers, bloggers, creators, write articles about them on a blog. This helps you network, create a name and establish yourself. People may want to hire you for something by getting yourself out there and doing this for free. Documentary style concept. Take a niche. https://olivergrand.com/
+- [ ] [[Tell Stories]] ()
+- [ ] [[Vibrant food scene]]
+- [ ] [[Photography fine art e-commerce store]] https://houseofspoils.com/

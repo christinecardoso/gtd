@@ -1,0 +1,1 @@
+- **Now:** There is a vibrant food scene that includes farm-to-table restaurants, international cuisines, and health-conscious dining options. Food trucks, pop-up eateries, and organic markets reflect the changing tastes and values of modern residents.

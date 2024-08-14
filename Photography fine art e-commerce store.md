@@ -1,0 +1,2 @@
+## Competitors
+- https://houseofspoils.com/
