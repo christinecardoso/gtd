@@ -1,0 +1,11 @@
+- [ ] Lifestyle brand photography
+- [ ] Portraits for Realtors, Dancers, Personal branding, etc. On Site, Lifestyle vs traditional
+- [ ] Real estate photography
+- [ ] Family, Engagement, Baby portraits (mini sessions), weddings, sunset, beach, museum (instagram style)
+- [ ] Product photography (branding photography)
+- [ ] E-commerce Photography
+- [ ] Colorful Lifestyle Branding Photography
+- [ ] Food photography
+- [ ] Product photography
+- [ ] Jewelry photography
+- [ ] kids, family, weddings, life events
