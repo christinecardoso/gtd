@@ -11,3 +11,5 @@
 - [ ] Smoothie balls (https://thebombco.com/)
 - [ ] [[Photography]]
 - [ ] looking for someone who wants to produce a course together, i would direct and execute it, they would model and be the brand??
+- [ ] fitness events (nikkidelucafitness events)
+- [ ] pilates instructor
