@@ -14,3 +14,5 @@
 - [ ] fitness events (nikkidelucafitness events)
 - [ ] pilates instructor
 - [ ] email drip flow sequences
+- [ ] [[Bread website]] like domaselocom.com 
+- [ ] Go through https://www.starchefs.com/ and make an SEO blog for restaurants and places to eat around the world like eater.com

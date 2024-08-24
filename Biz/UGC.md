@@ -6,4 +6,4 @@
 - [ ] [[Affiliate marketing]] blogs
 - [ ] [[UGC action plan ]]
 - [ ] Template [[digital asset website]] 
-- [ ] 
+- [ ] Go through https://www.starchefs.com/ and look for featured dishes for recipe inspiration for food UGC
