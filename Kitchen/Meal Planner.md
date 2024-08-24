@@ -25,6 +25,11 @@
 - [x] Make breadcrumbs 📅 2024-08-05
 - [ ] [[Classic Chicken Parmesan]]
 - [ ] [[Papa Rellena]]
+- [ ] Bagels 📅 2024-08-12 
+- [ ] Blueberry pie (can we add ricotta?)
+- [ ] Ricotta dessert 📅 2024-08-09 
+- [ ] Ricotta cake 
+
 
 
 ## Groceries List to Buy

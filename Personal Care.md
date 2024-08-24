@@ -19,7 +19,7 @@
 - [ ] DIY hair color 📅 2024-06-25 
 - [ ] Call local chiropractor to schedule appointment with health insurance 📅 2024-08-01 #schedule #computer 
 - [ ] Wax lip 📅 2024-08-04
-- [ ] Piano tuning #schedule  📅 2024-08-25 
+- [ ] Follow up and schedule Piano tuning #schedule  📅 2024-08-26 
 - [ ] Practice piano on app 📅 2024-07-29 
 - [x] take vitamin 📅 2024-06-19 ✅ 2024-06-24
 - [ ] Dyson attachments #buy 📅 2024-09-20 

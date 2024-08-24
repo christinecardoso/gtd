@@ -3,7 +3,7 @@ Lyst
 Shopstyle
 
 - [ ] Clean foreo #chores 
-- [ ] sierra madre #lunch 📅 2024-08-03 
+- [ ] sierra madre #lunch 📅 2024-08-26 
 - [ ] order ingredients for pho #buy 📅 2024-08-04 
 - [ ] face wash #buy 📅 2024-08-03 
 - [ ] shein  📅 2024-08-05 
