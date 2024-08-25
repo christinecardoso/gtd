@@ -2,6 +2,11 @@ Modesense
 Lyst
 Shopstyle
 
+
+- [ ] #buy chopsticks and Asian soup spoons
+- [ ] #buy Sheets organized bins 
+- [ ] #buy Make Kimchi get mason jar fermentation lids for wide mouth containers
+- [ ] Check out your saved instagram eats and baked lists and come up with meals that you will be making… also make UGC videos for all of these
 - [ ] Clean foreo #chores 
 - [ ] sierra madre #lunch 📅 2024-08-26 
 - [ ] order ingredients for pho #buy 📅 2024-08-04 
