@@ -3,14 +3,43 @@ Lyst
 Shopstyle
 Test
 
+Peppercorn
+Cumin seed
+Kefir lime zest 
+Shallots
+Red and green Thai chili plant 
+Lime zest
+Coconut milk 
 
 - [ ] #buy chopsticks and Asian soup spoons
+- [ ] Salty donuts with Lisa 📅 2024-08-27 
+- [ ] pool with Stefany 📅 2024-08-27 
+- [ ] Trader Joe’s for dumplings 📅 2024-08-27 
+- [ ] Frozen fish (Tuna)
+- [ ] bjs and Costco for ready made snacks (sausage, flautas)
+- [ ] Pierogis 📅 2024-08-27 
+- [ ] libraey 📅 2024-08-27 
+- [ ] Paddleboarding 📅 2024-08-27
+- [ ] look up tennis and Pilates classes 📅 2024-08-27 
+- [ ] Pilates with Devonne 📅 2024-09-15
+- [ ] Respond to tarot girl 📅 2024-08-27 
+- [ ] M&G training Tuesday and Wednesday nights 📅 2024-08-27 
 - [ ] #buy Sheets organized bins 
 - [ ] #buy Make Kimchi get mason jar fermentation lids for wide mouth containers
+- [ ] Havana portrait #computer  📅 2024-08-26 
+- [ ] sit on the bay beach with a book #solofun 📅 2024-08-27 
+- [ ] Create weekly meal plan and UGC video schedule for meals #computer  📅 2024-08-25 
+- [ ] What are things that people plan and organize, for example workout schedule, self care schedule, content calendars, social calendar, things to do around you, bucket lists of places they want to eat and try, sports dance jewelry making classes, grocery shopping, weekly schedule setting etc 
+- [ ] Create the schedule of all the self care stuff and continually blog about new things to add or dupes or products 📅 2024-08-26 
+- [ ] Networking… help connect people with mentors in different areas. Who is the best at yoga, hand stands, Pilates, tech stuff, web stuff. Referrals basically.
+- [ ] Valenca or Ancora portrait for livingroom #computer  📅 2024-08-26 
+- [ ] Print photo of drone photo or beach vista of Ancora and look for frame #computer 📅 2024-08-26 
+- [ ] Plan outfit for Tito’s job #computer 📅 2024-08-26 
 - [ ] Check out your saved instagram eats and baked lists and come up with meals that you will be making… also make UGC videos for all of these
 - [ ] Clean foreo #chores 
 - [ ] sierra madre #lunch 📅 2024-08-26 
 - [ ] order ingredients for pho #buy 📅 2024-08-04 
+- [ ] Indian brunch buffet 📅 2024-09-01 
 - [ ] face wash #buy 📅 2024-08-03 
 - [ ] shein  📅 2024-08-05 
 - [ ] find the roomba [[Orestes]] 📅 2024-08-03 
@@ -19,21 +48,25 @@ Test
 - [ ] #date #research Dim sum brunch 📅 2024-08-18 
 - [ ] best place for golf :researching #computer #research 📅 2024-08-03 
 - [ ] golf clubs #buy 📅 2024-08-06 
-- [ ] Look into events happening this weekend 📅 2024-08-02 
-- [ ] Plan a weekend trip 📅 2024-08-02 2024-08-02 
-- [ ] Plan what dessert you’re going to bake 📅 2024-08-02 2024-08-02 
+- [ ] Look into events happening this weekend 📅 2024-08-28 
+- [ ] Plan a weekend trip 📅 2024-08-26 2024-08-02 
+- [ ] Keys weekend 📅 2024-08-27 
+- [ ] hiking weekend 
+- [ ] hot springs weekend
+- [ ] Plan what dessert you’re going to bake 📅 2024-08-26  
 - [x] Pay parking tickets 📅 2024-08-02 ✅ 2024-08-02
 - [ ] get obsidian tasks to sync to desktop 📅 2024-08-02 
 - [ ] Laundry 📅 2024-08-02 
 - [ ] Buy groceries at Aldi #car 📅 2024-08-02 
 - [x] Bake bread 📅 2024-08-03 ✅ 2024-08-03
-- [ ] mix two breads maybe one stuffed 📅 2024-08-02 
+- [ ] mix two breads maybe one stuffed 📅 2024-08-28 
+- [ ] Tape up the oven Door 📅 2024-08-26 
 - [ ] look into what other flours I can buy 📅 2024-08-02 
-- [ ] orchids 📅 2024-08-02 
-- [ ] Eye doctor appointment #schedule  #computer  📅 2024-08-02 
-- [ ] Hedge trimmer #homedepot #buy #car 📅 2024-08-02 
-- [ ] Pay cc bill at capital one in Delray 📅 2024-08-02 
-- [ ] Carabiner clips 📅 2024-08-02 #buy #amazon
+- [ ] orchids 📅 2024-08-30 
+- [ ] Eye doctor appointment #schedule  #computer  📅 2024-08-26 
+- [x] Hedge trimmer #homedepot #buy #car 📅 2024-08-02 ✅ 2024-08-19
+- [ ] Pay cc bill at capital one in Delray 📅 2024-08-27 
+- [ ] Carabiner clips 📅 2024-08-30 #buy #amazon
 - [x] Activated charcoal #buy 📅 2024-08-01 ✅ 2024-08-02
 - [ ] Peanut island video ideas #computer #ugc
 - [x] Fill out FaceTime paperwork #computer 📅 2024-07-31 ✅ 2024-08-02
