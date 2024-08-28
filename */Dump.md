@@ -11,6 +11,26 @@ Red and green Thai chili plant
 Lime zest
 Coconut milk 
 
+- [ ] How to propagate the coconuts📅 2024-08-28 
+- [ ] Add Scannell jobs to the spreadsheet 📅 2024-08-28 
+- [ ] Figure out when to go paddle boarding 📅 2024-08-28 
+- [ ] Start posting and creating UGC videos (danaberez and good ones like bromabakery) extra $30k !!!!
+- [ ] photo studio — find ppl to take photos (Kevin’s family)
+- [ ] Pilates classes!!
+- [ ] tennis clinic!!!
+- [ ] Driving range
+- [ ] wrute doen date ideas blog 📅 2024-08-28 
+- [ ] salsa classes 📅 2024-08-29 
+- [ ] Buy the herb plants
+- [ ] order fertilizer for herbs
+- [ ] what to do w crawling mint
+- [ ] UGC for plants and gardening??? What could that be??
+- [ ] bbq outside ugc
+- [ ] Apply for event marketing jobs like creative state, digital marketing companies and event marketing companies, what other remote jobs?? Creative director, creative strategist, look for spirits and beverage industry jobs, events manager , brand strategist, solution architect
+- [ ] Need to start running and working out!!!!!! You are getting chunky!!!
+- [ ] do pascio !!!
+- [ ] Find the social girls class about getting jobs on upwork!!! 
+
 - [ ] #buy chopsticks and Asian soup spoons
 - [ ] Salty donuts with Lisa 📅 2024-08-27 
 - [ ] pool with Stefany 📅 2024-08-27 
