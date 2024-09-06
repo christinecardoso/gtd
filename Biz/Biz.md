@@ -6,3 +6,5 @@
 - [ ] Social media managwr
 - [ ] Web manager 
 - [ ] Date ideas
+- [ ] Brand strategy sessions https://bebrandspankingyou.com/templates/strategy-sessions
+- [ ] Free notion template for website planning 

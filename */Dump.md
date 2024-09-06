@@ -3,6 +3,7 @@ Lyst
 Shopstyle
 Test
 
+
 Peppercorn
 Cumin seed
 Kefir lime zest 
@@ -10,8 +11,13 @@ Shallots
 Red and green Thai chili plant 
 Lime zest
 Coconut milk 
+Beach parking, solar, lights, bike, bell, kimchee, fermenting toppers for the ball jars, bike basket, outdoor shower
+Put together president, research blog
+Business plan 
+Prop up the frangipani in the backyard
+Cut the roller shade at my parents house
 
-- [ ] How to propagate the coconuts📅 2024-08-28 
+- [x] How to propagate the coconuts 📅 2024-08-28 ✅ 2024-08-28
 - [ ] Add Scannell jobs to the spreadsheet 📅 2024-08-28 
 - [ ] Figure out when to go paddle boarding 📅 2024-08-28 
 - [ ] Start posting and creating UGC videos (danaberez and good ones like bromabakery) extra $30k !!!!
