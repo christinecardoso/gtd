@@ -1,3 +1,13 @@
+
+Golf , pastries, Pilates, inner tube, museum, salsa class at 1 PM, paddle board, sunset, wine on the beach, sunrise, walk on the beach, yoga, follow up with (tennis), snorkeling, paddleboard, go to the beach, Indian buffet, tennis class, buy orchids at Publix 
+
+Watch YouTube video on becoming fitness instructor (like Nikki DeLucca, memorize routine from Obe fitness like Pauline said!!)
+
+Joy noodles, DM printing, palm, beach meats, Pilates, one studio, the blue door, ice cream, live music, aunt bamboo room, or anywhere in West palm that has live music, la Serena restaurant, restaurant in downtown Palm Beach, driving range 
+
+Strese from Doris, Don Ramon has live music, Wattana, hai, go to the Cuban Ventana, and got Papa rellena
+
+
 - [ ] Tennis
 - [ ] paddleboard
 - [ ] opera
