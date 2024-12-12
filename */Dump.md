@@ -1,24 +1,223 @@
+
+- [x] pecorino ✅ 2024-12-03
+- [x] Clams ✅ 2024-12-01
+- [x] churrasco ✅ 2024-12-03
+- [ ] pancetta
+- [x] salad stuff ✅ 2024-12-01
+- [x] Chimichuri ✅ 2024-12-01
+- [x] cilantro ✅ 2024-12-01
+- [x] parsley ✅ 2024-12-01
+- [x] White onion ✅ 2024-12-01
+- [x] Tomatoes ✅ 2024-12-01
+- [ ] Read book
+- [ ] charger
+- [ ] put hammock up 
+- [ ] put two new jobs in spreadsheet 
+- [ ] Classpass
+- [ ] resume
+- [ ] charger
+- [ ] cheistmas tree
+- [ ] cure girlie pitbull thing
+- [ ] Clam brush 
+- [ ] Bike
+- [ ] face atufff
+- [ ] qater filter r
+- [ ] Xmas lights 
+- [ ] Driving range
+- [ ] Recap
+- [ ] windows
+- [ ] Dog collar
+- [ ] Color spotlight 
+- [ ] deoderant 
+- [ ] Antibiotics 
+- [ ] Recycling bin holder 
+
+
+Look for art classes at the college
+
 Modesense 
 Lyst
 Shopstyle
-Test
+Bath
+Resume
+Car wash
+Tirebike tires
+Honeycomb dividers
+- Cancel job on 11/30 for Christmas tree with Roy’s friend (????)
+
+- [ ] classpass checkout sculpt pricing
+- [ ] recap 
+- [ ] Price match apple headphones ($153 at target)
+- [ ] Black Friday bread flour sifter 
+- [ ] Bread baking dish 
+- [ ] Fix the bicycle
+- [ ] Apple Watch
+- [ ] Liquid IV
+- [ ] Frilly socks
+- [ ] grippy socks for pilates 
+- [ ] Dog toy
+
+Dog adopt me collar
+
+Dermatologist on Zocdoc 
+Silicone seal lids 
+Eye doctor
+Classpass
+Geico
+
+Shaka Wear
+
+- [ ] Ginger
+- [x] Onions ✅ 2024-11-26
+- [x] head and shoulders ✅ 2024-11-26
+- [x] Treats ✅ 2024-11-26
+- [x] eggs ✅ 2024-11-26
+- [ ] Chopsticks
 
 
-Peppercorn
-Cumin seed
-Kefir lime zest 
-Shallots
-Red and green Thai chili plant 
-Lime zest
-Coconut milk 
-Beach parking, solar, lights, bike, bell, kimchee, fermenting toppers for the ball jars, bike basket, outdoor shower
-Put together president, research blog
-Business plan 
-Prop up the frangipani in the backyard
-Cut the roller shade at my parents house
 
+
+
+- [ ] fertilizer for grass #buy
+- [ ] Dior sauvage similar for Orestes 
+- [ ] Apple Watch series 2 difference. 
+- [ ] Magnetic phone holder #buy
+- [ ] Get a bike for Orestes #buy 📅 2024-11-26 
+- [ ] Look at the windows estimate 📅 2024-11-26 
+- [ ] Look into signing up for the Soccer ref license  📅 2024-12-02 
+- [ ] Landscaping container for sprinklers #buy 📅 2024-01-10 
+- [ ] makeup reup #buy
+- [ ] Black pepper #buy 
+- [x] Prescription pickup #buy 📅 2024-11-25 ✅ 2024-11-25
+- [ ] Water filter for fridge 📅 2024-11-25 #buy
+- [ ] Pick up dog at shelter 📅 2024-11-26 
+- [x] Recap 📅 2024-11-21 ✅ 2024-11-25
+- [x] respond to Cantera Negra guy 📅 2024-11-21 ✅ 2024-11-24
+- [x] Matcha #buy ✅ 2024-11-25
+- [ ] car wash 📅 2024-11-25
+- [ ] insurance 📅 2024-11-25 
+- [ ] sign up for Thursday JetSet Pilates
+- [ ] resume for pilates 📅 2024-11-25 
+- [ ] Mini tires
+- [x] Vitamins ✅ 2024-11-25
+- [x] cafe filters and cleaner ✅ 2024-11-25
+- [x] Matcha ✅ 2024-11-25
+- [x] food prep for tomorrow 📅 2024-11-21 ✅ 2024-11-25
+- [ ] Schedule breast exam 
+- [x] Coffee filters #buy ✅ 2024-11-20
+- [ ] Boca Babes create your Portal for log in 
+- [ ] christmas lights 
+- [ ] Dollar store Christmas decorations 
+- [x] Matcha blender tool #buy ✅ 2024-11-20
+- [x] Avocado #buy ✅ 2024-11-25
+- [ ] Eggs #buy
+- [ ] Run
+- [ ] Rorabeck 📅 2024-11-25 
+- [ ] yoga
+- [ ] classpass
+- [ ] Neem oil for mold around palm trees?
+- [ ] Razor for shaving #buy
+- [x] make list for gyno ✅ 2024-11-25
+- [ ] Zovodoc schedule doctors appoints
+- [x] Vitamins #buy ✅ 2024-11-25
+
+Home & Security
+• Locate physical key and passport
+• Put the Yale lock box in the car
+• Find physical Yale keys and keep in a safe place
+• Unlock one window (possibly the garage or bathroom) as a backup entry
+
+Outdoor & Garden
+
+  
+
+• Prop up the frangipani in the backyard
+
+• Cut the roller shade at parents’ house
+
+• Set up bike gear: solar lights, bell, basket, etc.
+
+• Plan and install outdoor shower
+
+• Arrange beach parking essentials (e.g., passes or equipment)
+
+  
+
+Personal Organization & Tasks
+
+  
+
+• Find and secure cash
+
+• Research blog ideas and structure
+
+• Outline a business plan
+
+• Gather materials to put together presidential presentation
+
+  
+
+This setup ensures each category is easy to focus on individually while covering all items on the list. Let me know if you’d like to add more detail to any section!
+
+Health & Wellness
+• Schedule doctor’s appointments
+• Go to tennis class / Practice hitting tennis ball on the wall
+• Tennis gear: restring racket, replace grips
+• Attend Pilates classes
+• Workout regularly
+• Plan and attend dance and salsa classes
+• Research workout classes like JetSet
+• Try library sewing classes
+• Explore art and creative classes
+• Plan out walking trails 
+
+Home & Garden
+• Get a container for flour
+• Purchase fertilizer
+• Buy flower seeds for planting
+• Set up and maintain the greenhouse 
+
+Pet & Foster Care
+• Research foster dog care
+• Regular walks and activities with dogs
+
+Personal Projects & Interests
+• Research tennis wall exercises and racquet practice
+• Read (list books)
+• Plan tennis and driving range sessions
+• Run (add locations or routes)
+• Explore pumpkin snickerdoodle recipe
+ 
+
+Tech & Essentials
+• Check Geico for insurance updates
+• Order on Amazon: ball pump, double-sided tape, etc.
+• Inflate car and bike tires
+• Apple devices: AirPods, Apple Watch
+  
+
+Social & Recreation
+• Plan brunch with Devon
+• Organize a trip to the library, botanic garden, or museum (jobs/activities)
+• Research volleyball meet-ups
+• Look into golf clubs and plan time for driving range practice
+• Plan salsa classes and other creative social outings
+
+Travel & Outdoor
+• Map out kayak launches and paddleboard spots
+• Plan walking trails and hiking routes
+
+
+Shopping & Essentials
+• Credit card signup
+• Order items needed: car mirrors, tennis stuff, flower seeds, etc.
+
+Career & Opportunities
+• Explore potential job openings at the library, botanic garden, or museum
+• Email JetSet about job opportunities
+
+  
 - [x] How to propagate the coconuts 📅 2024-08-28 ✅ 2024-08-28
-- [ ] Add Scannell jobs to the spreadsheet 📅 2024-08-28 
 - [ ] Figure out when to go paddle boarding 📅 2024-08-28 
 - [ ] Start posting and creating UGC videos (danaberez and good ones like bromabakery) extra $30k !!!!
 - [ ] photo studio — find ppl to take photos (Kevin’s family)
@@ -28,7 +227,7 @@ Cut the roller shade at my parents house
 - [ ] wrute doen date ideas blog 📅 2024-08-28 
 - [ ] salsa classes 📅 2024-08-29 
 - [ ] Buy the herb plants
-- [ ] order fertilizer for herbs
+- [x] order fertilizer for herbs ✅ 2024-11-25
 - [ ] what to do w crawling mint
 - [ ] UGC for plants and gardening??? What could that be??
 - [ ] bbq outside ugc
@@ -104,20 +303,20 @@ Cut the roller shade at my parents house
 - [ ] Dust fans 📅 2024-08-03 🔁 every week on Sunday #chores 
 - [ ] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-08-04
 - [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-07-28 ✅ 2024-08-02
-- [ ] Library #solofun  📅 2024-07-30 
-- [ ] Return switch at Whole Foods #errands 📅 2024-08-02
-- [ ] wash hair 📅 2024-07-27 #personalcare 
-- [ ] Interview with Tito’s 📅 2024-07-29 #computer 
-- [ ] Tanteo interview 📅 2024-07-30 #computer 
+- [x] Library #solofun 📅 2024-07-30 ✅ 2024-10-29
+- [x] Return switch at Whole Foods #errands 📅 2024-08-02 ✅ 2024-10-30
+- [ ] wash hair 📅 2024-11-04 #personalcare 
+- [x] Interview with Tito’s #computer 📅 2024-07-29 ✅ 2024-07-30
+- [x] Tanteo interview #computer 📅 2024-07-30 ✅ 2024-07-30
 - [ ] How to clean stains from Dutch oven #computer 📅 2024-07-29 
-- [ ] Trim hedges on Keisha side [[Orestes]] #gardening 📅 2024-08-04
-- [ ] Bring bike to get tuneup 🛫 2024-07-30 #errands 
-- [ ] Clean oven 📅 2024-07-26 #chores 
-- [ ] Organize tasks by hashtag #computer 📅 2024-07-27 
-- [ ] clean dining table #chores  📅 2024-07-27 
+- [ ] Trim hedges on Keisha side [[Orestes]] #gardening 📅 2024-11-20
+- [ ] Bring bike to get tuneup 🛫 2024-11-05 #errands 
+- [ ] Clean oven 📅 2024-11-05 #chores 🔁 every month 
+- [ ] Organize tasks by hashtag #computer 📅 2024-11-27 
+- [x] clean dining table #chores 📅 2024-07-27 ✅ 2024-10-30
 - [ ] add recently missed to task #computer 📅 2024-07-26 
-- [ ] pie dough #mealprep 📅 2024-07-26 
-- [ ] Orchid for tree #buy q
+- [ ] pie dough #mealprep 📅 2024-10-31 
+- [ ] Orchid for tree #buy 
 - [ ] Nails 📅 2024-07-27
 - [ ] fertilizer for blooms and palms 📅 2024-07-30 
 - [ ] Plant papaya tree 📅 2024-07-30 
@@ -175,7 +374,7 @@ Cut the roller shade at my parents house
 - [x] Rit dye ✅ 2024-07-25
 - [x] pull bread ✅ 2024-07-08
 - [x] order bread baker thing 📅 2024-07-16 ✅ 2024-07-25
-- [ ] Order cuisinart #buy 📅 2024-08-16
+- [x] Order cuisinart #buy 📅 2024-08-16 ✅ 2024-11-18
 - [ ] Cancel repeat petco order #computer  📅 2024-07-16 
 - [x] Respond to Rover request 📅 2024-07-09 ✅ 2024-07-25
 - [ ] Look for other flours to use #buy #groceries 
@@ -197,4 +396,4 @@ Cut the roller shade at my parents house
 - [x] anchor mat ✅ 2024-07-15
 - [x] Recap 📅 2024-07-16 ✅ 2024-07-23
 - [ ] Look into Salsa classes #computer #solofun 📅 2024-07-16 
-- [ ] fix mini cooper #chores  #computer   📅 2024-07-28 
+- [x] fix mini cooper #chores #computer 📅 2024-07-28 ✅ 2024-09-04

@@ -1,0 +1,14 @@
+- [ ] recycling 
+- [x] Bring cat liter into the house ✅ 2024-09-24
+- [ ] orestes’s liquids
+- [ ] Tweezer and nail clippers
+- [ ] water bottle
+- [ ] snack 
+- [ ] ipad and laptop
+- [ ] download shows
+- [ ] Block for charging
+- [ ] Book from Lisa
+- [ ] Headphones
+- [ ] Eye drops
+- [ ] sunglasses
+- [ ] Shave

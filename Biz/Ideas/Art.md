@@ -1,0 +1,2 @@
+- tanker ships with raft (og story)
+- Make blog for OG to write about Cuba stuff 

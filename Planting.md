@@ -1,0 +1,100 @@
+
+- soil moist
+- 20 -22 Orlando 
+- Classpass
+- Pay credit card
+- Doctor
+- Perfume 
+- Xmas tree
+- read book
+- Library book
+- orchid thing w mom
+- Paint cooor
+- Can you export drive summaries
+- Brown hotel and have a hot brown in Louisville KY
+- Dogfood
+- Woekout classpass
+- Painting for OG
+- Plan yard
+- Run
+- Apple Watch 
+- Bright flood lights solar
+- kitchen aid ice cream maker
+- Glass bowl / flour scale and sifter 
+- DIY lights 
+- Airbag sensor mini 
+- Look for Anthropologie dupes for those chairs (use google lens)
+- Car wash
+- Mini cooper screen repair 
+- Sprinklers
+- schedule when to tire rotate 
+- Bougainvillea around door
+- Put the pitch together 
+- Interior doors from 
+- Weed killer
+- DIY light ideas
+- 10650 Forest Hill Blvd , Wellington, FL 33414
+- Suitcase
+- [ ] Pay credit cards 📅 2024-12-07 
+- [ ] Bougainvillea 
+- [ ] Lavender dr brommers #buy 
+- [ ] Delray farmers market what trees?
+- [ ] mounts botanical garden dog days?
+- [ ] Check jobs in email 
+- [ ] reference dates working and training
+- [ ] schedule class pass
+- [ ] H&M cozy 
+- [ ] Look at your blood results 
+- [ ] Xmas lights plan 
+- [ ] diy Xmas lifhts
+- [ ] solar Xmas lights
+- [ ] peabut butter for dog at Aldi 
+- [ ] Pay capital one 
+- [ ] Gerd meals
+- [ ] woekpit on classpass 
+- [ ] Get bamboo
+- [ ] plant plants
+- [ ] get plants from house that just sold 
+- [ ] Laundry 
+- [ ] clean 
+- [ ] Chiro
+- [ ] derm 
+- [ ] Winn Dixie seafood for dinner
+- [ ] Flower seeds
+- [ ] NAills
+- [ ] nuface
+- [ ] car wash
+- [ ] yoga
+- [ ] winn dixie
+- [ ] lawn ideas
+- [ ] order trellis go
+- [ ] Car wash
+- [ ] homemafe dog food
+- [ ]  Nails
+- [ ] bomemade dog food 
+- [ ] Sign up for MKTG
+- [ ] Gas
+- [ ] Sign up for the company that manages Hennessy’s 
+- [ ] Nails
+- [ ] rorabeck
+- [ ] docotirs
+- [ ] breaks in car
+- [ ] plant plants
+- [ ] change outlets
+- [ ] plan kitchen diy 
+- [ ] Gerd diet plan (quinoa)
+- [ ] Instacart
+- [ ] cancel Amazon thing
+- [ ] Juice
+- [ ] walk 
+- [ ] fix bike
+- [ ] bike for Orestes 
+- [ ] Fix tine bike tire
+- [ ] caulk around sink
+- [ ] Return stuff to storage 📅 2024-12-12 
+- [ ] doctors appontments
+- [ ] re iews blood test status 
+- [ ] Pay bills
+- [ ] tool box for garage 
+- [ ] drawers for OG room 
+- [ ] 

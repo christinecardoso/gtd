@@ -1,0 +1,6 @@
+- [ ] Pilates
+- [ ] biking to lido key and around town (free bikes Westin)
+- [ ] ringling museum
+- [ ] botanic garden orchid show - reciprocal membership??
+- [ ] Rooftop/pool time
+- [ ] Bring beach chairs/towels next time

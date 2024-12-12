@@ -3,7 +3,7 @@
 - [x] Meat 📅 2024-07-03
 - [x] Liquid IV  📅 2024-07-24 ✅ 2024-08-02T14:15
 - [x] Benadryl spray 📅 2024-06-20 ✅ 2024-06-24
-- [x] Vitamins 📅 2024-06-12 ✅ 2024-06-15
+- [ ] Vitamins 📅 2024-11-04
 - [x] Flour ✅ 2024-06-11
 - [x] Tums 📅 2024-06-20 ✅ 2024-07-23
 - [x] Rice flour ✅ 2024-06-11
@@ -15,3 +15,22 @@
 - [x] Shredded cheese at Sam’s Club 📅 2024-06-20
 - [x] Cottonelle wet wipes 📅 2024-07-24
 - [ ] febreze packs
+- [x] Cheese ✅ 2024-09-15
+- [ ] crackers
+- [x] salami ✅ 2024-09-15
+- [ ] provolone
+- [x] bread flour ✅ 2024-10-30
+- [ ] Foil
+- [x] feta ✅ 2024-10-30
+- [x] brie ✅ 2024-09-15
+- [x] olive oil ✅ 2024-10-30
+- [ ] butter
+- [ ] eggs
+- [ ] Coconut milk
+- [ ] Buy peppercorns
+- [ ]  cumin seeds
+- [ ] Get kefir lime zest
+- [ ] shallots
+- [ ]  red and green Thai chili plants
+- [ ] Get lime zest
+- [ ]   kimchi ingredients and supplies

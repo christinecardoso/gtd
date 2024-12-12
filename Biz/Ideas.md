@@ -16,3 +16,8 @@
 - [ ] email drip flow sequences
 - [ ] [[Bread website]] like domaselocom.com 
 - [ ] Go through https://www.starchefs.com/ and make an SEO blog for restaurants and places to eat around the world like eater.com
+- [ ] [https://sobrief.com](https://sobrief.com/) Read any book in 10min or less (it’s a chatgpt synopsis of these books.. how can we reapply this… can we do this for plays? Art? Architecture? Songs? Poems?)
+- [ ] Tote bags for each city with hand drawn cartoonish architectural spots 
+- [ ] Zodiac cards or tarot in the artistic style of Greek pottery painting etc
+
+[https://sobrief.com](https://sobrief.com/)

@@ -83,3 +83,6 @@
 - [x] Baking soda for fridge and freezer
 - [x] Get 3/8 nap roller sleeve 
 - [x] 2.5 inch taper brush (Cheap brush for masonry $8/$10)
+- [ ] Electric knife for cutting bread 
+- [ ] butter cutter kitchen aid attachment 
+- [ ] 

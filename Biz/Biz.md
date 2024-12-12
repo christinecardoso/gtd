@@ -8,3 +8,12 @@
 - [ ] Date ideas
 - [ ] Brand strategy sessions https://bebrandspankingyou.com/templates/strategy-sessions
 - [ ] Free notion template for website planning 
+- [ ] Shampoo, conditioner brand. Give out
+- [ ] Build a [[UGC portfolio]]
+- [ ] Grippy Pilates socks (cute with a bum, etc) 
+- [ ] Pilates studio 
+- [ ] Liquids bag 
+- [ ] Long slot toaster
+- [ ] travel car diffuser 
+- [ ] Wusthoff knife set 
+- [ ] Beaba steam blender 
