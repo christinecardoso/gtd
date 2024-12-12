@@ -93,7 +93,7 @@
 - [ ] caulk around sink
 - [ ] Return stuff to storage 📅 2024-12-12 
 - [ ] doctors appontments
-- [ ] re iews blood test status 
+- [ ] reviews blood test status 
 - [ ] Pay bills
 - [ ] tool box for garage 
 - [ ] drawers for OG room 
