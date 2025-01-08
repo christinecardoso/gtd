@@ -12,6 +12,9 @@
 - [x] Xmas tree ✅ 2024-12-19
 - [ ] What to do with bok choy and Pom seeds
 - [ ] Dry cleaners 📅 2025-01-08 
+- [ ] Honey #buy 
+- [ ] apple cider vinegar #buy 
+- [ ] Dog dental stuff #buy 
 - [ ] Order cat food 📅 2025-01-08 
 - [ ] fix mini cooper 📅 2025-01-08 
 - [ ] have #dad checkout the mini cooper and the ice maker 📅 2025-01-08 
