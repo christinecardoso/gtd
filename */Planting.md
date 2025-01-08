@@ -1,5 +1,6 @@
 
-- soil moist
+- soil moist 
+- 243470002326 call reference number Kayla at MyKC is adding more codes to see if it can get covered 
 - 20 -22 Orlando 
 - Classpass
 - Pay credit card
@@ -35,7 +36,9 @@
 - DIY light ideas
 - 10650 Forest Hill Blvd , Wellington, FL 33414
 - Suitcase
-- [ ] Pay credit cards 📅 2024-12-07 
+- [ ] Pay credit cards 📅 2024-12-12 
+- [ ] Dog treat for pills or peanut butter 📅 2024-12-12 
+- [x] Outfit for Pilates  tmrw 📅 2024-12-12 ✅ 2024-12-17
 - [ ] Bougainvillea 
 - [ ] Lavender dr brommers #buy 
 - [ ] Delray farmers market what trees?

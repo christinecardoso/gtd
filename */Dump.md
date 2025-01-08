@@ -2,34 +2,124 @@
 - [x] pecorino ✅ 2024-12-03
 - [x] Clams ✅ 2024-12-01
 - [x] churrasco ✅ 2024-12-03
-- [ ] pancetta
+- [x] pancetta ✅ 2024-12-19
 - [x] salad stuff ✅ 2024-12-01
 - [x] Chimichuri ✅ 2024-12-01
 - [x] cilantro ✅ 2024-12-01
 - [x] parsley ✅ 2024-12-01
 - [x] White onion ✅ 2024-12-01
 - [x] Tomatoes ✅ 2024-12-01
+- [x] Xmas tree ✅ 2024-12-19
+- [ ] What to do with bok choy and Pom seeds
+- [ ] Dry cleaners 📅 2025-01-08 
+- [ ] Order cat food 📅 2025-01-08 
+- [ ] fix mini cooper 📅 2025-01-08 
+- [ ] have #dad checkout the mini cooper and the ice maker 📅 2025-01-08 
+- [ ] Screen protector #buy
+- [ ] Electric steamer #buy
+- [ ] Oven cleaning tool
+- [ ] baby food maker #buy
+- [ ] Make concrete planters with #dad 
+- [ ] Salsa YouTube videos #goals #solofun 📅 2025-01-05 🛫 2025-01-02 
+- [ ] Check mini cooper codes 📅 2025-01-05 
+- [ ] Paddleboard cart 📅 2025-01-03 #buy
+- [ ] Wind foil thing for paddleboard #buy #solofun 
+- [ ] Shoe laces #buy
+- [ ] Allegro reformer for house #buy 
+- [ ] Screen protector
+- [x] wipes #buy ✅ 2025-01-03
+- [ ] Red pepper jellie #buy #groceries 
+- [ ] Blind Corner cabinet rack #buy
+- [ ] Apple Watch band #buy
+- [ ] Flashlight
+- [ ] Power washwr
+- [ ] Jobs on the freeelance websites
+- [ ] sell on Etsy 
+- [ ] Dog water bottle #buy 
+- [ ] Chopsticks #buy
+- [ ] soup spoons #buy
+- [ ] slotted frying spoon #buy
+- [ ] dicer attachment #buy
+- [ ] Fish sauce #buy 
+- [ ] poop bag holder #buy
+- [ ] Olive oil  #buy 📅 2024-12-20
+- [ ] Vinegar #buy 📅 2024-12-20 
+- [x] Put lights on oak tree and palms 📅 2024-12-22 ✅ 2025-01-03
+- [x] Lights along house line ✅ 2025-01-03
+- [ ] Drip sprinkler hose attachment for next to fence 📅 2024-12-22 
+- [ ] Special salt #buy
+- [ ] Tapered candles #buy
+- [ ] peppermint essential oil #buy
+- [x] Hose extension for outside #buy 📅 2024-12-22 ✅ 2025-01-03
+- [x] Bougainvillea tree for back 📅 2024-12-20 ✅ 2025-01-03
+- [x] cologne ✅ 2024-12-19
+- [x] Dollar store 📅 2024-12-17 ✅ 2025-01-03
+- [ ] Dermatologist 📅 2024-12-18 
+- [ ] Incense holder #buy 📅 2024-12-18 
+- [x] Dryer sheets #buy 📅 2024-12-18 ✅ 2025-01-03
+- [ ] Chiro 📅 2024-12-18 
+- [ ] Parking tickets 📅 2024-12-23 
+- [x] refrigeratoe filter 📅 2024-12-18 ✅ 2025-01-03
+- [ ] Salsa class #solofun 
+- [ ] Driving range #solofun 
+- [ ] Mach 3 razor #buy 📅 2024-12-18 
+- [x] Hose extension #buy ✅ 2025-01-03
+- [ ] hose splitter #buy
+- [x] Boungainvilleas ✅ 2025-01-03
+- [ ] trellis
+- [ ] Doctors appointments 📅 2024-12-18 
+- [ ] Classpass 📅 2024-12-24 
+- [x] Good perfume for orestes #buy 📅 2024-12-18 ✅ 2025-01-03
+- [ ] Start making kimchi 📅 2024-12-18 #kitchen
+- [ ] DIY Salt Scrub for gifts 📅 2024-12-18 
+- [ ] Steam table cloth #clean 📅 2024-12-18 
+- [ ] Estate sales #solofun 
+- [ ] Drop off orestes shirts at dry cleaner 📅 2024-12-18
+- [ ] counter tops #renovation
+- [ ] Corner base cabinet organizer #renovation
+- [ ] Christmas Tree #buy 📅 2024-12-18
+- [x] Plant bamboo #outside 📅 2024-1217 ✅ 2024-12-17
+- [x] Plant ground covering #outside 📅 2024-12-17 ✅ 2024-12-17
+- [ ] Havana and Valenca print out artwork 📅 2024-12-18 #computer
+- [ ] OG Baseball card artwork #computer 📅 2024-12-18 
+- [ ] Water filter #buy 📅 2024-12-18 
+- [ ] Have #dad check out google thermostat thing 📅 2024-12-19 
+- [ ] Pick up dog poo in the yard #outside 📅 2024-12-19
+- [x] sexy Outfit for Orestes coming home 📅 2024-12-18 ✅ 2024-12-19
+- [ ] Order Christmas gifts from Dossier #buy 📅 2024-12-18 
+- [ ] Gift for mom, Natasha, klaus, Ada (convince OG that Trump hat is for Dad) 📅 2024-12-20 
+- [x] Fridge filter look in garage 📅 2024-12-18 ✅ 2025-01-03
+- [ ] Electrical outlet 
+- [x] Walmart return 📅 2024-12-20 ✅ 2025-01-03
+- [ ] Pay credit card 📅 2024-12-23 
+- [ ] fix breaks and check codes on mini cooper 📅 2024-12-19 
+- [x] Home Depot returns 📅 2024-12-19 ✅ 2025-01-03
+- [x] Hang up more lights #outside 📅 2024-12-20 ✅ 2025-01-03
+- [x] Recaps 📅 2024-12-19 ✅ 2025-01-03
+- [x] Poinsettias #buy 📅 2024-12-18 ✅ 2025-01-03
+- [ ] Clean 
+- [ ] doctor
+- [ ] Job applications
+- [ ] check bookings
+- [ ] Work on portfolio website 
+- [ ] Tennis
+- [ ] paychex for brand activate 
+- creste UGC and social content
+- Flower cut garden seeds
+- Publix 
 - [ ] Read book
 - [ ] charger
-- [ ] put hammock up 
-- [ ] put two new jobs in spreadsheet 
-- [ ] Classpass
 - [ ] resume
 - [ ] charger
-- [ ] cheistmas tree
 - [ ] cure girlie pitbull thing
-- [ ] Clam brush 
 - [ ] Bike
 - [ ] face atufff
-- [ ] qater filter r
-- [ ] Xmas lights 
-- [ ] Driving range
 - [ ] Recap
 - [ ] windows
 - [ ] Dog collar
 - [ ] Color spotlight 
 - [ ] deoderant 
-- [ ] Antibiotics 
+- [x] Antibiotics ✅ 2024-12-19
 - [ ] Recycling bin holder 
 
 
@@ -46,16 +136,15 @@ Honeycomb dividers
 - Cancel job on 11/30 for Christmas tree with Roy’s friend (????)
 
 - [ ] classpass checkout sculpt pricing
-- [ ] recap 
 - [ ] Price match apple headphones ($153 at target)
-- [ ] Black Friday bread flour sifter 
+- [ ] bread flour sifter #buy
 - [ ] Bread baking dish 
-- [ ] Fix the bicycle
-- [ ] Apple Watch
-- [ ] Liquid IV
-- [ ] Frilly socks
+- [ ] Fix the bicycle 📅 2024-12-20 
+- [ ] Apple Watch #buy
+- [ ] Liquid IV #buy
+- [ ] Frilly socks #buy
 - [ ] grippy socks for pilates 
-- [ ] Dog toy
+- [x] Dog toy ✅ 2024-12-18
 
 Dog adopt me collar
 
@@ -78,7 +167,7 @@ Shaka Wear
 
 
 
-- [ ] fertilizer for grass #buy
+- [ ] fertilizer for grass 📅 2024-12-19 #buy
 - [ ] Dior sauvage similar for Orestes 
 - [ ] Apple Watch series 2 difference. 
 - [ ] Magnetic phone holder #buy
@@ -89,36 +178,36 @@ Shaka Wear
 - [ ] makeup reup #buy
 - [ ] Black pepper #buy 
 - [x] Prescription pickup #buy 📅 2024-11-25 ✅ 2024-11-25
-- [ ] Water filter for fridge 📅 2024-11-25 #buy
-- [ ] Pick up dog at shelter 📅 2024-11-26 
+- [ ] Water filter for fridge 📅 2024-12-24 #buy
+- [x] Pick up dog at shelter 📅 2024-11-26 ✅ 2024-12-19
 - [x] Recap 📅 2024-11-21 ✅ 2024-11-25
 - [x] respond to Cantera Negra guy 📅 2024-11-21 ✅ 2024-11-24
 - [x] Matcha #buy ✅ 2024-11-25
-- [ ] car wash 📅 2024-11-25
-- [ ] insurance 📅 2024-11-25 
-- [ ] sign up for Thursday JetSet Pilates
-- [ ] resume for pilates 📅 2024-11-25 
-- [ ] Mini tires
+- [ ] car wash 📅 2024-12-25
+- [x] insurance 📅 2024-11-25 ✅ 2024-12-19
+- [x] sign up for Thursday JetSet Pilates ✅ 2024-12-19
+- [x] resume for pilates 📅 2024-11-25 ✅ 2024-12-19
+- [x] Mini tires ✅ 2024-12-19
 - [x] Vitamins ✅ 2024-11-25
 - [x] cafe filters and cleaner ✅ 2024-11-25
 - [x] Matcha ✅ 2024-11-25
 - [x] food prep for tomorrow 📅 2024-11-21 ✅ 2024-11-25
-- [ ] Schedule breast exam 
+- [ ] Schedule breast exam 📅 2024-12-20 
 - [x] Coffee filters #buy ✅ 2024-11-20
-- [ ] Boca Babes create your Portal for log in 
-- [ ] christmas lights 
+- [x] Boca Babes create your Portal for log in ✅ 2024-12-19
+- [x] christmas lights ✅ 2024-12-19
 - [ ] Dollar store Christmas decorations 
 - [x] Matcha blender tool #buy ✅ 2024-11-20
 - [x] Avocado #buy ✅ 2024-11-25
 - [ ] Eggs #buy
-- [ ] Run
-- [ ] Rorabeck 📅 2024-11-25 
-- [ ] yoga
-- [ ] classpass
-- [ ] Neem oil for mold around palm trees?
+- [ ] Run #solofun 
+- [x] Rorabeck 📅 2024-11-25 ✅ 2024-12-19
+- [ ] yoga #solofun 
+- [ ] classpass #solofun 
+- [ ] Neem oil for mold around palm trees? 📅 2024-12-24 
 - [ ] Razor for shaving #buy
 - [x] make list for gyno ✅ 2024-11-25
-- [ ] Zovodoc schedule doctors appoints
+- [ ] Zocdoc schedule doctors appoints 📅 2024-12-20 
 - [x] Vitamins #buy ✅ 2024-11-25
 
 Home & Security
@@ -127,19 +216,12 @@ Home & Security
 • Find physical Yale keys and keep in a safe place
 • Unlock one window (possibly the garage or bathroom) as a backup entry
 
-Outdoor & Garden
-
-  
-
-• Prop up the frangipani in the backyard
-
-• Cut the roller shade at parents’ house
-
-• Set up bike gear: solar lights, bell, basket, etc.
-
-• Plan and install outdoor shower
-
-• Arrange beach parking essentials (e.g., passes or equipment)
+## Outdoor & Garden
+- [ ] • Prop up the frangipani in the backyard
+- [ ] • Cut the roller shade at parents’ house
+- [ ] • Set up bike gear: solar lights, bell, basket, etc.
+- [ ] • Plan and install outdoor shower
+- [ ] • Arrange beach parking essentials (e.g., passes or equipment)
 
   
 
@@ -247,8 +329,8 @@ Career & Opportunities
 - [ ] Paddleboarding 📅 2024-08-27
 - [ ] look up tennis and Pilates classes 📅 2024-08-27 
 - [ ] Pilates with Devonne 📅 2024-09-15
-- [ ] Respond to tarot girl 📅 2024-08-27 
-- [ ] M&G training Tuesday and Wednesday nights 📅 2024-08-27 
+- [x] Respond to tarot girl 📅 2024-08-27 ✅ 2024-12-17
+- [x] M&G training Tuesday and Wednesday nights 📅 2024-08-27 ✅ 2024-12-17
 - [ ] #buy Sheets organized bins 
 - [ ] #buy Make Kimchi get mason jar fermentation lids for wide mouth containers
 - [ ] Havana portrait #computer  📅 2024-08-26 
@@ -259,7 +341,7 @@ Career & Opportunities
 - [ ] Networking… help connect people with mentors in different areas. Who is the best at yoga, hand stands, Pilates, tech stuff, web stuff. Referrals basically.
 - [ ] Valenca or Ancora portrait for livingroom #computer  📅 2024-08-26 
 - [ ] Print photo of drone photo or beach vista of Ancora and look for frame #computer 📅 2024-08-26 
-- [ ] Plan outfit for Tito’s job #computer 📅 2024-08-26 
+- [x] Plan outfit for Tito’s job #computer 📅 2024-08-26 ✅ 2024-12-17
 - [ ] Check out your saved instagram eats and baked lists and come up with meals that you will be making… also make UGC videos for all of these
 - [ ] Clean foreo #chores 
 - [ ] sierra madre #lunch 📅 2024-08-26 
@@ -267,9 +349,9 @@ Career & Opportunities
 - [ ] Indian brunch buffet 📅 2024-09-01 
 - [ ] face wash #buy 📅 2024-08-03 
 - [ ] shein  📅 2024-08-05 
-- [ ] find the roomba [[Orestes]] 📅 2024-08-03 
+- [x] find the roomba [[Orestes]] 📅 2024-08-03 ✅ 2024-12-17
 - [ ] #date Brunch with [[Orestes]] at Taste of India 📅 2024-08-04 
-- [ ] #solofun Dance class with Andrea 📅 2024-08-04 
+- [x] #solofun Dance class with Andrea 📅 2024-08-04 ✅ 2024-12-17
 - [ ] #date #research Dim sum brunch 📅 2024-08-18 
 - [ ] best place for golf :researching #computer #research 📅 2024-08-03 
 - [ ] golf clubs #buy 📅 2024-08-06 
@@ -285,7 +367,7 @@ Career & Opportunities
 - [ ] Buy groceries at Aldi #car 📅 2024-08-02 
 - [x] Bake bread 📅 2024-08-03 ✅ 2024-08-03
 - [ ] mix two breads maybe one stuffed 📅 2024-08-28 
-- [ ] Tape up the oven Door 📅 2024-08-26 
+- [x] Tape up the oven Door 📅 2024-08-26 ✅ 2024-12-17
 - [ ] look into what other flours I can buy 📅 2024-08-02 
 - [ ] orchids 📅 2024-08-30 
 - [ ] Eye doctor appointment #schedule  #computer  📅 2024-08-26 
@@ -301,7 +383,8 @@ Career & Opportunities
 - [ ] Facial ice roller 📅 2024-07-30 #buy 
 - [ ] facial massager 📅 2024-07-30 #buy
 - [ ] Dust fans 📅 2024-08-03 🔁 every week on Sunday #chores 
-- [ ] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-08-04
+- [ ] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-08-11
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-08-04 ✅ 2024-12-17
 - [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-07-28 ✅ 2024-08-02
 - [x] Library #solofun 📅 2024-07-30 ✅ 2024-10-29
 - [x] Return switch at Whole Foods #errands 📅 2024-08-02 ✅ 2024-10-30

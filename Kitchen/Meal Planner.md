@@ -10,7 +10,6 @@
 - [ ] [[Pho soup]] ⏳2024-08-06 
 - [ ] Stuffed bread⏳2024-08-07 
 - [ ] something with chili piquin
-- [ ] Tamales from Sierra Madre
 - [ ] [[Chili Piquín Grilled Fish]]
 - [ ] [[BBQ Ground Pork]]
 - [ ] [[Pork and Eggplant in Garlic Sauce]]
@@ -30,7 +29,8 @@
 - [ ] Ricotta dessert 📅 2024-08-09 
 - [ ] Ricotta cake 
 
-
+## Dessert
+-  [ ] pumpkin pie 📅 2024-12-18 
 
 ## Groceries List to Buy
 - [ ] Buy avocados 📅 2024-08-03 🆔 ly7tgo
@@ -38,3 +38,6 @@
 - [ ] Cardamom pods 
 - [ ] Black peppercorns
 - [ ] Vitmaix blender #facebookmarketplace
+
+## Take Out
+- [ ] Tamales from Sierra Madre

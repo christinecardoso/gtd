@@ -4,6 +4,15 @@
 not done
 due today  
 sort by path
+Sort by tag
+````
+
+
+## Do Today
+````tasks 
+not done
+due after today  
+sort by path
 ````
 
 

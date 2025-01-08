@@ -15,18 +15,18 @@ N Ocean Breeze and 3rd (desottos sand castle)
 - [ ] Roomba #buy 
 - [ ] Apple Watch 📅 2024-11-19 #buy 
 - [ ] Purple mattress #buy 
-- [ ] Chimney stand 📅 2024-11-17 
-- [ ] Order Christmas lights Xmas light design 📅 2024-11-18 
-- [ ] Report for work 📅 2024-11-17 
-- [ ] Pilates resume 📅 2024-11-17 
+- [x] Chimney stand 📅 2024-11-17 ✅ 2024-12-17
+- [x] Order Christmas lights Xmas light design 📅 2024-11-18 ✅ 2024-12-17
+- [x] Report for work 📅 2024-11-17 ✅ 2024-12-17
+- [x] Pilates resume 📅 2024-11-17 ✅ 2024-12-17
 - [ ] Order a toothbrush for OG 📅 2024-11-18 
 - [x] roofing appointment 📅 2024-11-18 ✅ 2024-11-25
-- [ ] Scheudlw hormones test 📅 2024-11-18 
+- [x] Scheudlw hormones test 📅 2024-11-18 ✅ 2024-12-17
 - [ ] start running 📅 2024-11-17 
 - [ ] Camera cleaning 📅 2024-11-19 
 - [ ] Read Book of enoc and book of jude 
 - [ ] Look for golf staffing companies
-- [ ] Resume for JetSet 📅 2024-11-17 
+- [x] Resume for JetSet 📅 2024-11-17 ✅ 2024-12-17
 - [ ] Architectural floorplans chat got pro for bathrooms and kitchen layout precedent research 📅 2024-11-18 
 - [ ] painted lions precedent and which paint to use 📅 2024-11-16 
 - [ ] Doctors 📅 2024-11-15 
@@ -65,7 +65,7 @@ N Ocean Breeze and 3rd (desottos sand castle)
 - [ ] Women’s vitamins 
 - [ ] Beach yoga with mom 📅 2024-11-10 
 - [ ] Look up best travel places for kite boarding camp 📅 2024-11-11 
-- [ ] Get name of Window guy from dad📅 2024-11-10 
+- [x] Get name of Window guy from dad 📅 2024-11-10 ✅ 2024-12-17
 - [ ] Go to dog animal care 📅 2024-11-11 
 - [ ] Vote 📅 2024-11-05 
 - [ ] Shumeura makeup palate #buy
@@ -82,8 +82,8 @@ N Ocean Breeze and 3rd (desottos sand castle)
 - [ ] rattan chairs
 - [ ] orchid show
 - [x] buy mounts botanical memberships ✅ 2024-11-06
-- [ ] Dog day at mounts 
-- [ ] Look up plane tickets to Europe 
+- [ ] Dog day at mounts due 📅 2025-01-03 
+- [x] Look up plane tickets to Europe ✅ 2024-12-17
 - [ ] sign up to be foster
 - [ ] art for the baseball card OG
 - [ ] make OG fan shirt
