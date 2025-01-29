@@ -9,25 +9,96 @@
 - [x] parsley ✅ 2024-12-01
 - [x] White onion ✅ 2024-12-01
 - [x] Tomatoes ✅ 2024-12-01
-- [x] Xmas tree ✅ 2024-12-19
-- [ ] What to do with bok choy and Pom seeds
-- [ ] Dry cleaners 📅 2025-01-08 
-- [ ] Honey #buy 
-- [ ] apple cider vinegar #buy 
+- [x] Xmas tree ✅ 2024-12-1
+- [ ] Organize calendar 📅 2025-01-22 #computer 
+- [ ] Pick up half and half Ana bananas #buy 📅 2025-01-29 
+- [ ] Sync obsidian tasks to Apple reminders so it links to Apple Watch and iCal #computer #timemanagement 📅 2025-01-26 
+- [ ] Recap #computer 📅 2025-01-25 
+- [ ] receipts for piñata #computer 📅 2025-01-25 
+- [ ] Add jobs to sheet #computer 📅 2025-01-22 
+- [ ] Return stuff to Moe 📅 2025-01-22 #errands 
+- [ ] 
+- [x] Large yeti water bottle ✅ 2025-01-15
+- [ ] Gum or lifesavers #buy 📅 2025-01-22 
+- [ ] Eye doctor #schedule 📅 2025-01-21 
+- [ ] multivitamin #buy 📅 2025-01-21 
+- [ ] Lunch
+- [ ] snack
+- [ ] breakfast
+- [ ] charger
+- [ ] wk dog
+- [ ] read the [[sheet she sent you]]
+- [ ] Do one of those skin online things to get the tretinoin or fine line thing (go to derm) 📅 2025-01-21 
+- [x] Pickup prescription at Walgreens 📅 2025-01-21 ✅ 2025-01-21
+- [ ] meal prep #routine 📅 2025-01-21 🔁 every week ⏫ ➕ 2025-01-21
+- [ ] Perfume #buy 
+- [ ] Screen protector #buy 📅 2025-01-21 
+- [ ] Mason jar sprout growing lid #buy 
+- [ ] Silicone body scrubber #buy 
+- [ ] Face microcuresnt thing for wrinkles #buy 
+- [ ] Dark spot blemish patches #buy 
+- [ ] Blemish patches #buy
+- [ ] Epsom salt foot bath for LB 📅 2025-01-21 #chores 
+- [ ] Nails 📅 2025-01-20 🔁 every month #routine 
+- [ ] Make a list for routine tag on obsidian 📅 2025-01-19 #computer 
+- [ ] finish recap 📅 2025-01-19 
+- [ ] Pilates with Devonne 📅 2025-01-19 ⏫ 
+- [ ] Look up an herbalist for the specific mucus cough and look up on ChatGPT homeo remedies for this (bronchitis? ) #research #computer 
+- [ ] Dog booties 📅 2025-01-20  #buy
+- [ ] put cream on B 📅 2025-01-20 #chores 
+- [ ] Silk pillowcase #buy
+- [ ] Screen protector #buy
+- [ ] lululemon pants #buy
+- [x] Liquid iv #buy ✅ 2025-01-17
+- [ ] What to do with bok choy and Pom seeds #cook
+- [ ] Work on  blog - add the recipe spice ideas for soups etc.. look through chatgpt searches and start organizing your things into blogs  #computer 
+- [ ] Stylecheck for you outfits ?
+- [ ] Update iphone #errands 
+- [ ] Nails #selfcare
+- [ ] laundry #chores 
+- [ ] crunch #selfcare 
+- [ ] Personal fan
+- [x] Lunch ✅ 2025-01-15
+- [ ] New screen protector
+- [x] Look for Oxxo cleaner 📅 2025-01-10 ✅ 2025-01-10
+- [ ] Follow up on M&G expired check #chores 📅 2025-01-13
+- [ ] Check mini cooper codes #chores 📅 2025-01-11
+- [x] order batteey connector #buy ✅ 2025-01-21
+- [ ] clean under fridge #clean 
+- [ ] google sheets to calendar #computer 
+- [ ] oral b brush head #buy
+- [ ] asisn soup spoons #buy 
+- [ ] break pads #errands 
+- [ ] car wash #errands 📅 2025-01-15
+- [ ] Workout app #computer 
+- [ ] obsidian Apple Watch. iOS shortcuts #computer 
+- [ ] Note with all the hashtags in order
+- [ ] classpass #schedule 
+- [ ] Flashlight #buy 
+- [ ] headlamp for skateboarding #buy 
+- [ ] Flashlight #buy
+- [ ] Bread slicer #buy 
+- [ ] Dry cleaners 📅 2025-01-11 #errands 
+- [ ] Spatula long for bread #buy 📅 2025-01-13 
+- [x] Honey #buy ✅ 2025-01-09
+- [x] apple cider vinegar #buy ✅ 2025-01-09
 - [ ] Dog dental stuff #buy 
-- [ ] Order cat food 📅 2025-01-08 
+- [ ] Oven cleaner #buy 📅 2025-01-10 
+- [ ] toothbrush heads 📅 2025-01-10 #buy 
+- [x] Toothpaste #buy 📅 2025-01-10 ✅ 2025-01-21
+- [x] Order cat food 📅 2025-01-08 ✅ 2025-01-09
 - [ ] fix mini cooper 📅 2025-01-08 
 - [ ] have #dad checkout the mini cooper and the ice maker 📅 2025-01-08 
 - [ ] Screen protector #buy
 - [ ] Electric steamer #buy
 - [ ] Oven cleaning tool
 - [ ] baby food maker #buy
-- [ ] Make concrete planters with #dad 
+- [ ] Make concrete planters with #dad #solofun 
 - [ ] Salsa YouTube videos #goals #solofun 📅 2025-01-05 🛫 2025-01-02 
 - [ ] Check mini cooper codes 📅 2025-01-05 
 - [ ] Paddleboard cart 📅 2025-01-03 #buy
 - [ ] Wind foil thing for paddleboard #buy #solofun 
-- [ ] Shoe laces #buy
+- [ ] Shoe laces for adidas sneakers  #buy
 - [ ] Allegro reformer for house #buy 
 - [ ] Screen protector
 - [x] wipes #buy ✅ 2025-01-03
@@ -46,7 +117,7 @@
 - [ ] Fish sauce #buy 
 - [ ] poop bag holder #buy
 - [ ] Olive oil  #buy 📅 2024-12-20
-- [ ] Vinegar #buy 📅 2024-12-20 
+- [x] Vinegar #buy 📅 2024-12-20 ✅ 2025-01-09
 - [x] Put lights on oak tree and palms 📅 2024-12-22 ✅ 2025-01-03
 - [x] Lights along house line ✅ 2025-01-03
 - [ ] Drip sprinkler hose attachment for next to fence 📅 2024-12-22 
@@ -58,7 +129,7 @@
 - [x] cologne ✅ 2024-12-19
 - [x] Dollar store 📅 2024-12-17 ✅ 2025-01-03
 - [ ] Dermatologist 📅 2024-12-18 
-- [ ] Incense holder #buy 📅 2024-12-18 
+- [x] Incense holder #buy 📅 2024-12-18 ✅ 2025-01-21
 - [x] Dryer sheets #buy 📅 2024-12-18 ✅ 2025-01-03
 - [ ] Chiro 📅 2024-12-18 
 - [ ] Parking tickets 📅 2024-12-23 
@@ -80,16 +151,16 @@
 - [ ] Drop off orestes shirts at dry cleaner 📅 2024-12-18
 - [ ] counter tops #renovation
 - [ ] Corner base cabinet organizer #renovation
-- [ ] Christmas Tree #buy 📅 2024-12-18
+- [x] Christmas Tree #buy 📅 2024-12-18 ✅ 2025-01-21
 - [x] Plant bamboo #outside 📅 2024-1217 ✅ 2024-12-17
 - [x] Plant ground covering #outside 📅 2024-12-17 ✅ 2024-12-17
 - [ ] Havana and Valenca print out artwork 📅 2024-12-18 #computer
 - [ ] OG Baseball card artwork #computer 📅 2024-12-18 
-- [ ] Water filter #buy 📅 2024-12-18 
+- [x] Water filter #buy 📅 2024-12-18 ✅ 2025-01-21
 - [ ] Have #dad check out google thermostat thing 📅 2024-12-19 
-- [ ] Pick up dog poo in the yard #outside 📅 2024-12-19
+- [x] Pick up dog poo in the yard #outside 📅 2024-12-19 ✅ 2025-01-10
 - [x] sexy Outfit for Orestes coming home 📅 2024-12-18 ✅ 2024-12-19
-- [ ] Order Christmas gifts from Dossier #buy 📅 2024-12-18 
+- [x] Order Christmas gifts from Dossier #buy 📅 2024-12-18 ✅ 2025-01-21
 - [ ] Gift for mom, Natasha, klaus, Ada (convince OG that Trump hat is for Dad) 📅 2024-12-20 
 - [x] Fridge filter look in garage 📅 2024-12-18 ✅ 2025-01-03
 - [ ] Electrical outlet 
@@ -143,8 +214,8 @@ Honeycomb dividers
 - [ ] bread flour sifter #buy
 - [ ] Bread baking dish 
 - [ ] Fix the bicycle 📅 2024-12-20 
-- [ ] Apple Watch #buy
-- [ ] Liquid IV #buy
+- [x] Apple Watch #buy ✅ 2025-01-09
+- [x] Liquid IV #buy ✅ 2025-01-21
 - [ ] Frilly socks #buy
 - [ ] grippy socks for pilates 
 - [x] Dog toy ✅ 2024-12-18
@@ -173,15 +244,15 @@ Shaka Wear
 - [ ] fertilizer for grass 📅 2024-12-19 #buy
 - [ ] Dior sauvage similar for Orestes 
 - [ ] Apple Watch series 2 difference. 
-- [ ] Magnetic phone holder #buy
+- [x] Magnetic phone holder #buy ✅ 2025-01-21
 - [ ] Get a bike for Orestes #buy 📅 2024-11-26 
 - [ ] Look at the windows estimate 📅 2024-11-26 
 - [ ] Look into signing up for the Soccer ref license  📅 2024-12-02 
 - [ ] Landscaping container for sprinklers #buy 📅 2024-01-10 
 - [ ] makeup reup #buy
-- [ ] Black pepper #buy 
+- [x] Black pepper #buy ✅ 2025-01-09
 - [x] Prescription pickup #buy 📅 2024-11-25 ✅ 2024-11-25
-- [ ] Water filter for fridge 📅 2024-12-24 #buy
+- [x] Water filter for fridge #buy 📅 2024-12-24 ✅ 2025-01-21
 - [x] Pick up dog at shelter 📅 2024-11-26 ✅ 2024-12-19
 - [x] Recap 📅 2024-11-21 ✅ 2024-11-25
 - [x] respond to Cantera Negra guy 📅 2024-11-21 ✅ 2024-11-24
@@ -348,7 +419,7 @@ Career & Opportunities
 - [ ] Check out your saved instagram eats and baked lists and come up with meals that you will be making… also make UGC videos for all of these
 - [ ] Clean foreo #chores 
 - [ ] sierra madre #lunch 📅 2024-08-26 
-- [ ] order ingredients for pho #buy 📅 2024-08-04 
+- [x] order ingredients for pho #buy 📅 2024-08-04 ✅ 2025-01-21
 - [ ] Indian brunch buffet 📅 2024-09-01 
 - [ ] face wash #buy 📅 2024-08-03 
 - [ ] shein  📅 2024-08-05 
@@ -385,8 +456,54 @@ Career & Opportunities
 - [x] Interview with Tanteo at 7pm 📅 2024-07-30 ✅ 2024-08-02
 - [ ] Facial ice roller 📅 2024-07-30 #buy 
 - [ ] facial massager 📅 2024-07-30 #buy
-- [ ] Dust fans 📅 2024-08-03 🔁 every week on Sunday #chores 
-- [ ] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-08-11
+- [ ] Dust fans #chores 🔁 every week on Sunday 📅 2025-01-12
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2025-01-05 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-12-29 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-12-22 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-12-15 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-12-08 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-12-01 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-11-24 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-11-17 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-11-10 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-11-03 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-10-27 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-10-20 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-10-13 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-10-06 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-09-29 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-09-22 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-09-15 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-09-08 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-09-01 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-08-25 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-08-18 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-08-11 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-08-04 ✅ 2025-01-10
+- [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-08-03 ✅ 2025-01-10
+- [ ] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-01-12
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-01-05 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-12-29 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-12-22 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-12-15 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-12-08 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-12-01 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-11-24 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-11-17 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-11-10 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-11-03 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-10-27 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-10-20 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-10-13 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-10-06 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-09-29 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-09-22 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-09-15 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-09-08 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-09-01 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-08-25 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-08-18 ✅ 2025-01-10
+- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-08-11 ✅ 2025-01-10
 - [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-08-04 ✅ 2024-12-17
 - [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-07-28 ✅ 2024-08-02
 - [x] Library #solofun 📅 2024-07-30 ✅ 2024-10-29
@@ -396,8 +513,11 @@ Career & Opportunities
 - [x] Tanteo interview #computer 📅 2024-07-30 ✅ 2024-07-30
 - [ ] How to clean stains from Dutch oven #computer 📅 2024-07-29 
 - [ ] Trim hedges on Keisha side [[Orestes]] #gardening 📅 2024-11-20
-- [ ] Bring bike to get tuneup 🛫 2024-11-05 #errands 
-- [ ] Clean oven 📅 2024-11-05 #chores 🔁 every month 
+- [x] Bring bike to get tuneup #errands 🛫 2024-11-05 ✅ 2025-01-10
+- [ ] Clean oven #chores 🔁 every month 📅 2025-02-05
+- [x] Clean oven #chores 🔁 every month 📅 2025-01-05 ✅ 2025-01-10
+- [x] Clean oven #chores 🔁 every month 📅 2024-12-05 ✅ 2025-01-10
+- [x] Clean oven #chores 🔁 every month 📅 2024-11-05 ✅ 2025-01-10
 - [ ] Organize tasks by hashtag #computer 📅 2024-11-27 
 - [x] clean dining table #chores 📅 2024-07-27 ✅ 2024-10-30
 - [ ] add recently missed to task #computer 📅 2024-07-26 
@@ -435,7 +555,7 @@ Career & Opportunities
 - [ ] Go to Crunch after work, remember to pack bag before work  📅 2024-07-27
 - [ ] nails #personalcare
 - [ ] baby food #mealprep 
-- [ ] cuisinart #buy
+- [x] cuisinart #buy ✅ 2025-01-21
 - [ ] Sewing machine #buy 
 - [ ] osmosis beauty skincare #buy #skincare
 - [x] Plant plumeria 📅 2024-07-21 ✅ 2024-07-23
@@ -443,7 +563,7 @@ Career & Opportunities
 - [x] Deposit checks #phone 📅 2024-07-24 ✅ 2024-08-02
 - [x] tape up bleeding hearts #gardening #outside 📅 2024-07-27 ✅ 2024-08-02
 - [x] headphones out of the truck ✅ 2024-07-23
-- [ ] Apple Watch #buy
+- [x] Apple Watch #buy ✅ 2025-01-21
 - [x] Mary’s birthday 📅 2024-07-16 ✅ 2024-07-23
 - [x] figure our dinner bc das is staying over 🛫 2024-07-16 ✅ 2024-07-23
 - [ ] what to do with the hall closet #research #computer 📅 2024-07-31
@@ -470,13 +590,21 @@ Career & Opportunities
 - [ ] propogate plants from the hood #outside  📅 2024-07-16 
 - [ ] Apple Watch 📅 2024-09-16 
 - [x] Herb garden companion planting #computer #outside  📅 2024-07-09 ✅ 2024-08-02T14:15
-- [ ] Hedge trimmer #buy #homedepot
+- [x] Hedge trimmer #buy #homedepot ✅ 2025-01-21
 - [x] Mango cake ✅ 2024-07-15
 - [x] tape up  Bleeding hearts #gardening #outside 📅 2024-07-26 ✅ 2024-08-02
 - [ ] Trellis for pathway #landscapingplan #outside #buy x2
 - [ ] doctors appointments #schedule #computer  📅 2024-08-01 
 - [x] Follow up with Keisha about doctors 📅 2024-07-12 ✅ 2024-07-15
-- [ ] laundry #chores 🔁 every day 📅 2024-07-25
+- [ ] laundry #chores 🔁 every day 📅 2024-08-02
+- [x] laundry #chores 🔁 every day 📅 2024-08-01 ✅ 2025-01-10
+- [x] laundry #chores 🔁 every day 📅 2024-07-31 ✅ 2025-01-10
+- [x] laundry #chores 🔁 every day 📅 2024-07-30 ✅ 2025-01-10
+- [x] laundry #chores 🔁 every day 📅 2024-07-29 ✅ 2025-01-10
+- [x] laundry #chores 🔁 every day 📅 2024-07-28 ✅ 2025-01-10
+- [x] laundry #chores 🔁 every day 📅 2024-07-27 ✅ 2025-01-10
+- [x] laundry #chores 🔁 every day 📅 2024-07-26 ✅ 2025-01-10
+- [x] laundry #chores 🔁 every day 📅 2024-07-25 ✅ 2025-01-10
 - [x] laundry 🔁 every day 📅 2024-07-24 ✅ 2024-07-25
 - [x] Boat garbage ✅ 2024-07-15
 - [x] anchor mat ✅ 2024-07-15

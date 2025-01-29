@@ -1,0 +1,2 @@
+- [x] Add oil to mini (castelo 5w-30) 📅 2025-01-23 ✅ 2025-01-23 (80k miles)
+- [x] Changed battery on mini cooper 📅 2025-01-23 ✅ 2025-01-23 (80k miles)

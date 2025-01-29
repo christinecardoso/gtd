@@ -25,6 +25,7 @@
 - [x] brie ✅ 2024-09-15
 - [x] olive oil ✅ 2024-10-30
 - [ ] butter
+- [ ] Cooking wine #buy 
 - [ ] eggs
 - [ ] Coconut milk
 - [ ] Buy peppercorns

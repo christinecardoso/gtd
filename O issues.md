@@ -7,13 +7,13 @@ Obviously I don’t know the details, but it could be likely that he doesn’t l
 N Ocean Breeze and 3rd (desottos sand castle)
 
 - [x] gyno appointment 📅 2024-11-20 ✅ 2024-11-25
-- [ ] Cupping #buy 
+- [x] Cupping #buy ✅ 2025-01-09
 - [ ] Skincare #buy 
 - [ ] Vitamins #buy 
 - [ ] eye dr appointment 
 - [ ] mattress #buy 
-- [ ] Roomba #buy 
-- [ ] Apple Watch 📅 2024-11-19 #buy 
+- [x] Roomba #buy ✅ 2025-01-09
+- [x] Apple Watch #buy 📅 2024-11-19 ✅ 2025-01-21
 - [ ] Purple mattress #buy 
 - [x] Chimney stand 📅 2024-11-17 ✅ 2024-12-17
 - [x] Order Christmas lights Xmas light design 📅 2024-11-18 ✅ 2024-12-17
@@ -42,7 +42,7 @@ N Ocean Breeze and 3rd (desottos sand castle)
 - [ ] Cat liter #buy
 - [ ] Take photo of toilet 
 - [ ] Leaf art 
-- [ ] Coffee filters #buy 
+- [x] Coffee filters #buy ✅ 2025-01-21
 - [ ] Template website for an industry 📅 2024-11-11 
 - [ ] Orchid show 📅 2024-11-07
 - [ ] dermatologist (marks on face and pressure in temple )

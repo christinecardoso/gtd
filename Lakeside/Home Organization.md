@@ -1,3 +1,3 @@
-- [ ] Put labels on Rubbermaid containers in closet to make easy access 📅 2024-06-24 
-- [ ] Spice organizer #buy #amazon #computer 📅 2024-07-27 
+- [ ] Put labels on Rubbermaid containers in closet to make easy access #chores  📅 2024-06-24 
+- [ ] Spice organizer #buy #amazon  📅 2024-07-27 
 - [ ] Shoe rack #buy 📅 2024-07-27 

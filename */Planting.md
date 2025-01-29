@@ -40,7 +40,7 @@
 - [ ] Dog treat for pills or peanut butter 📅 2024-12-12 
 - [x] Outfit for Pilates  tmrw 📅 2024-12-12 ✅ 2024-12-17
 - [ ] Bougainvillea 
-- [ ] Lavender dr brommers #buy 
+- [ ] Lavender dr brommers #buy 📅 2025-01-28
 - [ ] Delray farmers market what trees?
 - [ ] mounts botanical garden dog days?
 - [ ] Check jobs in email 

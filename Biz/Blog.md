@@ -5,4 +5,5 @@
 - [ ]  Overcoming pain and problems is transformation periods with bring our beings to deeper ways of engagement with the universe around us. More profound understandings, healings and growth in ways we may not have perceived. You may never integrate yoga or other healthy stretching that brings us new levels of mindfulness, meditation, pleasure, unless you first experienced pain. This applies across the board to other thoughts and ideas. 
 - [ ] [[Courses reference]] SEO blog
 - [ ] https://www.starchefs.com/ seo blog for restaurants
-- [ ] 
+- [ ] AI in marketing
+- [ ] [[Obsidian Tasks optimization]] for various businesses 
