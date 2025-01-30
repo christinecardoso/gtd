@@ -10,20 +10,20 @@
 - [x] White onion ✅ 2024-12-01
 - [x] Tomatoes ✅ 2024-12-01
 - [x] Xmas tree ✅ 2024-12-1
-- [ ] Organize calendar 📅 2025-01-22 #computer 
+- [ ] Organize calendar 📅 2025-01-31 #computer 
 - [ ] sunpass #buy 📅 2025-01-30 
 - [x] Follow up with Michele and Group about reissuing check 📅 2025-01-30 ✅ 2025-01-30 #computer 
 - [x] Pick up half and half Ana bananas #buy 📅 2025-01-29 ✅ 2025-01-30
 - [ ] Sync obsidian tasks to Apple reminders so it links to Apple Watch and iCal #computer #timemanagement 📅 2025-01-26 
 - [x] Recap #computer 📅 2025-01-25 ✅ 2025-01-30
-- [ ] receipts for piñata #computer 📅 2025-01-25 
-- [ ] Add jobs to sheet #computer 📅 2025-01-22 
-- [ ] Return stuff to Moe 📅 2025-01-22 #errands 
+- [ ] receipts for piñata #computer 📅 2025-01-30 
+- [x] Add jobs to sheet #computer 📅 2025-01-30 ✅ 2025-01-30
+- [ ] Return stuff to Moe 📅 2025-01-30 #errands 
 - [ ] 
 - [x] Large yeti water bottle ✅ 2025-01-15
 - [ ] Gum or lifesavers #buy 📅 2025-01-22 
-- [ ] Eye doctor #schedule 📅 2025-01-21 
-- [ ] multivitamin #buy 📅 2025-01-21 
+- [ ] Eye doctor #schedule 📅 2025-01-30 
+- [x] multivitamin #buy 📅 2025-01-21 ✅ 2025-01-30
 - [ ] Lunch
 - [ ] snack
 - [ ] breakfast
@@ -32,7 +32,9 @@
 - [ ] read the [[sheet she sent you]]
 - [ ] Do one of those skin online things to get the tretinoin or fine line thing (go to derm) 📅 2025-01-21 
 - [x] Pickup prescription at Walgreens 📅 2025-01-21 ✅ 2025-01-21
-- [ ] meal prep #routine 📅 2025-01-21 🔁 every week ⏫ ➕ 2025-01-21
+- [ ] meal prep #routine ⏫ 🔁 every week 📅 2025-02-04
+- [x] meal prep #routine ⏫ 🔁 every week 📅 2025-01-28 ✅ 2025-01-30
+- [x] meal prep #routine ⏫ 🔁 every week ➕ 2025-01-21 📅 2025-01-21 ✅ 2025-01-30
 - [ ] Perfume #buy 
 - [ ] Screen protector #buy 📅 2025-01-21 
 - [ ] Mason jar sprout growing lid #buy 
@@ -41,13 +43,14 @@
 - [ ] Dark spot blemish patches #buy 
 - [ ] Blemish patches #buy
 - [ ] Epsom salt foot bath for LB 📅 2025-01-21 #chores 
-- [ ] Nails 📅 2025-01-20 🔁 every month #routine 
+- [ ] Nails #routine 🔁 every month 📅 2025-02-20
+- [x] Nails #routine 🔁 every month 📅 2025-01-20 ✅ 2025-01-30
 - [ ] Make a list for routine tag on obsidian 📅 2025-01-19 #computer 
 - [ ] finish recap 📅 2025-01-19 
 - [ ] Pilates with Devonne 📅 2025-01-19 ⏫ 
 - [ ] Look up an herbalist for the specific mucus cough and look up on ChatGPT homeo remedies for this (bronchitis? ) #research #computer 
-- [ ] Dog booties 📅 2025-01-20  #buy
-- [ ] put cream on B 📅 2025-01-20 #chores 
+- [ ] Dog booties 📅 2025-02-30  #buy
+- [ ] put cream on B 📅 2025-01-30 #chores 
 - [ ] Silk pillowcase #buy
 - [ ] Screen protector #buy
 - [ ] lululemon pants #buy
@@ -147,7 +150,7 @@
 - [ ] Classpass 📅 2024-12-24 
 - [x] Good perfume for orestes #buy 📅 2024-12-18 ✅ 2025-01-03
 - [ ] Start making kimchi 📅 2024-12-18 #kitchen
-- [ ] DIY Salt Scrub for gifts 📅 2024-12-18 
+- [ ] DIY Salt Scrub for #gifts 📅 2024-12-18 
 - [ ] Steam table cloth #clean 📅 2024-12-18 
 - [ ] Estate sales #solofun 
 - [ ] Drop off orestes shirts at dry cleaner 📅 2024-12-18

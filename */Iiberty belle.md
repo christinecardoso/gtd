@@ -4,4 +4,4 @@
 - [ ] Copy ChatGPT reel comment story strategy 
 - [ ] reel trends ?
 - [ ] Pupbestie website based off of research on 
-- [ ] Bath 📅 2024-12-18 
+- [ ] Bath #chores 🔁 every week 📅 2025-1-30 

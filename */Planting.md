@@ -94,7 +94,6 @@
 - [ ] bike for Orestes 
 - [ ] Fix tine bike tire
 - [ ] caulk around sink
-- [ ] Return stuff to storage 📅 2024-12-12 
 - [ ] doctors appontments
 - [ ] reviews blood test status 
 - [ ] Pay bills
