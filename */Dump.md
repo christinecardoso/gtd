@@ -11,9 +11,11 @@
 - [x] Tomatoes ✅ 2024-12-01
 - [x] Xmas tree ✅ 2024-12-1
 - [ ] Organize calendar 📅 2025-01-22 #computer 
-- [ ] Pick up half and half Ana bananas #buy 📅 2025-01-29 
+- [ ] sunpass #buy 📅 2025-01-30 
+- [x] Follow up with Michele and Group about reissuing check 📅 2025-01-30 ✅ 2025-01-30 #computer 
+- [x] Pick up half and half Ana bananas #buy 📅 2025-01-29 ✅ 2025-01-30
 - [ ] Sync obsidian tasks to Apple reminders so it links to Apple Watch and iCal #computer #timemanagement 📅 2025-01-26 
-- [ ] Recap #computer 📅 2025-01-25 
+- [x] Recap #computer 📅 2025-01-25 ✅ 2025-01-30
 - [ ] receipts for piñata #computer 📅 2025-01-25 
 - [ ] Add jobs to sheet #computer 📅 2025-01-22 
 - [ ] Return stuff to Moe 📅 2025-01-22 #errands 
@@ -69,7 +71,7 @@
 - [ ] oral b brush head #buy
 - [ ] asisn soup spoons #buy 
 - [ ] break pads #errands 
-- [ ] car wash #errands 📅 2025-01-15
+- [x] car wash #errands 📅 2025-01-15 ✅ 2025-01-30
 - [ ] Workout app #computer 
 - [ ] obsidian Apple Watch. iOS shortcuts #computer 
 - [ ] Note with all the hashtags in order
