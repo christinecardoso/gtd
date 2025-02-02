@@ -3,4 +3,4 @@
 - [ ] India buffet brunch on Sundays
 - [ ] Matthews brewing Company
 - [ ] Bamboo room
-- [ ] 
+- [ ] Indian brunch buffet 📅 2024-09-01 

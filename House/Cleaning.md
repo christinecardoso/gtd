@@ -1,0 +1,1 @@
+- [ ] wash the sheets 📅 2025-02-01 🔁 every week on Sunday #chores 

@@ -7,6 +7,7 @@
 - [ ] Orchids 📅 2024-08-20 
 - [ ] hanging plants 
 - [ ] Machete
+- [ ] Plant [[Bougainvillea on Palmway Entry]]
 
 https://www.google.com/amp/s/thegardendiaries.blog/2020/11/20/lemon-grass-from-garden-to-kitchen/amp/
 

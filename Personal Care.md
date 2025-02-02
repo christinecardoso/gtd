@@ -1,21 +1,5 @@
 - [ ] Figure out how to set recurring tasks and manage workouts and personal care goals on obsidian 📅 2024-07-28 #computer 
 - [ ] Pedicure #pm #routine 🔁 every week on Friday 📅 2025-01-31
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2025-01-24 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2025-01-17 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2025-01-10 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2025-01-03 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-12-27 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-12-20 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-12-13 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-12-06 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-11-29 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-11-22 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-11-15 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-11-08 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-11-01 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-10-25 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-10-18 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-10-11 ✅ 2025-01-30
 - [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-10-04 ✅ 2025-01-30
 - [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-09-27 ✅ 2025-01-30
 - [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-09-20 ✅ 2025-01-30
@@ -23,10 +7,6 @@
 - [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-09-06 ✅ 2025-01-30
 - [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-08-30 ✅ 2025-01-30
 - [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-08-23 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-08-16 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-08-09 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-08-02 ✅ 2024-08-02
-- [x] Pedicure 🔁 every week on Friday 📅 2024-07-26 ✅ 2024-07-27
 - [ ] Research best methods for staying hydrated 📅 2024-07-24 🔼 #computer 
 - [ ] crunch workout class 📅 2024-07-30 🔼 
 - [ ] Become a yoga instructor so you can apply when the new crunch opens 📅 2024-07-30 
@@ -45,12 +25,14 @@
 - [ ] Call local chiropractor to schedule appointment with health insurance 📅 2024-08-01 #schedule #computer 
 - [ ] Wax lip 📅 2024-08-04
 - [ ] Follow up and schedule Piano tuning #schedule  📅 2024-08-26 
+- [ ] ENT appointment for mucous #schedule 📅 2025-02-01 
+- [ ] Hair appointment #schedule 📅 2025-02-01 
 - [ ] Practice piano on app 📅 2024-07-29 
 - [x] take vitamin 📅 2024-06-19 ✅ 2024-06-24
 - [ ] Dyson attachments #buy 📅 2024-09-20 
 - [ ] lipstick tom ford #wishlist
-- [ ] teeth whitening #schedule 
-- [ ] Fix mini cooper ⏫ 🛫 2024-08-18 #schedule 
+- [x] teeth whitening #schedule ✅ 2025-01-30
+- [x] Fix mini cooper #schedule ⏫ 🛫 2024-08-18 ✅ 2025-01-30
 - [ ] Go to the library and sit in the Hammock 📅 2024-07-30 
 - [ ] go for a skateboard
 - [ ] go to the beach

@@ -10,6 +10,22 @@
 - [x] White onion ✅ 2024-12-01
 - [x] Tomatoes ✅ 2024-12-01
 - [x] Xmas tree ✅ 2024-12-1
+- [ ] Plant the succulents from work #outside  📅 2025-02-02 
+- [ ] Make receipts #computer 📅 2025-02-02 
+- [ ] recap #computer 📅 2025-02-02 
+- [ ] garden layout #research 
+- [ ] Look up music website for local event planning #research 
+- [ ] Garden plan #research  📅 2025-02-03 
+- [ ] Trellis #buy 📅 2025-02-02 
+- [ ] rose garden plan #research  📅 2025-02-03
+- [ ] Dermatologist appointment #schedule 
+- [ ] Look through those books to see if they have the garden books at the library #research 
+- [ ] New reflective collar for Bagheera 📅 2025-02-02 #buy 
+- [ ] Multivitamin for Liberty 📅 2025-02-02 #buy
+- [x] Put tasting stuff in the mini cooper ✅ 2025-02-02
+- [ ] Take mixers out of mini cooper
+- [ ] Message Ana about how to get pay stubs
+- [ ] Blog for past promotion experience like a resume do you c can apply to public label Manmar and talent direct 📅 2025-02-01 
 - [ ] Organize calendar 📅 2025-01-31 #computer 
 - [ ] sunpass #buy 📅 2025-01-30 
 - [x] Follow up with Michele and Group about reissuing check 📅 2025-01-30 ✅ 2025-01-30 #computer 
@@ -18,17 +34,12 @@
 - [x] Recap #computer 📅 2025-01-25 ✅ 2025-01-30
 - [ ] receipts for piñata #computer 📅 2025-01-30 
 - [x] Add jobs to sheet #computer 📅 2025-01-30 ✅ 2025-01-30
-- [ ] Return stuff to Moe 📅 2025-01-30 #errands 
-- [ ] 
+- [ ] Return stuff to Moe 📅 2025-02-01 #errands 
 - [x] Large yeti water bottle ✅ 2025-01-15
 - [ ] Gum or lifesavers #buy 📅 2025-01-22 
 - [ ] Eye doctor #schedule 📅 2025-01-30 
 - [x] multivitamin #buy 📅 2025-01-21 ✅ 2025-01-30
-- [ ] Lunch
-- [ ] snack
-- [ ] breakfast
-- [ ] charger
-- [ ] wk dog
+- [ ] Walk dog #routine 
 - [ ] read the [[sheet she sent you]]
 - [ ] Do one of those skin online things to get the tretinoin or fine line thing (go to derm) 📅 2025-01-21 
 - [x] Pickup prescription at Walgreens 📅 2025-01-21 ✅ 2025-01-21
@@ -78,7 +89,7 @@
 - [ ] Workout app #computer 
 - [ ] obsidian Apple Watch. iOS shortcuts #computer 
 - [ ] Note with all the hashtags in order
-- [ ] classpass #schedule 
+- [x] classpass #schedule ✅ 2025-01-30
 - [ ] Flashlight #buy 
 - [ ] headlamp for skateboarding #buy 
 - [ ] Flashlight #buy
@@ -425,7 +436,6 @@ Career & Opportunities
 - [ ] Clean foreo #chores 
 - [ ] sierra madre #lunch 📅 2024-08-26 
 - [x] order ingredients for pho #buy 📅 2024-08-04 ✅ 2025-01-21
-- [ ] Indian brunch buffet 📅 2024-09-01 
 - [ ] face wash #buy 📅 2024-08-03 
 - [ ] shein  📅 2024-08-05 
 - [x] find the roomba [[Orestes]] 📅 2024-08-03 ✅ 2024-12-17

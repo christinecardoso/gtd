@@ -1,3 +1,4 @@
 - [ ] Put labels on Rubbermaid containers in closet to make easy access #chores  📅 2024-06-24 
 - [ ] Spice organizer #buy #amazon  📅 2024-07-27 
 - [x] Shoe rack #buy 📅 2024-07-27 ✅ 2025-01-30
+- [ ] Put lavender in our pillowcases 📅 2025-02-01 
