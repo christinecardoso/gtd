@@ -1,0 +1,3 @@
+- Rewrite the following text in an evocative, [[editorial tone]] that is both refined and slightly unexpected. Use rich, sensory-driven descriptions and a confident yet approachable voice. Weave in subtle cultural or aesthetic references to create an immersive experience for the reader. Maintain a sophisticated but conversational feel, as if the copy were written by an expert with a playful edge.
+	- (From a GQ listicle of le labo scents)
+- 

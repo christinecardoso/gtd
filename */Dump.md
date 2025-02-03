@@ -10,6 +10,9 @@
 - [x] White onion ✅ 2024-12-01
 - [x] Tomatoes ✅ 2024-12-01
 - [x] Xmas tree ✅ 2024-12-1
+- [ ] Give LB medicine dye📅 2025-02-02 
+- [ ] Yoga, rollerblade, beach, paddleboard, yoga on the beach, build an app or something to alert you on your Apple Watch when it is good paddle boarding conditions here
+- [ ] [[Make images searchable in obsidian]] with metadata, this could be useful for blogging or other things 📅 2025-02-04 #computer 
 - [ ] Plant the succulents from work #outside  📅 2025-02-02 
 - [ ] Make receipts #computer 📅 2025-02-02 
 - [ ] recap #computer 📅 2025-02-02 

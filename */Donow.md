@@ -2,7 +2,7 @@
 - [ ] pilates JetSet membership 
 - [ ] pilates course
 - [ ] house to do website (follow up with fence guy given new plan, outdoor shower, organize screenshots from insta, put priorities list together, plant plants, sliding windows research, outdoor gas bbq)
-- [ ] Dads birthday
+- [x] Dads birthday ✅ 2025-02-02
 - [ ] tennis follow up 
 - [ ] art sketches everyday 
 - [ ] norton museum of art first Fridays 

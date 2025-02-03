@@ -1,0 +1,1 @@
+https://www.google.com/search?q=obsidian+photo+gallery&rlz=1CDGOYI_enUS736US736&oq=obsiaidan+phtoo+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQg1Nzc1ajBqN6gCGrACAeIDBBgCIF8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#ebo=0

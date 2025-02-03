@@ -1,4 +1,10 @@
 - [ ] Sell prints on Facebook marketplace (ie: Florida historical map)
+- [ ] Create short form video content to reflect all the brands you represent in samplings.
+- [ ] Create [[UGC Product Video Strategy]] (these are great for your portfolio for marketing, social media, photography, etc), then create a voice over with [[editorial tone]] and [[Tone Prompts]]. You can also add outfit aspects to these. 🛫 2025-02-02 📅 2025-02-04 #computer 
+- [ ] Go on intermix, mods operandi, revolve and take photos of stylist outfit ideas and create wardrobe snapshots from your closet. Add it to a blog with links 📅 2025-02-03  #computer 
+- [ ] Make travel photography website tshirts, print one so you can wear it to Mardi Gras with Renee and share the website with her #computer 📅 2025-02-03 
+- [ ] look through tshirt photos and screenshots form tj maxx and make a website with those types of graphics 📅 2025-02-03 
+- [ ] take the [[procreate course]] on skillshare #computer  
 - [ ] Itineraries like Kat’s on a blog
 - [ ] Vegan sushi and healthy cafe. Under the Mango x Pura Vida x Love Life Cafe in LWB
 - [ ] Illustrate children stories. Fake drawing classes and challenges in procreate on skillshare oe somewhere and use this as inspo to start drawing and come up with your own style. Film it. And create content. One for the illustrated book, one for the art.
