@@ -1,17 +1,11 @@
 - [ ] Figure out how to set recurring tasks and manage workouts and personal care goals on obsidian 📅 2024-07-28 #computer 
-- [ ] Pedicure #pm #routine 🔁 every week on Friday 📅 2025-01-31
+- [ ] Pedicure #pm #routine 🔁 every week on Friday 📅 2025-01-31 on 🏁 delete 
+- [ ] take your vitamin 🔁 every day 🏁 delete 📅 2025-02-05
 - [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-10-04 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-09-27 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-09-20 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-09-13 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-09-06 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-08-30 ✅ 2025-01-30
-- [x] Pedicure #pm #routine 🔁 every week on Friday 📅 2024-08-23 ✅ 2025-01-30
 - [ ] Research best methods for staying hydrated 📅 2024-07-24 🔼 #computer 
 - [ ] crunch workout class 📅 2024-07-30 🔼 
 - [ ] Become a yoga instructor so you can apply when the new crunch opens 📅 2024-07-30 
-- [ ] Pilates class with Devonne 📅 2024-07-30 
-- [ ] LED face mask 📅 2024-07-28 #routine #am 
+- [ ] LED face mask 📅 2024-02-05 #routine #am 🔁 every day 🏁 delete 
 - [ ] Stretch/cupping
 - [ ] stretch on wheel #am #routine 🔁 every day 📅 2024-07-28
 - [x] stretch on wheel #am #routine 🔁 every day 📅 2024-07-27 ✅ 2024-07-27
@@ -29,7 +23,7 @@
 - [ ] Hair appointment #schedule 📅 2025-02-01 
 - [ ] Practice piano on app 📅 2024-07-29 
 - [x] take vitamin 📅 2024-06-19 ✅ 2024-06-24
-- [ ] Dyson attachments #buy 📅 2024-09-20 
+- [ ] Dyson attachments #buy 📅 2024-03-20 
 - [ ] lipstick tom ford #wishlist
 - [x] teeth whitening #schedule ✅ 2025-01-30
 - [x] Fix mini cooper #schedule ⏫ 🛫 2024-08-18 ✅ 2025-01-30

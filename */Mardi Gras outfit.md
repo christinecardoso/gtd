@@ -1,0 +1,12 @@
+- tassels
+- Beaded
+- Circus 
+- Feathers
+- Yellow green gold purple 
+- Peackock
+- fringe metallic jacket
+- feather boas
+- Peacock
+- Leather
+- Gold pants
+- Purple legtinfs

@@ -10,6 +10,57 @@
 - [x] White onion ✅ 2024-12-01
 - [x] Tomatoes ✅ 2024-12-01
 - [x] Xmas tree ✅ 2024-12-1
+- [ ] Cowgirl hat
+- [ ] sportfot.com
+- [ ] Collagen smoothy
+- [ ] Buy OG chocolate 
+- [ ] Am beach or bike
+- [ ] Banana smoothie for tmrw
+- [ ] Foreo bear 
+- [ ] Toothbrush head
+- [ ] Sunrise Beach or bicycle
+- [ ] Set up alerts for when it’s been 
+- [ ] eztend classpass 
+- [ ] Nails
+- [ ] Bath
+- [ ] 
+- [ ] smoothie 
+- [ ] recap
+- [ ] cancel m&g 
+- [ ] Hibiscus tea
+- [ ] Piano tuning!!!
+- [ ] Salsa 📅 2025-02-04 #solofun
+- [x] Incense holder ✅ 2025-02-04
+- [ ] Pie (go to rorabeck for fruit)
+- [ ] Figure out how to do food UGC
+- [ ] Casual dresses you can throw on around the house
+- [ ] Google Thermostat install with dad 📅 2025-02-10 
+- [ ] Pickup Tito’s kit for Sunday 📅 2025-02-04 
+- [ ] Pantry cabinet
+- [ ] Move the rocks from the flower beds
+- [ ] plant the herbs 
+- [ ] juicing supplies
+
+- [ ] order broccoli seeds for sprouts
+- [ ] order Dahlia and flower garden cut flower garden seeds
+- [ ] fertilizer for palms
+- [ ] fertilizer for blooms
+- [ ] Cabinet for entryway and by living room
+- [ ] Pet vacuum attachment #buy 
+- [ ] Placemats
+- [ ] Sell ram mats
+- [ ] tjx returns 
+- [ ] DIY cement patio pavers for under the table 
+- [ ] list dog cage
+- [ ] install toilets with dad 📅 2025-02-06 
+- [ ] Hand wash
+- [ ] toothbrush head
+- [ ] face cream
+- [ ] Hair colorist
+- [ ] rwturn battery to Moe 
+- [ ] Cut bagheeras nails 📅 2025-02-03 #chores 
+- [ ] Find cleaning lady 📅 2025-02-03 #computer 
+- [ ] [[Mardi Gras outfit]]
 - [ ] Give LB medicine dye📅 2025-02-02 
 - [ ] Yoga, rollerblade, beach, paddleboard, yoga on the beach, build an app or something to alert you on your Apple Watch when it is good paddle boarding conditions here
 - [ ] [[Make images searchable in obsidian]] with metadata, this could be useful for blogging or other things 📅 2025-02-04 #computer 
