@@ -10,7 +10,44 @@
 - [x] White onion ✅ 2024-12-01
 - [x] Tomatoes ✅ 2024-12-01
 - [x] Xmas tree ✅ 2024-12-1
-- [ ] Cowgirl hat
+- [x] Cowgirl hat ✅ 2025-02-13
+- [ ] Process cleaning lady applications
+- [ ] Pick up cowboy boors
+- [ ] apy for jobs 
+- [ ] Juice  x rorabeck / pita
+- [ ] bread website
+- [ ] woedpress rhemes
+- [ ] website for Portugal blog
+- [ ] qebaite for bread
+- [ ] digital person website
+- [ ] follow up on leads
+- [ ] diana 
+- [ ] Workoit
+- [ ] VLR
+- [ ] Pickup KIt from storage x mounts 
+- [ ] Dr app therapist eye
+- [ ] 
+- [ ] Doctors appointments
+- [ ] Sit in hammock and read
+- [ ] Car gadget to fox
+- [ ] call BMW to see if you get preapproved 
+- [ ] Clean
+- [ ] read, beach, or paddleboard??!
+- [ ] Best theme websites
+- [ ] Apply for jobs
+- [ ] Watch youtube up work channel 
+- [ ] Lululemon hem
+- [ ] Bread website
+- [ ] doctors appointments
+- [ ] returns to TJX
+- [ ] Bike
+- [ ] Read then return library book
+- [ ] pay CC with cash by today 📅 2025-02-10 
+- [ ] Horse sense (YouTube) filming on stream yard simulcast hosting for Churchill downs 
+- [ ] Josh Burns Tech (topmate )
+- [ ] Portugal podcast about what to do
+- [ ] At&t
+- [ ] ACV spray for libby
 - [ ] sportfot.com
 - [ ] Collagen smoothy
 - [ ] Buy OG chocolate 
@@ -23,7 +60,6 @@
 - [ ] eztend classpass 
 - [ ] Nails
 - [ ] Bath
-- [ ] 
 - [ ] smoothie 
 - [ ] recap
 - [ ] cancel m&g 
