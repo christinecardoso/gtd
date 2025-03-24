@@ -22,7 +22,7 @@ path does not include Templates
 not done
 has due date
 tag includes chore
-sort by due reverse
+sort by due
 sort by path
 sort by tag
 sort by status.name

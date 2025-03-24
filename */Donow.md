@@ -1,5 +1,5 @@
 - [ ] Group salt water cleanse
-- [ ] pilates JetSet membership 
+- [x] pilates JetSet membership ✅ 2025-03-24
 - [ ] pilates course
 - [ ] house to do website (follow up with fence guy given new plan, outdoor shower, organize screenshots from insta, put priorities list together, plant plants, sliding windows research, outdoor gas bbq)
 - [x] Dads birthday ✅ 2025-02-02
