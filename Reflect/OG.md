@@ -1,0 +1,7 @@
+
+## devotion or frustration
+On your best days as a couple, Orestes feels like you’re a source of stability for him - you’re a grounding force in his life, like a teacher or a mentor. But ideally, he can still be autonomous and not base his happiness on your actions or the status of the relationship. Orestes respects you, and this makes him want to stay committed. He can’t just walk away - you’re a strong influence in his life.
+
+Alternatively, when you’re struggling, there’s a seriousness about the relationship - like Orestes can’t take it lightly. While this may not be true of your relationship, if there is tension, this dynamic might be the reason. In this case, it’s possible he feels a sense of pressure or like there’s something frustrating about it. He might feel like you’re critical, dismissive, or making him feel deficient - even if you’ve done nothing to elicit such a response.
+
+Or instead, Orestes could criticize you - because he feels like the relationship isn’t meeting his ideals or you’re not acting the way he expects you to. In any case, this connection is forcing Orestes to stop seeking fulfillment outside himself. You’re giving him an opportunity to feel empowered - without depending on the relationship for his sense of wholeness.

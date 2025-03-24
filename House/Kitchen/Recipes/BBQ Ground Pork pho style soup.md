@@ -26,7 +26,7 @@ BBQ ground pork pho-style is a unique and flavorful dish that combines the eleme
 
 #### For the Noodles and Garnishes:
 - 8 oz rice noodles (pho noodles)
-- Fresh herbs: cilantro, Thai basil, mint
+- Fresh herbs: cilantro, Thai basil, mint koi
 - Bean sprouts
 - Lime wedges
 - Fresh chili slices (optional)

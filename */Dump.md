@@ -10,11 +10,42 @@
 - [x] White onion ✅ 2024-12-01
 - [x] Tomatoes ✅ 2024-12-01
 - [x] Xmas tree ✅ 2024-12-1
-- [x] Cowgirl hat ✅ 2025-02-13
+- [x] Cowgirl hat ✅ 2025-02-13portugal blog
+- [ ] Nails
+- [ ] Battery for door 📅 2025-03-04 
+- [ ] case for phone 📅 2025-03-04 
+- [x] Recap 📅 2025-03-04 ✅ 2025-03-04
+- [x] Juice rorabeck ✅ 2025-03-04
+- [ ] Spectrum
+- [ ] proof of the pudding
+- [ ] Curly g marketing 
+- [ ] Breast lift 
+- [x] Phone case ✅ 2025-03-04
+- [ ] Face Band-Aids
+- [x] Deodorant ✅ 2025-03-04
+- [x] Face make up wipes ✅ 2025-03-04
+- [x] Recap ✅ 2025-03-04
+- [ ] P634 train 5:26pme
+- [ ] bath
+- [x] razor ✅ 2025-03-04
+- [ ] dog food holder
+- [x] case ✅ 2025-03-04
 - [ ] Process cleaning lady applications
-- [ ] Pick up cowboy boors
+- [ ] Dog instagram strategy
+- [ ] Reflections instagram strategy like youn Pueblo 
+- [ ] therapist
+- [ ] Organize what certifications and trainings you can do for all different types of job titles, model from clutch.co Website for structure and user experience
+- [ ] Organize people who Mark themselves on YouTube or Instagram using the Workstaff app and clutch..co model e
+- [ ] Pick up cowboy boots
+- [ ] Flash sea salt
+- [x] Razor blade ✅ 2025-03-04
+- [ ] apply for job
+- [ ] Job website 
+- [ ] spurdough pretzels 
 - [ ] apy for jobs 
-- [ ] Juice  x rorabeck / pita
+- [ ] Make juice 📅 2025-02-21 
+- [ ] Pickup items from storage 📅 2025-02-21 
+- [x] Juice  x rorabeck / pita ✅ 2025-02-20
 - [ ] bread website
 - [ ] woedpress rhemes
 - [ ] website for Portugal blog

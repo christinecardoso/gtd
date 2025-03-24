@@ -1,0 +1,11 @@
+- e-commerce store where you put together baskets and products that are of metaphysical  
+- provide info (do a questionnaire like Prose etc to direct people to end results)
+- Bracelets like Laura’s ans pair them for things
+- crystals, trinkets, statues, incense, sage and more
+- can you mix yoga, meditative and walking podcasts with this?
+- Is gardening, plants, slow living blogs a good cross reference?
+- Cute tanks and scarfs with printed peaceful and meditative graphics
+- [[Metaphysical for heartbreak]]
+- Topics for solutions 
+	- Going through breakup (mourning tincture etc)
+	- Talk about herbs and homeopathy etc 

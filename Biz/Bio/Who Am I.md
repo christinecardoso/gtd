@@ -1,0 +1,1 @@
+your chart suggests a mix of deep emotional processing (Pisces Moon), analytical thinking (Virgo Sun, Mars, and Venus), and a need for movement and meaning (Sagittarius Ascendant),
