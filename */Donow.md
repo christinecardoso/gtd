@@ -1,5 +1,17 @@
+- [ ] JetSet email
+- [ ] eye appointment
+- [ ] Edite video
+- [ ] Papo seco
+- [ ] Check mini oil, read codes, 
+- [ ] portfolio site
+- [ ] alchie vids
+- [ ] scrrenshot vids
+- [ ] respobse to lee
+- [ ] Screenshot site
+- [ ] bread blog
+- [ ] 
 - [ ] Group salt water cleanse
-- [x] pilates JetSet membership ✅ 2025-03-24
+- [ ] pilates JetSet membership 
 - [ ] pilates course
 - [ ] house to do website (follow up with fence guy given new plan, outdoor shower, organize screenshots from insta, put priorities list together, plant plants, sliding windows research, outdoor gas bbq)
 - [x] Dads birthday ✅ 2025-02-02

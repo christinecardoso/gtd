@@ -125,7 +125,7 @@
 - [ ] face cream
 - [ ] Hair colorist
 - [ ] rwturn battery to Moe 
-- [x] Cut bagheeras nails #chores 📅 2025-02-03 ✅ 2025-03-24
+- [ ] Cut bagheeras nails 📅 2025-02-03 #chores 
 - [ ] Find cleaning lady 📅 2025-02-03 #computer 
 - [ ] [[Mardi Gras outfit]]
 - [ ] Give LB medicine dye📅 2025-02-02 
@@ -182,7 +182,7 @@
 - [ ] Pilates with Devonne 📅 2025-01-19 ⏫ 
 - [ ] Look up an herbalist for the specific mucus cough and look up on ChatGPT homeo remedies for this (bronchitis? ) #research #computer 
 - [ ] Dog booties 📅 2025-02-30  #buy
-- [x] put cream on B #chores 📅 2025-01-30 ✅ 2025-03-24
+- [ ] put cream on B 📅 2025-01-30 #chores 
 - [ ] Silk pillowcase #buy
 - [ ] Screen protector #buy
 - [ ] lululemon pants #buy
@@ -199,7 +199,7 @@
 - [ ] New screen protector
 - [x] Look for Oxxo cleaner 📅 2025-01-10 ✅ 2025-01-10
 - [ ] Follow up on M&G expired check #chores 📅 2025-01-13
-- [ ] Check mini cooper codes #chores 📅 2025-03-25
+- [ ] Check mini cooper codes #chores 📅 2025-01-11
 - [x] order batteey connector #buy ✅ 2025-01-21
 - [ ] clean under fridge #clean 
 - [ ] google sheets to calendar #computer 
@@ -592,8 +592,7 @@ Career & Opportunities
 - [x] Interview with Tanteo at 7pm 📅 2024-07-30 ✅ 2024-08-02
 - [ ] Facial ice roller 📅 2024-07-30 #buy 
 - [ ] facial massager 📅 2024-07-30 #buy
-- [ ] Dust fans #chores 🔁 every week on Sunday 📅 2025-01-19
-- [x] Dust fans #chores 🔁 every week on Sunday 📅 2025-01-12 ✅ 2025-03-24
+- [ ] Dust fans #chores 🔁 every week on Sunday 📅 2025-01-12
 - [x] Dust fans #chores 🔁 every week on Sunday 📅 2025-01-05 ✅ 2025-01-10
 - [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-12-29 ✅ 2025-01-10
 - [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-12-22 ✅ 2025-01-10
@@ -618,18 +617,7 @@ Career & Opportunities
 - [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-08-11 ✅ 2025-01-10
 - [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-08-04 ✅ 2025-01-10
 - [x] Dust fans #chores 🔁 every week on Sunday 📅 2024-08-03 ✅ 2025-01-10
-- [ ] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-03-30
-- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-03-23 ✅ 2025-03-24
-- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-03-16 ✅ 2025-03-24
-- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-03-09 ✅ 2025-03-24
-- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-03-02 ✅ 2025-03-24
-- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-02-23 ✅ 2025-03-24
-- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-02-16 ✅ 2025-03-24
-- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-02-09 ✅ 2025-03-24
-- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-02-02 ✅ 2025-03-24
-- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-01-26 ✅ 2025-03-24
-- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-01-19 ✅ 2025-03-24
-- [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-01-12 ✅ 2025-03-24
+- [ ] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-01-12
 - [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2025-01-05 ✅ 2025-01-10
 - [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-12-29 ✅ 2025-01-10
 - [x] Take out bathroom trash #chores 🔁 every week on Sunday 📅 2024-12-22 ✅ 2025-01-10
@@ -662,9 +650,7 @@ Career & Opportunities
 - [ ] How to clean stains from Dutch oven #computer 📅 2024-07-29 
 - [ ] Trim hedges on Keisha side [[Orestes]] #gardening 📅 2024-11-20
 - [x] Bring bike to get tuneup #errands 🛫 2024-11-05 ✅ 2025-01-10
-- [ ] Clean oven #chores 🔁 every month 📅 2025-04-05
-- [x] Clean oven #chores 🔁 every month 📅 2025-03-05 ✅ 2025-03-24
-- [x] Clean oven #chores 🔁 every month 📅 2025-02-05 ✅ 2025-03-24
+- [ ] Clean oven #chores 🔁 every month 📅 2025-02-05
 - [x] Clean oven #chores 🔁 every month 📅 2025-01-05 ✅ 2025-01-10
 - [x] Clean oven #chores 🔁 every month 📅 2024-12-05 ✅ 2025-01-10
 - [x] Clean oven #chores 🔁 every month 📅 2024-11-05 ✅ 2025-01-10
@@ -746,55 +732,7 @@ Career & Opportunities
 - [ ] Trellis for pathway #landscapingplan #outside #buy x2
 - [ ] doctors appointments #schedule #computer  📅 2024-08-01 
 - [x] Follow up with Keisha about doctors 📅 2024-07-12 ✅ 2024-07-15
-- [ ] laundry #chores 🔁 every week 📅 2025-03-30
-- [x] laundry #chores 🔁 every week 📅 2025-03-23 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2025-03-16 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2025-03-09 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2025-03-02 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2025-02-23 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2025-02-16 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2025-02-09 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2025-02-02 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2025-01-26 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2025-01-19 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2025-01-12 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2025-01-05 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-12-29 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-12-22 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-12-15 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-12-08 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-12-01 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-11-24 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-11-17 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-11-10 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-11-03 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-10-27 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-10-20 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-10-13 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-10-06 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-09-29 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-09-22 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-09-15 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-09-08 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-09-01 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-08-25 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every week 📅 2024-08-18 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-17 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-16 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-15 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-14 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-13 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-12 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-11 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-10 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-09 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-08 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-07 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-06 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-05 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-04 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-03 ✅ 2025-03-24
-- [x] laundry #chores 🔁 every day 📅 2024-08-02 ✅ 2025-03-24
+- [ ] laundry #chores 🔁 every day 📅 2024-08-02
 - [x] laundry #chores 🔁 every day 📅 2024-08-01 ✅ 2025-01-10
 - [x] laundry #chores 🔁 every day 📅 2024-07-31 ✅ 2025-01-10
 - [x] laundry #chores 🔁 every day 📅 2024-07-30 ✅ 2025-01-10
