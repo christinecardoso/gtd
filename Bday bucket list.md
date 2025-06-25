@@ -8,7 +8,7 @@ Joy noodles, DM printing, palm, beach meats, Pilates, one studio, the blue door,
 Strese from Doris, Don Ramon has live music, Wattana, hai, go to the Cuban Ventana, and got Papa rellena
 
 
-- [ ] Tennis
+- [x] Tennis @completed(2025-06-25)
 - [ ] paddleboard
 - [ ] opera
 - [ ] hiking

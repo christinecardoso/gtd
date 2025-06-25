@@ -1,3 +1,39 @@
+- [x] Cowgirl hat ✅ 2025-02-13portugal blog
+- [ ] Nails
+- [x] Battery for door 📅 2025-03-04 ✅ 2025-06-23
+- [x] case for phone 📅 2025-03-04 ✅ 2025-06-23
+- [x] Recap 📅 2025-03-04 ✅ 2025-03-04
+- [x] Juice rorabeck ✅ 2025-03-04
+- [ ] Spectrum
+- [ ] proof of the pudding
+- [ ] Curly g marketing 
+- [ ] Breast lift 
+- [x] Phone case ✅ 2025-03-04
+- [ ] Face Band-Aids
+- [x] Deodorant ✅ 2025-03-04
+- [x] Face make up wipes ✅ 2025-03-04
+- [x] Recap ✅ 2025-03-04
+- [ ] P634 train 5:26pme
+- [ ] bath
+- [x] razor ✅ 2025-03-04
+- [ ] dog food holder
+- [x] case ✅ 2025-03-04
+- [ ] Process cleaning lady applications
+- [ ] Dog instagram strategy
+- [ ] Reflections instagram strategy like youn Pueblo 
+- [x] therapist @completed(2025-06-25)
+- [ ] Organize what certifications and trainings you can do for all different types of job titles, model from clutch.co Website for structure and user experience
+- [ ] Organize people who Mark themselves on YouTube or Instagram using the Workstaff app and clutch..co model e
+- [ ] Pick up cowboy boots
+- [ ] Flash sea salt
+- [x] Razor blade ✅ 2025-03-04
+- [ ] apply for job
+- [ ] Job website 
+- [ ] spurdough pretzels 
+- [ ] apy for jobs 
+- [ ] Make juice 📅 2025-02-21 
+- [x] Pickup items from storage 📅 2025-02-21 ✅ 2025-06-23
+- [x] Juice  x rorabeck / pita ✅ 2025-02-20
 - [x] JetSet email ✅ 2025-04-03
 - [x] eye appointment ✅ 2025-04-03
 - [ ] Edit video
@@ -15,7 +51,6 @@
 - [ ] Respond to doctor
 - [ ] pho
 - [ ] palm beach ideas 
-- [ ] wine country in south america
 - [ ] Focus groups
 - [ ] Restaurant checks (get paid)
 - [ ] Dress shop that you coordinate with doggy out for the day rescues (cat cafe/dog cafe )
@@ -36,7 +71,7 @@
 - [x] Follow up on refund form Oceans Dermatology 📅 2025-04-16 ✅ 2025-04-27
 - [ ] Make sure all the jobs arre in pinata
 - [ ] pay CC bill no
-- [ ] taxes
+- [x] taxes @completed(2025-06-25)
 - [ ] finish website
 - [ ] respond to lee
 - [x] print out for work on friday ✅ 2025-04-27
@@ -57,14 +92,14 @@
 - [ ] pilates course
 - [ ] house to do website (follow up with fence guy given new plan, outdoor shower, organize screenshots from insta, put priorities list together, plant plants, sliding windows research, outdoor gas bbq)
 - [x] Dads birthday ✅ 2025-02-02
-- [ ] tennis follow up 
+- [x] tennis follow up  @completed(2025-06-25)
 - [x] Dog food container ✅ 2025-04-27
 - [x] case for iPhone ✅ 2025-04-27
 - [ ] art sketches everyday 
 - [ ] norton museum of art first Fridays 
 - [ ] date nights website with bucket list activities
 - [ ] boat in the keys
-- [ ] snorkel 
+- [x] snorkel  @completed(2025-06-25)
 - [ ] follow up on boat parking/variance 
 - [ ] Volleyball
 - [ ] Jewelry making classes
@@ -86,7 +121,38 @@
 - [ ] West palm beach to do plan guide of happenings to do with friends (live music, farmers market, salsa class, etc)
 - [ ] Read the codes on the mini cooper
 - [ ] Read on the beach 
-- [ ] yoga in the yard with the podcats
+- [ ] lights for front yard tree
+- [ ] Outdoor shower
+- [ ] Running
+- [ ] drip sprinkler 
+- [ ] Website templates (Kseniia.studio) and google social media videos for them… design templates for what people search for on Etsy and on google search and on fiverr and Upwork then offer management services on a secondary brand page 
+- [ ] [[Shoot product photography]] (use examples from instagram and then shoot it like dossier perfumes)
+- [ ] Egrets with cows children story with Florida animals and birds 
+- [ ] Group salt water cleanse
+- [x] pilates JetSet membership ✅ 2025-03-24
+- [ ] pilates course
+- [ ] house to do website (follow up with fence guy given new plan, outdoor shower, organize screenshots from insta, put priorities list together, plant plants, sliding windows research, outdoor gas bbq)
+- [x] Dads birthday ✅ 2025-02-02
+- [x] tennis follow up  @completed(2025-06-25)
+- [ ] art sketches everyday 
+- [ ] norton museum of art first Fridays 
+- [ ] date nights website with bucket list activities
+- [ ] boat in the keys
+- [x] snorkel  @completed(2025-06-25)
+- [ ] follow up on boat parking/variance 
+- [ ] Volleyball
+- [ ] Jewelry making classes
+- [ ] are there any online art classes you can do?
+- [ ] Running 
+- [ ] Salsa class
+- [ ] yoga class
+- [ ] classpass
+- [ ] Photography website
+- [ ] Film all your baking and cooking
+- [ ] Make a west plan beacg website/ig like that Italian website you found 
+- [ ] West palm beach to do plan guide of happenings to do with friends (live music, farmers market, salsa class, etc)
+- [ ] Read the codes on the mini cooper
+- [ ] Read on the beach 
 - [ ] lights for front yard tree
 - [ ] Outdoor shower
 - [ ] Running

@@ -85,7 +85,7 @@ FaceTime
 
 
 - [ ] Fix obsidian
-- [ ] Bread knife
+- [ ] Bread knife #buy
 - [ ] Cake tray
 - [ ] Loaf pan 
 - [ ] whats in the vitamins that give me focus
@@ -96,7 +96,6 @@ FaceTime
 - [ ] CapCut for dog videos content 
 - [ ] Create travel content with Orestes (hotel UGC, make a plan for this that you can start)
 - [ ] E-commerce store for roots sage theme download 
-- [ ] Bread site 
 - [ ] ~~Videos~~ for lclwrk socials
 - [ ] Apple Watch app for stack timing vitamins and also for going through the workout 
 - [ ] Batteries for doors
@@ -117,7 +116,7 @@ FaceTime
 - [ ] Adrenal support 
 - [ ] chiropractor 
 - [ ] facial 
-- [ ] Charge Vespa 
+- [x] Charge Vespa  @completed(2025-06-25)
 - [ ] Trade in iPhone 
 - [ ] Skincare
 - [ ] List stuff on eBay 
@@ -125,8 +124,8 @@ FaceTime
 - [ ]  checkout Lindsey’s jobs to see if I want to cover for her
 - [ ] Pilates
 - [ ] usw classpass
-- [ ] tennis
-- [ ] take a bath 
+- [x] tennis @completed(2025-06-25)
+- [x] take a bath  @completed(2025-06-25)
 - [ ] plan kitchen 
 - [ ] Make sugar scrub
 - [ ] make dog paw balm 

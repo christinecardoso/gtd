@@ -27,7 +27,7 @@
 - [ ] workout studio and art studio in garage 📅 2024-07-03 
 - [ ] Plastic bag holder 📅 2024-07-03 
 - [ ] Cut plants around the neighborhood 📅 2024-07-02 
-- [ ] Watering can for banana peels 📅 2024-07-03 
+- [x] Watering can for banana peels 📅 2024-07-03  @completed(2025-06-25)
 - [ ] Install Dishwasher bracket 📅 2024-07-03
 - [ ] Light fixture for garage bathroom 📅 2024-07-08 
 - [ ] Barn doors for OG medicine cabinet 

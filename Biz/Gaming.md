@@ -46,9 +46,8 @@ Bread online course
 - [ ] rexord videos for social 
 - [ ] Website 
 - [ ] yoga beach
-- [ ] tennis
+- [x] tennis @completed(2025-06-25)
 - [ ] clean laundry 
-- [ ] bread
 - [ ] soup
 - [ ] Bring shirts to dry cleaner 
 - [ ] Bike

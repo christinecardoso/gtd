@@ -15,7 +15,6 @@
 - [x] Pick up cowboy boors ✅ 2025-04-02
 - [ ] apply for jobs 
 - [ ] Juice  x rorabeck / pita
-- [ ] bread website 📅 2025-04-03 
 - [ ] woedpress rhemes
 - [ ] website for Portugal blog
 - [ ] qebaite for bread
@@ -24,7 +23,7 @@
 - [x] diana ✅ 2025-04-02
 - [ ] Workoit
 - [ ] VLR
-- [ ] check oil in car 📅 2025-04-02 
+- [x] check oil in car 📅 2025-04-02  @completed(2025-06-25)
 - [x] Pickup KIt from storage x mounts ✅ 2025-04-02
 - [x] Dr app therapist eye ✅ 2025-04-02
 - [ ] Therapist appointment
@@ -41,7 +40,6 @@
 - [ ] Apply for jobs
 - [ ] Watch youtube up work channel 
 - [ ] Lululemon hem
-- [ ] Bread website
 - [ ] doctors appointments
 - [ ] returns to TJX
 - [ ] Bike
@@ -58,7 +56,7 @@
 - [ ] Am beach or bike
 - [ ] Banana smoothie for tmrw
 - [ ] Foreo bear 
-- [ ] Toothbrush head
+- [x] Toothbrush head @completed(2025-06-25)
 - [ ] Sunrise Beach or bicycle
 - [ ] Set up alerts for when it’s been 
 - [ ] eztend classpass 
@@ -94,7 +92,7 @@
 - [ ] list dog cage
 - [ ] install toilets with dad 📅 2025-02-06 
 - [ ] Hand wash
-- [ ] toothbrush head
+- [x] toothbrush head @completed(2025-06-25)
 - [ ] face cream
 - [ ] Hair colorist
 - [ ] rwturn battery to Moe 
@@ -117,31 +115,31 @@
 - [ ] New reflective collar for Bagheera 📅 2025-02-02 #buy 
 - [ ] Multivitamin for Liberty 📅 2025-02-02 #buy
 - [x] Put tasting stuff in the mini cooper ✅ 2025-02-02
-- [ ] Take mixers out of mini cooper
-- [ ] Message Ana about how to get pay stubs
-- [ ] Blog for past promotion experience like a resume do you c can apply to public label Manmar and talent direct 📅 2025-02-01 
+- [x] Take mixers out of mini cooper ✅ 2025-06-25
+- [x] Message Ana about how to get pay stubs ✅ 2025-06-25
+- [ ] Blog for past promotion experience like a resume do you c can apply to public label Manmar and talent direct 📅 2025-06-28 
 - [ ] Organize calendar 📅 2025-01-31 #computer 
-- [ ] sunpass #buy 📅 2025-01-30 
+- [x] sunpass #buy 📅 2025-01-30 ✅ 2025-06-25
 - [x] Follow up with Michele and Group about reissuing check 📅 2025-01-30 ✅ 2025-01-30 #computer 
 - [x] Pick up half and half Ana bananas #buy 📅 2025-01-29 ✅ 2025-01-30
 - [ ] Sync obsidian tasks to Apple reminders so it links to Apple Watch and iCal #computer #timemanagement 📅 2025-01-26 
 - [x] Recap #computer 📅 2025-01-25 ✅ 2025-01-30
 - [ ] receipts for piñata #computer 📅 2025-01-30 
 - [x] Add jobs to sheet #computer 📅 2025-01-30 ✅ 2025-01-30
-- [ ] Return stuff to Moe 📅 2025-02-01 #errands 
+- [x] Return stuff to Moe #errands 📅 2025-02-01 ✅ 2025-06-25
 - [x] Large yeti water bottle ✅ 2025-01-15
 - [ ] Gum or lifesavers #buy 📅 2025-01-22 
 - [ ] Eye doctor #schedule 📅 2025-01-30 
 - [x] multivitamin #buy 📅 2025-01-21 ✅ 2025-01-30
 - [ ] Walk dog #routine 
 - [ ] read the [[sheet she sent you]]
-- [ ] Do one of those skin online things to get the tretinoin or fine line thing (go to derm) 📅 2025-01-21 
+- [ ] Do one of those skin online things to get the tretinoin or fine line thing (go to derm) 📅 2025-06-29 
 - [x] Pickup prescription at Walgreens 📅 2025-01-21 ✅ 2025-01-21
 - [ ] meal prep #routine ⏫ 🔁 every week 📅 2025-02-04
 - [x] meal prep #routine ⏫ 🔁 every week 📅 2025-01-28 ✅ 2025-01-30
 - [x] meal prep #routine ⏫ 🔁 every week ➕ 2025-01-21 📅 2025-01-21 ✅ 2025-01-30
 - [ ] Perfume #buy 
-- [ ] Screen protector #buy 📅 2025-01-21 
+- [x] Screen protector #buy 📅 2025-01-21 ✅ 2025-06-25
 - [ ] Mason jar sprout growing lid #buy 
 - [ ] Silicone body scrubber #buy 
 - [ ] Face microcuresnt thing for wrinkles #buy 
@@ -151,8 +149,8 @@
 - [ ] Nails #routine 🔁 every month 📅 2025-02-20
 - [x] Nails #routine 🔁 every month 📅 2025-01-20 ✅ 2025-01-30
 - [ ] Make a list for routine tag on obsidian 📅 2025-01-19 #computer 
-- [ ] finish recap 📅 2025-01-19 
-- [ ] Pilates with Devonne 📅 2025-01-19 ⏫ 
+- [x] finish recap 📅 2025-01-19 ✅ 2025-06-25
+- [x] Pilates with Devonne ⏫ 📅 2025-01-19 ✅ 2025-06-25
 - [ ] Look up an herbalist for the specific mucus cough and look up on ChatGPT homeo remedies for this (bronchitis? ) #research #computer 
 - [ ] Dog booties 📅 2025-02-30  #buy
 - [x] put cream on B #chores 📅 2025-01-30 ✅ 2025-03-24
@@ -178,9 +176,9 @@
 - [ ] google sheets to calendar #computer 
 - [ ] oral b brush head #buy
 - [ ] asisn soup spoons #buy 
-- [ ] break pads #errands 
+- [x] break pads #errands  @completed(2025-06-25)
 - [x] car wash #errands 📅 2025-01-15 ✅ 2025-01-30
-- [ ] Workout app #computer 
+- [ ] Workout app #computer #goals 
 - [ ] obsidian Apple Watch. iOS shortcuts #computer 
 - [ ] Note with all the hashtags in order
 - [x] classpass #schedule ✅ 2025-01-30
@@ -188,7 +186,7 @@
 - [ ] headlamp for skateboarding #buy 
 - [ ] Flashlight #buy
 - [ ] Bread slicer #buy 
-- [ ] Dry cleaners 📅 2025-01-11 #errands 
+- [ ] Dry cleaners 📅 2025-07-11 #errands 
 - [ ] Spatula long for bread #buy 📅 2025-01-13 
 - [x] Honey #buy ✅ 2025-01-09
 - [x] apple cider vinegar #buy ✅ 2025-01-09
@@ -241,7 +239,6 @@
 - [ ] Dermatologist 📅 2024-12-18 
 - [x] Incense holder #buy 📅 2024-12-18 ✅ 2025-01-21
 - [x] Dryer sheets #buy 📅 2024-12-18 ✅ 2025-01-03
-- [ ] Chiro 📅 2024-12-18 
 - [ ] Parking tickets 📅 2024-12-23 
 - [x] refrigeratoe filter 📅 2024-12-18 ✅ 2025-01-03
 - [ ] Salsa class #solofun 
@@ -286,7 +283,7 @@
 - [ ] Job applications
 - [ ] check bookings
 - [ ] Work on portfolio website 
-- [ ] Tennis
+- [x] Tennis @completed(2025-06-25)
 - [ ] paychex for brand activate 
 - creste UGC and social content
 - Flower cut garden seeds
@@ -322,7 +319,7 @@ Honeycomb dividers
 - [ ] classpass checkout sculpt pricing
 - [ ] Price match apple headphones ($153 at target)
 - [ ] bread flour sifter #buy
-- [ ] Bread baking dish 
+- [ ] Bread baking dish #buy
 - [ ] Fix the bicycle 📅 2024-12-20 
 - [x] Apple Watch #buy ✅ 2025-01-09
 - [x] Liquid IV #buy ✅ 2025-01-21
@@ -367,7 +364,7 @@ Shaka Wear
 - [x] Recap 📅 2024-11-21 ✅ 2024-11-25
 - [x] respond to Cantera Negra guy 📅 2024-11-21 ✅ 2024-11-24
 - [x] Matcha #buy ✅ 2024-11-25
-- [ ] car wash 📅 2024-12-25
+- [x] car wash 📅 2024-12-25 @completed(2025-06-25)
 - [x] insurance 📅 2024-11-25 ✅ 2024-12-19
 - [x] sign up for Thursday JetSet Pilates ✅ 2024-12-19
 - [x] resume for pilates 📅 2024-11-25 ✅ 2024-12-19
@@ -711,7 +708,7 @@ Career & Opportunities
 - [x] Plant the plants with roots ✅ 2024-07-09
 - [x] Fill out bliss paperwork 📅 2024-07-16 ✅ 2024-07-25
 - [ ] propogate plants from the hood #outside  📅 2024-07-16 
-- [ ] Apple Watch 📅 2024-09-16 
+- [x] Apple Watch 📅 2024-09-16  @completed(2025-06-24)
 - [x] Herb garden companion planting #computer #outside  📅 2024-07-09 ✅ 2024-08-02T14:15
 - [x] Hedge trimmer #buy #homedepot ✅ 2025-01-21
 - [x] Mango cake ✅ 2024-07-15

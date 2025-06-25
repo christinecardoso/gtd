@@ -43,7 +43,7 @@ Gray whale and Prosecco go really well together
 - [ ] bolinhos de Jeremiu 
 - [ ] christmas Snowflake cookies 
 - [ ] Salad
-- [ ] charcuterie plate
+- [x] charcuterie plate @completed(2025-06-25)
 - [x] Clear buffet table for snacks   [completion:: 2025-04-02T18:30]
 
 - [ ] mussels Thai style

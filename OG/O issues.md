@@ -8,7 +8,7 @@ N Ocean Breeze and 3rd (desottos sand castle)
 
 - [x] gyno appointment 📅 2024-11-20 ✅ 2024-11-25
 - [x] Cupping #buy ✅ 2025-01-09
-- [ ] Skincare #buy 
+- [ ] Skincare #buy 📅 2025-06-25 
 - [ ] Vitamins #buy 
 - [ ] eye dr appointment 
 - [ ] mattress #buy 
@@ -51,7 +51,7 @@ N Ocean Breeze and 3rd (desottos sand castle)
 - [ ] Christmas tree 
 - [ ] order Christmas decorations, when is the palmway parade thing? 📅 2024-11-06
 - [ ] Chiro 
-- [ ] Change obgyn appointment
+- [x] Change obgyn appointment @completed(2025-06-25)
 - [ ] Vision
 - [ ] Gas in mini cooper 📅 2024-11-05 
 - [ ] buy 📅 2024-11-10 
@@ -78,7 +78,7 @@ N Ocean Breeze and 3rd (desottos sand castle)
 - [ ] Make intro video for InCast marketing 📅 2024-11-12
 - [ ] White sneaker cleaner #amazon #buy 
 - [ ] Airpods
-- [ ] car wash
+- [x] car wash @completed(2025-06-25)
 - [ ] rattan chairs
 - [ ] orchid show
 - [x] buy mounts botanical memberships ✅ 2024-11-06
@@ -87,7 +87,7 @@ N Ocean Breeze and 3rd (desottos sand castle)
 - [ ] sign up to be foster
 - [ ] art for the baseball card OG
 - [ ] make OG fan shirt
-- [ ] Cat liter
+- [x] Cat liter @completed(2025-06-25)
 
 ## Staffing Agencies for events
 Incast (3points)

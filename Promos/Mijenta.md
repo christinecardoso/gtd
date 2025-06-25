@@ -78,7 +78,7 @@ Packing List
 - [ ] Toothbrush
 - [ ] Hat or baseball cap
 - [ ] Portable laundry machine
-- [ ] chapstick
+- [x] chapstick @completed(2025-06-25)
 - [ ] wet wipes
 - [ ] floss / waterpik 
 - [ ] deoderant

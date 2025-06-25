@@ -66,12 +66,12 @@
 - [ ] Flower seeds
 - [ ] NAills
 - [ ] nuface
-- [ ] car wash
+- [x] car wash @completed(2025-06-25)
 - [ ] yoga
 - [ ] winn dixie
 - [ ] lawn ideas
 - [ ] order trellis go
-- [ ] Car wash
+- [x] Car wash @completed(2025-06-25)
 - [ ] homemafe dog food
 - [ ]  Nails
 - [ ] bomemade dog food 
@@ -81,9 +81,9 @@
 - [ ] Nails
 - [ ] rorabeck
 - [ ] docotirs
-- [ ] breaks in car
+- [x] breaks in car @completed(2025-06-25)
 - [ ] plant plants
-- [ ] change outlets
+- [ ] change outlets #house #chores 
 - [ ] plan kitchen diy 
 - [ ] Gerd diet plan (quinoa)
 - [ ] Instacart
@@ -93,7 +93,7 @@
 - [ ] fix bike
 - [ ] bike for Orestes 
 - [ ] Fix tine bike tire
-- [ ] caulk around sink
+- [ ] caulk around sink #house #chores 
 - [ ] doctors appontments
 - [ ] reviews blood test status 
 - [ ] Pay bills
