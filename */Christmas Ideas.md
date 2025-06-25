@@ -44,7 +44,7 @@ Gray whale and Prosecco go really well together
 - [ ] christmas Snowflake cookies 
 - [ ] Salad
 - [ ] charcuterie plate
-- [ ] Clear buffet table for snacks
+- [x] Clear buffet table for snacks   [completion:: 2025-04-02T18:30]
 
 - [ ] mussels Thai style
 - [ ] fish pot
@@ -52,7 +52,7 @@ Gray whale and Prosecco go really well together
 - [ ] appetizers
 - [ ] Linguine 
 - [ ] Salad
-- [ ] pancetta (enough 3x)
+- [x] pancetta (enough 3x)   [completion:: 2025-04-02T18:30]
 - [ ] Olive oil
 - [ ] coke
 ## Activities
