@@ -558,7 +558,7 @@ Career & Opportunities
 - [ ] Peanut island video ideas #computer #ugc
 - [x] Fill out FaceTime paperwork #computer 📅 2024-07-31 ✅ 2024-08-02
 - [x] Tanteo quiz #computer 📅 2024-08-02 ✅ 2024-08-02
-- [ ] Reschedule Mijenta tasting and text Gaby regarding Aug 9 date change #phone  ⏳ 2024-08-03 
+- [x] Reschedule Mijenta tasting and text Gaby regarding Aug 9 date change #phone  ⏳ 2024-08-03 ✅ 2025-06-25
 - [x] Interview with Tanteo at 7pm 📅 2024-07-30 ✅ 2024-08-02
 - [ ] Facial ice roller 📅 2024-07-30 #buy 
 - [ ] facial massager 📅 2024-07-30 #buy

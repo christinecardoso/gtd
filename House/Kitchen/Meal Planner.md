@@ -37,6 +37,7 @@
 - [ ] Japchae 📅 2025-01-21
 - [ ] Make bread #mealprep 🔁 every week on Monday 📅 2025-02-03 
 - [x] Red pepper jelly ✅ 2024-06-15
+- [ ] Sourdough 📅 2025-06-25 
 ### Dinner
 - [ ] [[Sausage Pasta with Sun-Dried Tomatoes, Summer Squash, and Zucchini]] 📅 2025-01-30 #dinner 
 ### Dessert

@@ -92,7 +92,8 @@ FaceTime
 - [ ] b12 shot
 - [ ] more smoorhies
 - [ ] make the websites for house projects, date ideas, etc
-- [ ] Cigar smoking clown x golf line (funny man sports )
+- [ ] Cigar smoking clown x golf line (funny man sports ) #computer 📅 2025-06-25 
+- [ ] pocket beach tshirt 📅 2025-06-25 
 - [ ] CapCut for dog videos content 
 - [ ] Create travel content with Orestes (hotel UGC, make a plan for this that you can start)
 - [ ] E-commerce store for roots sage theme download 
