@@ -101,6 +101,7 @@ These services would be **additional costs** because they require extra work and
 ---
 Sure! Here's an **estimated time allocation per month** based on all of the services included in the $2,000/month budget, along with the **out-of-scope services** added separately for additional tasks.
 
+https://chatgpt.com/c/67e491bc-30ac-800a-93a8-e096c2517973
 ### **Estimated Time Allocation per Month (Included Services)**
 
 |**Service**|**Estimated Time per Month**|**Notes**|
@@ -118,13 +119,14 @@ Sure! Here's an **estimated time allocation per month** based on all of the serv
 
 ### **Estimated Time Allocation for Out-of-Scope Services**
 
-|**Service**|**Estimated Time per Month**|**Notes**|
-|---|---|---|
-|**Performance Tracking & Reporting**|4-6 hours|Analytics, data collection, and reporting.|
-|**Paid Promotion (Campaign Management)**|6-8 hours|Ad management, optimization, reporting.|
-|**Content Scheduling & Publishing**|4-6 hours|Scheduling posts and monitoring live posts.|
-|**Additional Meetings**|1-2 hours (depending on frequency)|Additional strategy sessions or content reviews.|
-|**Additional Revisions**|2-4 hours|Major revisions beyond the initial round of feedback.|
+| **Service**                              | **Estimated Time per Month**       | **Notes**                                             |
+| ---------------------------------------- | ---------------------------------- | ----------------------------------------------------- |
+| **Performance Tracking & Reporting**     | 4-6 hours                          | Analytics, data collection, and reporting.            |
+| **Paid Promotion (Campaign Management)** | 6-8 hours                          | Ad management, optimization, reporting.               |
+| **Content Scheduling & Publishing**      | 4-6 hours                          | Scheduling posts and monitoring live posts.           |
+| **Additional Meetings**                  | 1-2 hours (depending on frequency) | Additional strategy sessions or content reviews.      |
+| **Additional Revisions**                 | 2-4 hours                          | Major revisions beyond the initial round of feedback. |
+|                                          |                                    |                                                       |
 
 ### **Total Estimated Time for Out-of-Scope Services**: **17-26 hours/month** (depending on tasks and frequency)
 

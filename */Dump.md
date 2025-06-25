@@ -11,29 +11,33 @@
 - [x] Tomatoes ✅ 2024-12-01
 - [x] Xmas tree ✅ 2024-12-1
 - [x] Cowgirl hat ✅ 2025-02-13
-- [ ] Process cleaning lady applications
-- [ ] Pick up cowboy boors
-- [ ] apy for jobs 
+- [ ] Process cleaning lady applications 📅 2025-04-03 
+- [x] Pick up cowboy boors ✅ 2025-04-02
+- [ ] apply for jobs 
 - [ ] Juice  x rorabeck / pita
-- [ ] bread website
+- [ ] bread website 📅 2025-04-03 
 - [ ] woedpress rhemes
 - [ ] website for Portugal blog
 - [ ] qebaite for bread
-- [ ] digital person website
+- [ ] digital person website 📅 2025-04-03 
 - [ ] follow up on leads
-- [ ] diana 
+- [x] diana ✅ 2025-04-02
 - [ ] Workoit
 - [ ] VLR
-- [ ] Pickup KIt from storage x mounts 
-- [ ] Dr app therapist eye
-- [ ] 
-- [ ] Doctors appointments
+- [ ] check oil in car 📅 2025-04-02 
+- [x] Pickup KIt from storage x mounts ✅ 2025-04-02
+- [x] Dr app therapist eye ✅ 2025-04-02
+- [ ] Therapist appointment
+- [ ] Primary care dr appointments due 📅 2025-04-03 
 - [ ] Sit in hammock and read
 - [ ] Car gadget to fox
 - [ ] call BMW to see if you get preapproved 
 - [ ] Clean
 - [ ] read, beach, or paddleboard??!
-- [ ] Best theme websites
+- [ ] Best theme websites 📅 2025-04-03 
+- [ ] screenshot websites 📅 2025-04-03 
+- [ ] pay Citibank card 📅 2025-04-03 
+- [ ] pay student loans 📅 2025-04-03 
 - [ ] Apply for jobs
 - [ ] Watch youtube up work channel 
 - [ ] Lululemon hem
@@ -42,7 +46,7 @@
 - [ ] returns to TJX
 - [ ] Bike
 - [ ] Read then return library book
-- [ ] pay CC with cash by today 📅 2025-02-10 
+- [x] pay CC with cash by today 📅 2025-02-10 ✅ 2025-04-02
 - [ ] Horse sense (YouTube) filming on stream yard simulcast hosting for Churchill downs 
 - [ ] Josh Burns Tech (topmate )
 - [ ] Portugal podcast about what to do

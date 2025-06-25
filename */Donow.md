@@ -1,3 +1,4 @@
+
 - [ ] Group salt water cleanse
 - [x] pilates JetSet membership ✅ 2025-03-24
 - [ ] pilates course

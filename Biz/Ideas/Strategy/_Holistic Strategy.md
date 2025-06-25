@@ -1,0 +1,5 @@
+- Newsletter for **topic**
+- Link in bio to tools your recommending and affiliate links
+- Content
+	- Videos
+		- Short form videos with reviews of affiliate tools in your industry or realm

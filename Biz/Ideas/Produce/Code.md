@@ -1,0 +1,4 @@
+- Newsletter landing pages like: 
+	- https://www.beehiiv.com/
+	- https://adamstewartmarketing.beehiiv.com/subscribe
+- VideoAsk intro for [portfolio website]
