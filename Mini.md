@@ -1,4 +1,16 @@
 
+- locks unlocking and unlocking automatically
+- Trunk unlocking and locking automatically 
+- Windows not going up or down
+- Locking and unlocking car with remote still works 
+- Car won’t start 
+- brake fluid cap for the master cylinder was left on the side, they slammed the hood on it and they bent the cap.  The master was left open. Had to resqueeze it to rescrew back on.
+- None of the buttons in the front work (window, lock, beams etc)
+- Car is magically locking and unlocking 
+
+Mannymac22
+
+
 Mini Cooper A/C Compressor - Genuine Mini 64522758433 | FCP Euro
 https://www.fcpeuro.com/Mini-parts/Cooper/AC-Compressor/?year=2010&m=20&e=2153&t=5&b=8&d=830&v=
 

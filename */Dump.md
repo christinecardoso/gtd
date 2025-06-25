@@ -12,8 +12,8 @@
 - [x] Xmas tree ✅ 2024-12-1
 - [x] Cowgirl hat ✅ 2025-02-13portugal blog
 - [ ] Nails
-- [ ] Battery for door 📅 2025-03-04 
-- [ ] case for phone 📅 2025-03-04 
+- [x] Battery for door 📅 2025-03-04 ✅ 2025-06-23
+- [x] case for phone 📅 2025-03-04 ✅ 2025-06-23
 - [x] Recap 📅 2025-03-04 ✅ 2025-03-04
 - [x] Juice rorabeck ✅ 2025-03-04
 - [ ] Spectrum
@@ -44,7 +44,7 @@
 - [ ] spurdough pretzels 
 - [ ] apy for jobs 
 - [ ] Make juice 📅 2025-02-21 
-- [ ] Pickup items from storage 📅 2025-02-21 
+- [x] Pickup items from storage 📅 2025-02-21 ✅ 2025-06-23
 - [x] Juice  x rorabeck / pita ✅ 2025-02-20
 - [ ] bread website
 - [ ] woedpress rhemes
@@ -73,7 +73,7 @@
 - [ ] returns to TJX
 - [ ] Bike
 - [ ] Read then return library book
-- [ ] pay CC with cash by today 📅 2025-02-10 
+- [x] pay CC with cash by today 📅 2025-02-10 ✅ 2025-06-23
 - [ ] Horse sense (YouTube) filming on stream yard simulcast hosting for Churchill downs 
 - [ ] Josh Burns Tech (topmate )
 - [ ] Portugal podcast about what to do
@@ -102,7 +102,7 @@
 - [ ] Figure out how to do food UGC
 - [ ] Casual dresses you can throw on around the house
 - [ ] Google Thermostat install with dad 📅 2025-02-10 
-- [ ] Pickup Tito’s kit for Sunday 📅 2025-02-04 
+- [x] Pickup Tito’s kit for Sunday 📅 2025-02-04 ✅ 2025-06-23
 - [ ] Pantry cabinet
 - [ ] Move the rocks from the flower beds
 - [ ] plant the herbs 
@@ -175,7 +175,12 @@
 - [ ] Dark spot blemish patches #buy 
 - [ ] Blemish patches #buy
 - [ ] Epsom salt foot bath for LB 📅 2025-01-21 #chores 
-- [ ] Nails #routine 🔁 every month 📅 2025-02-20
+- [ ] Nails #routine 🔁 every month 📅 2025-07-20
+- [x] Nails #routine 🔁 every month 📅 2025-06-20 ✅ 2025-06-23
+- [x] Nails #routine 🔁 every month 📅 2025-05-20 ✅ 2025-06-23
+- [x] Nails #routine 🔁 every month 📅 2025-04-20 ✅ 2025-06-23
+- [x] Nails #routine 🔁 every month 📅 2025-03-20 ✅ 2025-06-23
+- [x] Nails #routine 🔁 every month 📅 2025-02-20 ✅ 2025-06-23
 - [x] Nails #routine 🔁 every month 📅 2025-01-20 ✅ 2025-01-30
 - [ ] Make a list for routine tag on obsidian 📅 2025-01-19 #computer 
 - [ ] finish recap 📅 2025-01-19 
@@ -650,7 +655,12 @@ Career & Opportunities
 - [ ] How to clean stains from Dutch oven #computer 📅 2024-07-29 
 - [ ] Trim hedges on Keisha side [[Orestes]] #gardening 📅 2024-11-20
 - [x] Bring bike to get tuneup #errands 🛫 2024-11-05 ✅ 2025-01-10
-- [ ] Clean oven #chores 🔁 every month 📅 2025-02-05
+- [ ] Clean oven #chores 🔁 every month 📅 2025-07-05
+- [x] Clean oven #chores 🔁 every month 📅 2025-06-05 ✅ 2025-06-23
+- [x] Clean oven #chores 🔁 every month 📅 2025-05-05 ✅ 2025-06-23
+- [x] Clean oven #chores 🔁 every month 📅 2025-04-05 ✅ 2025-06-23
+- [x] Clean oven #chores 🔁 every month 📅 2025-03-05 ✅ 2025-06-23
+- [x] Clean oven #chores 🔁 every month 📅 2025-02-05 ✅ 2025-06-23
 - [x] Clean oven #chores 🔁 every month 📅 2025-01-05 ✅ 2025-01-10
 - [x] Clean oven #chores 🔁 every month 📅 2024-12-05 ✅ 2025-01-10
 - [x] Clean oven #chores 🔁 every month 📅 2024-11-05 ✅ 2025-01-10

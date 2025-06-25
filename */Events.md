@@ -1,2 +1,2 @@
 - [ ] Tech talk Thursday at boynton library 📅 2024-11-14 ://bbflpl.libcal.com/event/13337331
-- [ ] Plant sale at Mount Botanical Garden https://www.mounts.org/event/plant-a-palooza-winter-plant-sale-rain-or-shine/2025-02-08/ 📅 2025-04-28  #solofun 
+- [x] Plant sale at Mount Botanical Garden https://www.mounts.org/event/plant-a-palooza-winter-plant-sale-rain-or-shine/2025-02-08/ #solofun 📅 2025-04-28 ✅ 2025-06-23

@@ -1,4 +1,17 @@
-- [ ] wash the sheets #chores 🔁 every week on Sunday 📅 2025-03-30
+- [ ] wash the sheets #chores 🔁 every week on Sunday 📅 2025-06-29
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-06-22 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-06-15 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-06-08 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-06-01 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-05-25 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-05-18 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-05-11 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-05-04 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-04-27 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-04-20 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-04-13 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-04-06 ✅ 2025-06-23
+- [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-03-30 ✅ 2025-06-23
 - [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-03-23 ✅ 2025-03-24
 - [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-03-16 ✅ 2025-03-24
 - [x] wash the sheets #chores 🔁 every week on Sunday 📅 2025-03-09 ✅ 2025-03-24

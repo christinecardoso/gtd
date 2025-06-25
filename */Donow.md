@@ -1,23 +1,66 @@
-- [ ] JetSet email
-- [ ] eye appointment
-- [ ] Edite video
+- [x] JetSet email ✅ 2025-04-03
+- [x] eye appointment ✅ 2025-04-03
+- [ ] Edit video
+- [ ] Pa arnp
+- [ ] Pickleball racket
+- [ ] Art website crawl
+- [ ] newaletter for social media strategy
+- [ ] Recap
+- [x] Devils reserve training 📅 2025-04-29 ✅ 2025-06-23
+- [ ] piercung 
+- [ ] Rorabeck
+- [ ] Workout
+- [ ] Lost the box at total wine (box 1/2) only was found. Just started the event with product while they looked for it.
+- [ ] bdach
+- [ ] Respond to doctor
+- [ ] pho
+- [ ] palm beach ideas 
+- [ ] wine country in south america
+- [ ] Focus groups
+- [ ] Restaurant checks (get paid)
+- [ ] Dress shop that you coordinate with doggy out for the day rescues (cat cafe/dog cafe )
+- [ ] ear piercing with Lindsey 
+- [ ] Craft night
+- [ ] Boat
+- [ ] Closer look for secret shop
+- [ ] Juno beach  clean up 
+- [ ] New running shkes
+- [ ] shein 
+- [ ] Put black shower curtain up 📅 2025-04-27 
+- [ ] Look over cleaning ladies 📅 2025-04-27 
+- [ ] DIY sugar scrub 📅 2025-04-28 
+- [ ] Chiropractors 📅 2025-04-28 
+- [ ] Date ideas
+- [ ] order contacts 📅 2025-04-28 
+- [x] Call the eye doctor (did you leave the contacts there?) ✅ 2025-04-27
+- [x] Follow up on refund form Oceans Dermatology 📅 2025-04-16 ✅ 2025-04-27
+- [ ] Make sure all the jobs arre in pinata
+- [ ] pay CC bill no
+- [ ] taxes
+- [ ] finish website
+- [ ] respond to lee
+- [x] print out for work on friday ✅ 2025-04-27
+- [ ] Apply for more jobs
+- [ ] Create video
+- [ ] record overlays for liquor videos
+- [ ] Record script for some work blogging stuff
+- [ ] student loans
 - [ ] Papo seco
 - [ ] Check mini oil, read codes, 
 - [ ] portfolio site
 - [ ] alchie vids
 - [ ] scrrenshot vids
-- [ ] respobse to lee
+- [x] respobse to lee ✅ 2025-04-27
 - [ ] Screenshot site
 - [ ] bread blog
-- [ ] 
 - [ ] Group salt water cleanse
 - [ ] pilates JetSet membership 
 - [ ] pilates course
 - [ ] house to do website (follow up with fence guy given new plan, outdoor shower, organize screenshots from insta, put priorities list together, plant plants, sliding windows research, outdoor gas bbq)
 - [x] Dads birthday ✅ 2025-02-02
 - [ ] tennis follow up 
-- [ ] Dog food container
-- [ ] case for iPhone 
+- [x] Dog food container ✅ 2025-04-27
+- [x] case for iPhone ✅ 2025-04-27
 - [ ] art sketches everyday 
 - [ ] norton museum of art first Fridays 
 - [ ] date nights website with bucket list activities
