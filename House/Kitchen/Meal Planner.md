@@ -4,10 +4,24 @@
 - [ ] Shrimp, Beets, Basil aioli, Tomatoes, Burrata #dinner 📅 2024-08-03 
 - [ ] Quiche dough #mealprep 🆔 teqj8w ⏳2024-08-05
 - [ ] Make something with chipotle ⏳ 2024-08-07 
+- [ ] Rustic loaves
+- [ ] Sandwich spread
+- [ ] sandwich buns
+- [ ] mayonaise
+- [ ] olice oil 
+- [ ] cold chrs
+- [ ] Chips (plantains)
+- [ ] Baguettes
+- [ ] flavored sausage
+- [ ] lettuce
+- [ ] Cake 
+- [ ] Soda
 - [ ] [[Pho soup]] ⏳2024-08-06 
 - [ ] Stuffed bread⏳2024-08-07 
 - [ ] something with chili piquin
 - [ ] [[Chili Piquín Grilled Fish]]
+- [ ] Spinach and artichoke pizza 📅 2025-07-03 https://www.occasionallyeggs.com/spinach-artichoke-pizza/
+- [ ] Cold cuts for breakfast sandwiches
 - [ ] [[BBQ Ground Pork]]
 - [ ] [[Pork and Eggplant in Garlic Sauce]]
 - [ ] Meatloaf 📅 2024-08-10 
@@ -30,6 +44,8 @@
 - [ ] meatballs  📅 2025-01-21 
 - [ ] chicken broth #mealprep 📅 2025-02-03 🔁 every week on Monday 
 - [ ] Lentil soup 📅 2025-01-21 
+- [ ] Mediterranean chickpeas 📅 2025-07-03 https://www.101cookbooks.com/chickpea-salad-sandwich/
+- [ ] samosas 📅 2025-07-03 https://www.occasionallyeggs.com/curry-potato-pea-pasties-samosa-pasties/
 - [ ] rice 📅 2025-01-21 
 - [ ] orzo 📅 2025-01-21 
 - [ ] sausages 📅 2025-01-21 

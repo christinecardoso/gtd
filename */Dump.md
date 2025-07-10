@@ -11,9 +11,36 @@
 - [x] Tomatoes ✅ 2024-12-01
 - [x] Xmas tree ✅ 2024-12-1
 - [x] Cowgirl hat ✅ 2025-02-13
+- [x] Sprouting seeds ✅ 2025-07-02
+- [ ] Roraveck
+- [ ] clean bathroom
+- [ ] order instacart
+- [ ] half and half
+- [ ] Laundry
+- [ ] bed sheets
+- [ ] Lounge chair cushion from Home Depot 
+- [ ] Candles
+- [ ] light incense before bed
+- [ ] Go get the garden tools 📅 2025-06-27 
 - [ ] Process cleaning lady applications 📅 2025-04-03 
+- [ ] Glass blowing class
+- [ ] Brommwrs soap from whole foods
+- [ ] wet wipes
+- [ ] Pasta roller
+- [ ]  Herbs de Provence from scratch
+- [ ] what to plant around basil
+- [ ] whqt other flowers to make arrangements to plant
+- [ ] Osmosis skincare
+- [ ] Dyson attachments for hair #buy 
+- [ ] Dyson cordless vaccum
+- [ ] What to do with javkcruit 
+- [ ] Laundry 📅 2025-06-25 
+- [ ] clean closet 📅 2025-06-25 
 - [x] Pick up cowboy boors ✅ 2025-04-02
 - [ ] apply for jobs 
+- [ ] Jackfruit 📅 2025-06-27 
+- [ ] Resume 📅 2025-06-27 
+- [ ] recap 📅 2025-06-26 
 - [ ] Juice  x rorabeck / pita
 - [ ] woedpress rhemes
 - [ ] website for Portugal blog
@@ -779,3 +806,4 @@ Career & Opportunities
 - [x] Recap 📅 2024-07-16 ✅ 2024-07-23
 - [ ] Look into Salsa classes #computer #solofun 📅 2024-07-16 
 - [x] fix mini cooper #chores #computer 📅 2024-07-28 ✅ 2024-09-04
+- [ ] Liberty scrap metal on 25th

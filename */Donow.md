@@ -2,14 +2,37 @@
 - [x] eye appointment ✅ 2025-04-03
 - [ ] Edit video
 - [ ] Pa arnp
+- [ ] Training brand activate
+- [ ] pay chase card
+- [ ] IRS
+- [x] Resume ✅ 2025-07-10
+- [ ] Nails
+- [ ] Dentist
+- [ ] Classpass
+- [ ] Print out checks from TPC
+- [x] Pay the parking ticket ✅ 2025-07-10
+- [ ] File taxes (missed tax deadline)
+- [ ] Shein
+- [ ] Mini cooper
 - [ ] Pickleball racket
 - [ ] Art website crawl
 - [ ] newaletter for social media strategy
 - [ ] Recap
 - [x] Devils reserve training 📅 2025-04-29 ✅ 2025-06-23
 - [ ] piercung 
+- [ ] Candles
+- [x] Pick up Tito’ 🛫 2025-07-03 ✅ 2025-07-10
+- [ ] Weatherstripping
+- [ ] Olive oil
 - [ ] Rorabeck
 - [ ] Workout
+- [ ] Parking ticket
+- [ ] resume and site
+- [ ] olive oil
+- [ ] Weatherstrip
+- [ ] Clip Bagheera’s nails
+- [ ] fill bug holes in bathroom 
+- [ ] roach killer
 - [ ] Lost the box at total wine (box 1/2) only was found. Just started the event with product while they looked for it.
 - [ ] bdach
 - [ ] Respond to doctor
