@@ -8,7 +8,13 @@
 - [x] Resume ✅ 2025-07-10
 - [ ] Nails
 - [ ] Dentist
+- [ ] Blonde hair
+- [ ] Bed frame
+- [ ] Toilet paper holder for garage
+- [ ] light for garage
 - [ ] Classpass
+- [ ] Return stuff to UPS
+- [ ] Printer
 - [ ] Print out checks from TPC
 - [x] Pay the parking ticket ✅ 2025-07-10
 - [ ] File taxes (missed tax deadline)
