@@ -5,9 +5,15 @@
 - [ ] Training brand activate
 - [ ] pay chase card
 - [ ] IRS
+- [ ] Home Depot sprinkler head
 - [x] Resume ✅ 2025-07-10
 - [ ] Nails
 - [ ] Dentist
+- [ ] Birthday party ideas blog, can sell bday products and setups, bday crawl ideas and setups in different cities at different budgets (boat rentals etc), party helpers (brand ambassador staffing essentially)
+- [ ] Healthy ingredients website and YouTube/insta videos
+- [ ] how else can we do YouTube channel education videos leveraging chgpt
+- [ ] Market g for LCLwork insta 
+- [ ] canvas for bedframe
 - [ ] Blonde hair
 - [ ] Bed frame
 - [ ] Toilet paper holder for garage
