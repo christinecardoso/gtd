@@ -8,7 +8,10 @@
 - [ ] Home Depot sprinkler head
 - [x] Resume ✅ 2025-07-10
 - [ ] Nails
+- [ ] Clean under the other bed
+- [ ] dind the mini cooper title 
 - [ ] Dentist
+- [ ] Whole house water filter
 - [ ] Birthday party ideas blog, can sell bday products and setups, bday crawl ideas and setups in different cities at different budgets (boat rentals etc), party helpers (brand ambassador staffing essentially)
 - [ ] Healthy ingredients website and YouTube/insta videos
 - [ ] how else can we do YouTube channel education videos leveraging chgpt
