@@ -1,3 +1,9 @@
+- dog foster promotion instagram accounts
+- talk about why its good community services
+- its good netowrking to meet people when you meet up for dog day events and go to the dog park
+- volunteer opportunities
+- bring dogs to nursing homes?
+
 Integrating a commitment-based model for fostering and funding into your dog rescue hub can significantly enhance the effectiveness of rescues and improve outcomes for shelter dogs. Here’s how to conceptualize and implement this idea:
 
   
